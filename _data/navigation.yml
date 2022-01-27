@@ -6,11 +6,11 @@ links:
   - title: Join Us
     url: /permalink
     sublinks: []
+  - title: About Us
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Collection
-    collection: example-collection
   - title: Newsroom
     resource_room: true
