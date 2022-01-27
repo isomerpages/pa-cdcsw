@@ -13,15 +13,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: CDC Voucher
+          description: $100 in CDC Vouchers
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: SWIF+
+          description: South West Innovation Fund Plus
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: GRIT FUND
+          description: Graduate Relief & Individual Training Fund
           url: /privacy/
+        - title: CDC COVID-19 Relief Fund
+          description: Nee Ann Kongsi (NAK) - CDC COVID-19 Relief Fund
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -33,5 +36,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
-
