@@ -27,7 +27,7 @@ sections:
         us to create our home, a G.R.E.A.T South West District."'
       button: READ ON
       alt: Image alt text
-      url: /a-word-from-yen-ling
+      url: /a-word-from-yenling
       image: /images/yenling.png
   - resources:
       title: Media
