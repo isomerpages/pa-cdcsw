@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - About the CDC/Vision.md
       - About the CDC/South West CDC Organisation Chart.md
       - About the CDC/About South West CDC.md
       - About the CDC/About South West District.md
