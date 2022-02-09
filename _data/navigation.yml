@@ -12,3 +12,14 @@ links:
     collection: stories
   - title: Highlights
     collection: highlights
+  - title: NEWSROOM
+    url: /resource
+    sublinks:
+      - title: Media Releases
+        url: /resource
+      - title: E Bridge
+        url: /e-bridge
+      - title: Gallery
+        url: /gallery
+      - title: Annoucements
+        url: /annoucements
