@@ -33,4 +33,9 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      description: Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West
+      button: More Highlights
+      url: /highlights
+      alt: Image alt text
 ---
