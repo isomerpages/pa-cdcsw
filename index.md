@@ -29,13 +29,14 @@ sections:
       alt: Image alt text
       url: /about-us/a-word-from-yenling
       image: /images/yenling.png
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       description: Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West
       button: More Highlights
       url: /highlights
       alt: Image alt text
+      image: /images/share-your-book-at-south-west.jpg
+  - resources:
+      title: Media
+      subtitle: Learn more
+      button: View More
 ---
