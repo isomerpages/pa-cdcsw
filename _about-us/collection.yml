@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Eco Office.md
       - Awards & Accolades.md
       - CDC Report.md
       - A Word From Yen Ling.md
