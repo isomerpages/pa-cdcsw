@@ -39,4 +39,10 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      description: Sandria’s Journey In Finding A Full-Time Job
+      button: More Stories
+      url: /stories
+      image: /images/sandria-2.jpg
+      alt: Image alt text
 ---
