@@ -24,7 +24,7 @@ sections:
           url: ""
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
-        us to create our home, **a G.R.E.A.T South West District."'
+        us to create our home, **a G.R.E.A.T South West District**."'
       button: READ ON
       alt: Image alt text
       url: /a-word-from-yen-ling
