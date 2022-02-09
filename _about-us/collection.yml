@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - About the CDC/.keep
-      - About the CDC/Mission.md
-      - About the CDC/Vision.md
-      - About the CDC/South West CDC Organisation Chart.md
-      - About the CDC/About South West CDC.md
       - About the CDC/About South West District.md
+      - About the CDC/About South West CDC.md
+      - About the CDC/South West CDC Organisation Chart.md
+      - About the CDC/Vision.md
+      - About the CDC/Mission.md
       - A Word From Yen Ling.md
       - CDC Report.md
       - Awards & Accolades.md
