@@ -33,9 +33,10 @@ sections:
       subtitle: Learn more
       button: View More
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: '"It takes many helping hands approach and we welcome you to join
+        us to create our home, **a G.R.E.A.T South West District."'
+      button: READ ON
       alt: Image alt text
+      url: /a-word-from-yen-ling
+      image: /images/yenling.png
 ---
