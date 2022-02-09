@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Awards & Accolades.md
       - CDC Report.md
       - A Word From Yen Ling.md
       - About the CDC/Mission.md
