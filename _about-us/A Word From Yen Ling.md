@@ -3,6 +3,7 @@ title: A Word From Yen Ling
 permalink: /about-us/a-word-from-yenling
 description: ""
 ---
+![Alt text for image on Isomer site](/images/kk_050118_048-3k.jpg)
 Dear residents,
 
 Greetings from the South West District!
@@ -14,4 +15,4 @@ At the CDC, we champion the culture of giving back, providing platforms for indi
 It takes a many helping hands approach and we welcome you to join us to create our home, a G.R.E.A.T South West District!
  
 **MS LOW YEN LING**<br>
-Mayor of South West District 
+Mayor of South West District
