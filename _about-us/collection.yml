@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - A Word From Yen Ling.md
       - About the CDC/Mission.md
       - About the CDC/Vision.md
       - About the CDC/South West CDC Organisation Chart.md
