@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Announcements.md
       - Gallery.md
       - E BRIDGE.md
       - Media Releases.md
