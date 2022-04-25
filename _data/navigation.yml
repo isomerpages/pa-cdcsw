@@ -6,9 +6,11 @@ links:
     collection: what-we-do
   - title: Join Us
     collection: join-us
-  - title: Newsroom
-    resource_room: true
+  - title: NewsRoom
+    collection: newsroom
   - title: Stories
     collection: stories
   - title: Highlights
     collection: highlights
+  - title: Contact Us
+    collection: contact-us
