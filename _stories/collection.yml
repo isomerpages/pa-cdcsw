@@ -2,5 +2,6 @@ collections:
   stories:
     output: true
     order:
+      - Leading The Charge To Meet Needs.md
       - Building A Greener South West District.md
       - Stories.md
