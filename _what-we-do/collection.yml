@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - FOR HEALTHY LIVING.md
       - FOR CAREGIVERS.md
       - FOR CORPORATES.md
       - FOR STUDENTS.md
