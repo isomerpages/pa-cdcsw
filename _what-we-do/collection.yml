@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - FOR GROUND UP INITIATIVES.md
       - CARE FOR THE VULNERABLE.md
       - FOR LIFELONG LEARNING.md
       - FOR FAMILIES.md
