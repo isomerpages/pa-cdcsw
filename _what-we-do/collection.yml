@@ -2,4 +2,5 @@ collections:
   what-we-do:
     output: true
     order:
+      - FOR FAMILIES.md
       - New In.md
