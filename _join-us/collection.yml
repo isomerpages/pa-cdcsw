@@ -1,4 +1,5 @@
 collections:
   join-us:
     output: true
-    order: []
+    order:
+      - Be Our Corporate Partner.md
