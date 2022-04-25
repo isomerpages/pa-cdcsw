@@ -2,14 +2,14 @@ collections:
   what-we-do:
     output: true
     order:
-      - FOR HEALTHY LIVING.md
-      - FOR CAREGIVERS.md
-      - FOR CORPORATES.md
-      - FOR STUDENTS.md
-      - FOR ENVIRONMENT.md
-      - FOR ASSISTANCE.md
-      - FOR GROUND UP INITIATIVES.md
-      - CARE FOR THE VULNERABLE.md
-      - FOR LIFELONG LEARNING.md
-      - FOR FAMILIES.md
       - New In.md
+      - FOR FAMILIES.md
+      - FOR LIFELONG LEARNING.md
+      - CARE FOR THE VULNERABLE.md
+      - FOR GROUND UP INITIATIVES.md
+      - FOR ASSISTANCE.md
+      - FOR ENVIRONMENT.md
+      - FOR STUDENTS.md
+      - FOR CORPORATES.md
+      - FOR CAREGIVERS.md
+      - FOR HEALTHY LIVING.md
