@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - CARE FOR THE VULNERABLE.md
       - FOR LIFELONG LEARNING.md
       - FOR FAMILIES.md
       - New In.md
