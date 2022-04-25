@@ -2,5 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
+      - FOR LIFELONG LEARNING.md
       - FOR FAMILIES.md
       - New In.md
