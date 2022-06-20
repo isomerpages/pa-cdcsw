@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - FOR GROUND UP INITIATIVES/.keep
       - New In.md
       - For Families.md
       - For Lifelong Learning.md
