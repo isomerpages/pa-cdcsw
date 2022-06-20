@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Caregivers/South West Caregiver Support Fund.md
       - For Caregivers/Caregiving @ South West Hotline.md
       - For Caregivers/For Caregivers.md
       - For Caregivers/.keep
