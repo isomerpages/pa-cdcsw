@@ -2,11 +2,11 @@ collections:
   what-we-do:
     output: true
     order:
-      - For Students/Other South West CDC Schemes & Bursaries.md
+      - For Students/.keep
+      - For Students/For Students.md
       - For Students/South West CDC Koh Kock Leong (KKL) Graduate Relief &
         Individual Training (GRIT) Fund.md
-      - For Students/For Students.md
-      - For Students/.keep
+      - For Students/Other South West CDC Schemes & Bursaries.md
       - New In.md
       - For Families.md
       - For Lifelong Learning.md
