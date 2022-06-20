@@ -2,11 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - For Assistance/.keep
-      - For Assistance/For Assistance.md
-      - For Assistance/Kong Meng San (KMS) CDC COVID19 Relief Fund.md
-      - For Assistance/Adopt @ South West.md
-      - For Assistance/Integrated Care Programme @ South West.md
       - New In.md
       - For Families.md
       - For Lifelong Learning.md
@@ -15,6 +10,11 @@ collections:
       - For Ground Up Initiatives/For Ground Up Initiatives.md
       - For Ground Up Initiatives/South West Happy Fund.md
       - For Ground Up Initiatives/South West Innovation Fund.md
+      - For Assistance/.keep
+      - For Assistance/For Assistance.md
+      - For Assistance/Kong Meng San (KMS) CDC COVID19 Relief Fund.md
+      - For Assistance/Adopt @ South West.md
+      - For Assistance/Integrated Care Programme @ South West.md
       - For Environment/.keep
       - For Environment/For Environment.md
       - For Students.md
