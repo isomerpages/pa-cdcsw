@@ -2,8 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - For Environment/For Environment.md
-      - For Environment/.keep
       - New In.md
       - For Families.md
       - For Lifelong Learning.md
@@ -13,6 +11,8 @@ collections:
       - FOR GROUND UP INITIATIVES/South West Happy Fund.md
       - FOR GROUND UP INITIATIVES/South West Innovation Fund.md
       - For Assistance.md
+      - For Environment/.keep
+      - For Environment/For Environment.md
       - For Students.md
       - For Corporates.md
       - For Caregivers.md
