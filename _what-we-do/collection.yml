@@ -2,13 +2,13 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Caregivers/.keep
+      - For Caregivers/For Caregivers.md
       - For Caregivers/Caregiving @ South West.md
-      - For Caregivers/South West Caregiver Care Guide.md
-      - For Caregivers/South West Caregiver Friendly Workplace Advisory.md
       - For Caregivers/South West Caregiver Support Fund.md
       - For Caregivers/Caregiving @ South West Hotline.md
-      - For Caregivers/For Caregivers.md
-      - For Caregivers/.keep
+      - For Caregivers/South West Caregiver Care Guide.md
+      - For Caregivers/South West Caregiver Friendly Workplace Advisory.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/South West CDC Koh Kock Leong (KKL) Graduate Relief &
