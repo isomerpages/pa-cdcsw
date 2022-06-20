@@ -2,11 +2,11 @@ collections:
   what-we-do:
     output: true
     order:
-      - For Assistance/Integrated Care Programme @ South West.md
-      - For Assistance/Adopt @ South West.md
-      - For Assistance/Kong Meng San (KMS) CDC COVID19 Relief Fund.md
-      - For Assistance/For Assistance.md
       - For Assistance/.keep
+      - For Assistance/For Assistance.md
+      - For Assistance/Kong Meng San (KMS) CDC COVID19 Relief Fund.md
+      - For Assistance/Adopt @ South West.md
+      - For Assistance/Integrated Care Programme @ South West.md
       - New In.md
       - For Families.md
       - For Lifelong Learning.md
