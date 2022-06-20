@@ -3,4 +3,5 @@ title: For Assistance
 permalink: /what-we-do/FOR-ASSISTANCE
 description: ""
 ---
-![](/images/What%20We%20Do/thumbnail_kms_cdc-crf.jpg)  $800 COVID-19 Relief Fund to help Singaporeans who have lost their jobs or whose income have been affected due to the COVID-19 pandemic.
+![](/images/What%20We%20Do/For%20Assistant/thumbnail_kms_cdc-crf.jpg)
+$800 COVID-19 Relief Fund to help Singaporeans who have lost their jobs or whose income have been affected due to the COVID-19 pandemic.
