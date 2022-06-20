@@ -2,6 +2,8 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Students/South West CDC Koh Kock Leong (KKL) Graduate Relief &
+        Individual Training (GRIT) Fund.md
       - For Students/For Students.md
       - For Students/.keep
       - New In.md
