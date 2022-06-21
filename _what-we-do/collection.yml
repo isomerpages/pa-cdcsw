@@ -2,10 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - For Healthy Living/For Healthy Living.md
-      - For Healthy Living/Fun Walkers @ South West.md
-      - For Healthy Living/Health Qigong @ South West.md
-      - For Healthy Living/.keep
       - New In.md
       - For Families.md
       - For Lifelong Learning.md
@@ -37,3 +33,7 @@ collections:
       - For Caregivers/South West Caregiver Care Guide.md
       - For Caregivers/South West Caregiver Friendly Workplace Advisory.md
       - For Corporates.md
+      - For Healthy Living/.keep
+      - For Healthy Living/For Healthy Living.md
+      - For Healthy Living/Fun Walkers @ South West.md
+      - For Healthy Living/Health Qigong @ South West.md
