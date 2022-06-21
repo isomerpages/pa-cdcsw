@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      background: /images/cdcswcaregiving.png
+      background: /images/What We Do/News In/img-20211222-wa0015.jpg
       url: /contact-us/
       key_highlights:
         - title: CDC Voucher
