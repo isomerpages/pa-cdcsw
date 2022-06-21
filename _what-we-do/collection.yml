@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Healthy Living/Fun Walkers @ South West.md
       - For Healthy Living/Health Qigong @ South West.md
       - For Healthy Living/.keep
       - New In.md
