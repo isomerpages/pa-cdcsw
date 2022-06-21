@@ -35,4 +35,4 @@ To empower our community in areas of caregiving:
 * Organise activities in support of caregiving.
 
 **Contact Us**<br>
-Please contact Ms Shirleen Koh (Email: Shirleen_KOH@pa.gov.sg) for further enquiry.  
+Please contact Ms Shirleen Koh (Email: Shirleen_KOH@pa.gov.sg) for further enquiry.
