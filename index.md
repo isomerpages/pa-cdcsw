@@ -12,13 +12,13 @@ sections:
       key_highlights:
         - title: CDC Voucher
           description: $100 in CDC Vouchers
-          url: https://google.com
+          url: /what-we-do/new-in
         - title: SWIF+
           description: South West Innovation Fund Plus
-          url: https://gmail.com
+          url: /what-we-do/for-ground-up-initiatives/swift
         - title: GRIT FUND
           description: Graduate Relief & Individual Training Fund
-          url: /privacy/
+          url: /what-we-do/for-students/grit/
         - title: CDC COVID-19 Relief Fund
           description: Nee Ann Kongsi (NAK) - CDC COVID-19 Relief Fund
           url: /what-we-do/for-assistance/kms/
