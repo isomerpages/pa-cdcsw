@@ -4,7 +4,7 @@ title: South West CDC
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/What We Do/News In/img-20211222-wa0015.jpg
