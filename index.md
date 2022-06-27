@@ -38,11 +38,12 @@ sections:
       image: /images/homepagebridgecover.png
       subtitle: BRIDGE newsletter
   - infopic:
-      description: Sandria’s Journey In Finding A Full-Time Job
-      button: More Stories
-      url: /stories
-      image: /images/sandria-2.jpg
+      button: Find Out now
+      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+      image: /images/small-map.png
       alt: Image alt text
+      subtitle: district locator
+      title: Which District do I reside in?
   - resources:
       title: CDC Annual Report
       subtitle: Learn more
