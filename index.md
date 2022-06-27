@@ -36,14 +36,15 @@ sections:
       url: /homepagebridgecover
       alt: homepagebridgecover
       image: /images/homepagebridgecover.png
-      subtitle: BRIDGE newsletter
+      subtitle: newsletter
+      title: BRIDGE
   - infopic:
       button: Find Out now
       url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
       image: /images/small-map.png
       alt: Image alt text
       subtitle: district locator
-      title: Which District do I reside in?
+      title: Which District am I residing in?
   - resources:
       title: CDC Annual Report
       subtitle: Learn more
