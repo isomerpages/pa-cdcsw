@@ -31,11 +31,12 @@ sections:
       image: /images/KK_050118_12520(3k)edit.jpg
       subtitle: Mayor's message
   - infopic:
-      description: Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West
-      button: More Highlights
-      url: /highlights
-      alt: Image alt text
-      image: /images/share-your-book-at-south-west.jpg
+      description: Find out what's happening in the South West District now!
+      button: Read more
+      url: /homepagebridgecover
+      alt: homepagebridgecover
+      image: /images/homepagebridgecover.png
+      subtitle: BRIDGE newsletter
   - infopic:
       description: Sandria’s Journey In Finding A Full-Time Job
       button: More Stories
