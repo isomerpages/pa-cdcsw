@@ -28,7 +28,8 @@ sections:
       button: READ ON
       alt: Image alt text
       url: /about-us/a-word-from-yenling
-      image: /images/kk_050118_048-3k.jpg
+      image: /images/KK_050118_12520(3k)edit.jpg
+      subtitle: Mayor's message
   - infopic:
       description: Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West
       button: More Highlights
