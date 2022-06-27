@@ -44,7 +44,7 @@ sections:
       image: /images/sandria-2.jpg
       alt: Image alt text
   - resources:
-      title: Media
+      title: CDC Annual Report
       subtitle: Learn more
       button: View More
 ---
