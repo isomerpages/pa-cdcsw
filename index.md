@@ -18,7 +18,7 @@ sections:
           url: /what-we-do/for-ground-up-initiatives/swift
         - title: GRIT FUND
           description: Graduate Relief & Individual Training Fund
-          url: /what-we-do/for-students/grit/
+          url: /what-we-do/for-students/gritfund/
         - title: CDC COVID-19 Relief Fund
           description: Nee Ann Kongsi (NAK) - CDC COVID-19 Relief Fund
           url: /what-we-do/for-assistance/kms/
