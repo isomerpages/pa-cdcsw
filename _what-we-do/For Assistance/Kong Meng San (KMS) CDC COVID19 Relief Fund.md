@@ -4,6 +4,9 @@ permalink: /what-we-do/For-Assistance/kms
 description: ""
 third_nav_title: For Assistance
 ---
+![KMS](/images/What%20We%20Do/For%20Assistant/KMS%20%20%20CDC%20COVID%2019%20Relief%20Fund/thumbnail_kms_cdc-crf.jpg)
+
+
 **Kong Meng San (KMS) - CDC COVID-19 Relief Fund**
 
 The CDCs has partnered Kong Meng San (KMS) to roll out the KMS-CDC COVID-19 Relief Fund (CRF) to help Singaporeans, regardless of religions, affected by the COVID pandemic through loss of jobs, retrenchment or partial loss of income.
