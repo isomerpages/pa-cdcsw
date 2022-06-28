@@ -4,9 +4,6 @@ permalink: /what-we-do/For-Assistance/kms
 description: ""
 third_nav_title: For Assistance
 ---
-![KMS](/images/What%20We%20Do/For%20Assistant/KMS%20%20%20CDC%20COVID%2019%20Relief%20Fund/thumbnail_kms_cdc-crf.jpg)
-
-
 **Kong Meng San (KMS) - CDC COVID-19 Relief Fund**
 
 The CDCs has partnered Kong Meng San (KMS) to roll out the KMS-CDC COVID-19 Relief Fund (CRF) to help Singaporeans, regardless of religions, affected by the COVID pandemic through loss of jobs, retrenchment or partial loss of income.
@@ -17,25 +14,19 @@ KMS has pledged a contribution of $2 million, which will be matched dollar-for-d
 
 Eligible applicant will receive relief assistance of $800.
 
-**Eligibility Criteria**
-
+**Eligibility Criteria**<br>
 Open to Singaporeans who have experienced retrenchment / contract termination / salary loss of at least 30% from all jobs.
  
-**Required Supporting Documents**
-
-•NRIC; and
-•Copy of CPF statements for verification on loss of income: and
-•Copy of letter from employer indicating retrenchment / termination; or
+**Required Supporting Documents**<br>
+•NRIC; and<br>
+•Copy of CPF statements for verification on loss of income: and<br>
+•Copy of letter from employer indicating retrenchment / termination; or<br>
 •Copy of current income statement / pay slip.
  
-How to Apply?
+**How to Apply?**<br>
+Interested applicants may apply online [here](https://form.gov.sg/#!/6246ae1b822d180014539a65). Alternatively, you may contact the CDC or approach your nearest CC for more information.
 
-Interested applicants may apply online [here](https://form.gov.sg/#!/6246ae1b822d180014539a65)
-
-Alternatively, you may contact the CDC or approach your nearest CC for more information.
-
-**Contact**
-
+**Contact**<br>
 For further enquiry, please email us at South_West_assistance@pa.gov.sg.
 
 Download the poster here[](/files/cdc-covid-19-relief-fund-draft-poster---ppt-version-2-(1).pdf)
