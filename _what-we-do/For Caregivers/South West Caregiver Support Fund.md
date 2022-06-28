@@ -4,6 +4,8 @@ permalink: /what-we-do/For-Caregivers/csf
 description: ""
 third_nav_title: For Caregivers
 ---
+![](/images/What%20We%20Do/For%20Caregivers/south-west-caregiver-support-fund_thumbnail.png)
+
 The South West Caregiver Support Fund is an interim one-time assistance of $500, to help caregivers defray self-care and caregiving expenses. The eligibility criteria and administration of the fund is as follows: 
 
 * Resident of South West District;
