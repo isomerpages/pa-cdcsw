@@ -28,16 +28,12 @@ Closed on weekends and public holidays.
 **South West Community Development Council (CDC)**<br>
 The JTC Summit 
 8 Jurong Town Hall Road
-#26-06 Singapore 609434
-
+#26-06 Singapore 609434<br>
 **Email:** southwest_cdc@pa.gov.sg  
-**Contact no**. : 63161616
-
+**Contact no**. : 63161616<br>
 **Operating hours:**  
-9.00 am – 5.00 pm (Monday - Friday)
-
-We are closed on weekends and public holidays.                    
-
+9.00 am – 5.00 pm (Monday - Friday)<br>
+We are closed on weekends and public holidays.<br>
 *In view of the pandemic, we are taking precautionary Safe Management Measures, and will only receive visitors with an appointment. Do email us for further enquiry.*
 
 **Employment & Employability Institute (E2i)**<br>
