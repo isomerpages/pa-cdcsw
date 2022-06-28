@@ -18,6 +18,8 @@ The South West Caregiver Support Fund is an interim one-time assistance of $500,
 **Contact Us**<br>
 To apply for the fund or for further enquiry, please email us at South_West_assistance@pa.gov.sg. 
 
+![](/images/What%20We%20Do/For%20Caregivers/CC%20-%20P3.jpg)
+
 **Real Stories**<br>
 Caregiving is a heavy and stressful responsibility for most people. Recognizing the need to reach out to caregivers, the South West CDC started the first district Caregiving @ South West programme.
 
@@ -26,7 +28,7 @@ Three years ago, Ms Nining had to juggle with multiple responsibilities - caregi
 
 Referred by grassroots volunteers, Ms Nining received the Caregiver Support Fund of $500, an initiative by the South West CDC supported by Maybank. The fund is designed to supplement other schemes that provided more long-term assistance, and can be used to pay for out-of-pocket expenses. The money Ms Nining received was used to offset overdue medical bills and purchase of necessities such as diapers for her sister. This helped to lighten her financial burden so that she was able to focus on her studies.
 
-Ms Nining graduated from Republic Polytechnic in 2019 with a Diploma in Hospitality and Tourism. With her qualification, she secured a full-time job as a Patient Care Associate.
+![](/images/What%20We%20Do/For%20Caregivers/CC%20-%20P2.jpg)Ms Nining graduated from Republic Polytechnic in 2019 with a Diploma in Hospitality and Tourism. With her qualification, she secured a full-time job as a Patient Care Associate.
 
 Ms Nining is now happily married and looking back, she appreciates the community support that had helped her cope and complete her education when she was on the verge of giving up.
 
