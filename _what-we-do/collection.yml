@@ -2,7 +2,6 @@ collections:
   what-we-do:
     output: true
     order:
-      - SkillsFuture/SkillsFuture.md
       - SkillsFuture/.keep
       - New In.md
       - For Families.md
