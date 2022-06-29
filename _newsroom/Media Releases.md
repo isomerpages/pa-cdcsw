@@ -3,6 +3,8 @@ title: Media Releases
 permalink: /newsroom/Media-Releases
 description: ""
 ---
+**9 Oct 2021** : [NEW ONLINE INTERACTIVE GAME LAUNCHED TO EDUCATE YOUTH AND](/files/Media%20Release/MR%20%20%202021/2021%2010%2009%20-%20Media%20Release%20-%20World%20Hospice%20and%20Palliative%20Care%20Day%202021.pdf)
+
 **1 Nov 2021** : [1,000 VUNERABLE FAMILIES RECEIVED GIFTS OF LOVE](/files/Media%20Release/MR%20%20%202021/2021%2011%2001%20-%20Media%20Release%20-%20ExxonMobil%20Gift%20Packs%20Distribution.pdf)
 
 **17 Nov 2021** : [WOKE WEDNESDAY SINGAPORE'S FIRST NATION-WIDE CAMPAIGN TO PROMOTE FOOD SECUIRTY, HEALTH AND SUSTAINABILITY IN SCHOOLS ](/files/Media%20Release/MR%20%20%202021/2021%2011%2017%20-%20Media%20Invite%20-%20Launch%20of%20Woke%20Wednesday%20Campaign.pdf)
