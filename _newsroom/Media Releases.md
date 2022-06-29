@@ -3,7 +3,11 @@ title: Media Releases
 permalink: /newsroom/Media-Releases
 description: ""
 ---
+**7 Jul 2021** : [THE GIRLS’ BRIGADE SINGAPORE AND SOUTH WEST CDC RALLY SINGAPOREANS TO FULFIL THE WISHES OF 3,000](/files/Media%20Release/MR%20%20%202021/2021%2007%2007%20-%20Girls%20Brigade%20&%20SW%20CDC%20rally%20Singaporeans%20to%20fulfil%20wishes%20of%203000%20vulnerable%20resi.pdf)
 
+**25 Aug 2021** : [SWEET TREATS FOR VULNERABLE FAMILIES IN THE SPIRIT OF NATIONAL DAY](/files/Media%20Release/MR%20%20%202021/2021%2008%2025%20-%20Media%20Release%20-Distribution%20of%20South%20West%20Care%20Packs%20%20Girl%20Guides%20Cookies.pdf)
+
+**24 Sep 2021** : [NEW JOB PORTAL BRINGS TECHNOLOGY BOOST TO JOB SEARCH](/files/Media%20Release/MR%20%20%202021/2021%2009%2022%20-%20Media%20Release_South%20West%20Community%20Job%20Fair_Launch%20of%20New%20Job%20Portal.pdf)
 
 **9 Oct 2021** : [OLD POSTMEN UNIFORMS GIVEN NEW LEASE OF LIFE UNDER SINGPOST'S RE:POST UPCYCLING INITIATIVE](/files/Media%20Release/MR%20%20%202021/2021%2010%2009%20-%20Media%20Release%20-%20SingPost%20Upcycling%20Initiative%20RePost%20(Oct%2021).pdf)
 
