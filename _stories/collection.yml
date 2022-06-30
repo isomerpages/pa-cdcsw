@@ -2,7 +2,6 @@ collections:
   stories:
     output: true
     order:
-      - Turning Trash Into Treasure/.keep
       - Building A Greener South West District.md
       - Leading The Charge To Meet Needs.md
       - Sandrias Journey In Finding A Full Time Job.md
