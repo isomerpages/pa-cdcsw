@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories.md
       - Building A Greener South West District.md
       - Leading The Charge To Meet Needs.md
       - Sandrias Journey In Finding A Full Time Job.md
