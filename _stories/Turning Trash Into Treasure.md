@@ -4,9 +4,6 @@ permalink: /stories/stories/turning-trash-into-treasure
 description: ""
 image: /images/Stories/Plasticevo team.jpg
 ---
-
-
-
 **Turning Trash Into Treasure**
 
 Plastic waste and how we manage it has gained attention in recent years and provided the impetus for Edric Ong, Lim Yong Zuan and Sophia Tan to start PlasticEVO, an initiative that advocates plastic recycling. Having worked on 3D printing projects together when they were studying at Ngee Ann Polytechnic, the trio recognised the wastage caused by used plastics. Spurred by a common desire to give back to society, Edric, Yong Zuan and Sophia — now students at the National University of Singapore (NUS), Singapore Institute of Technology and Nanyang Technological University respectively — decided to tap on their expertise to create a solution to reduce plastic waste.
