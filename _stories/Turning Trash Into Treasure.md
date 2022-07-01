@@ -41,5 +41,4 @@ Step 3: melt and cool the plastic shreds so they become printable filaments
 Step 4: feed the plastic filaments into the 3D printing machines to make usable everyday items
 
  
-
-Find out more about PlasticEVO: Bridge 2021 #07 Highres Spread (cdc.gov.sg)
+Find out more about PlasticEVO: [Bridge 2021 #07 Highres Spread (cdc.gov.sg)](https://www.cdc.gov.sg/Flipbook/SouthWest/2022/bridge-2022-issue-07/index.html#p=22)
