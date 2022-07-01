@@ -14,4 +14,4 @@ The 78-year-old was one of three residents who received items they had wished fo
 Expressing his appreciation, Mr Saleh said, “It is safer than using the stove as I may forget to turn off the fire after the water has boiled. This is really useful for me and I am grateful for the support.”
 
 ![GB 1](/images/Stories/GB%201.jpg)
-
+Click [here](https://www.facebook.com/watch/?v=850389472238629) for the video
