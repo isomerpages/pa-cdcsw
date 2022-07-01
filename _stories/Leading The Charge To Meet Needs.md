@@ -3,8 +3,7 @@ title: Leading The Charge To Meet Needs
 permalink: /stories/Leading-The-Charge-To-Meet-Needs
 description: ""
 ---
-**Leading The Charge To Meet Needs
-================================**
+**Leading The Charge To Meet Needs**
 
 ![Mr Anthony Tan, PBM](/images/Stories/Anthony.jpg)
 
