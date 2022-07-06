@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Corporates/Corporate Social Integration (CSI) Fund @ South West.md
       - For Corporates/For Corporates.md
       - For Corporates/.keep
       - New In.md
