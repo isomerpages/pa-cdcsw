@@ -2,6 +2,7 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Corporates/SME Centre@Southwest.md
       - For Corporates/Supporting Corporate Social Responsibility (CSR)
         Efforts.md
       - For Corporates/SkillsFuture Advice For Employers.md
