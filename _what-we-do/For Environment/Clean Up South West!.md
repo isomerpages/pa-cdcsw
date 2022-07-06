@@ -4,8 +4,6 @@ permalink: /what-we-do/For-Environment/cleanupsw
 description: cleanupsw
 third_nav_title: For Environment
 ---
-
-
 **Clean Up South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
 
 The objective of Clean Up South West! is aimed to:
