@@ -45,8 +45,4 @@ sections:
       alt: Image alt text
       subtitle: district locator
       title: Which District am I residing in?
-  - resources:
-      title: CDC Annual Report
-      subtitle: Learn more
-      button: View More
 ---
