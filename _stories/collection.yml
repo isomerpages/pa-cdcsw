@@ -2,7 +2,6 @@ collections:
   stories:
     output: true
     order:
-      - Stories.md
       - Turning Trash Into Treasure.md
       - Building A Greener South West District.md
       - Leading The Charge To Meet Needs.md
