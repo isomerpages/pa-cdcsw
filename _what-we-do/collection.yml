@@ -2,6 +2,8 @@ collections:
   what-we-do:
     output: true
     order:
+      - For Corporates/Supporting Corporate Social Responsibility (CSR)
+        Efforts.md
       - For Corporates/SkillsFuture Advice For Employers.md
       - For Corporates/Corporate Social Integration (CSI) Fund @ South West.md
       - For Corporates/For Corporates.md
