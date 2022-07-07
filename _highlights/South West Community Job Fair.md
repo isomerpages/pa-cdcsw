@@ -16,6 +16,5 @@ Find out more about the qood portal: https://qood.com.sg/
 
 Find out how the qood portal helped Mr Teh in finding a job: 
 
-<a href= "www.facebook.com/watch/?v=398435468392569">
+<a href= "https://www.facebook.com/watch/?v=398435468392569">
    <img src="/images/Highlights/Job%20Fair%20Video.jpg" ></a>
-
