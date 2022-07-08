@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories/Sandrias Journey In Finding A Full Time Job.md
       - Stories/Leading The Charge To Meet Needs.md
       - Stories/Building A Greener South West District.md
       - Stories/Turning Trash Into Treasure.md
