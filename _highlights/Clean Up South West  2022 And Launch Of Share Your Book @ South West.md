@@ -3,8 +3,7 @@ title: Clean Up South West  2022 And Launch Of Share Your Book @ South West
 permalink: /highlights/CleanUp-SouthWest-2022-And-Launch-Of-Share-Your-Book-SouthWest
 description: ""
 ---
-**Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West
-**
+**Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West**
 
 ![Clean Up SW](/images/Highlights/DSC%20298120%20Jan%2022.jpg)
 
