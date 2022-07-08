@@ -14,6 +14,4 @@ a) Reside in South West District;
 b) Have at least one (1) parent who is a Singapore citizen; and
 c) Newborn must be under two (2) years old upon application. 
 
-Click here to view the list of Baby Blisscard merchants.
-
 Click [here](https://go.gov.sg/babyblisscard ) to apply for Baby Blisscard @ South West.
