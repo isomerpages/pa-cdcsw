@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories/Shakthi’s Care & Share Corner.md
       - Stories/The Girls’ Brigade Friend In Deed @ South West.md
       - Stories/DIY TraceTogether Pouches With Mdm Fang.md
       - Stories/Sandrias Journey In Finding A Full Time Job.md
