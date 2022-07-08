@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories.md
       - DIY TraceTogether Pouches With Mdm Fang.md
       - The Girls’ Brigade Friend In Deed @ South West.md
       - Shakthi’s Care & Share Corner.md
@@ -9,4 +10,3 @@ collections:
       - Leading The Charge To Meet Needs.md
       - Building A Greener South West District.md
       - Turning Trash Into Treasure.md
-      - Stories.md
