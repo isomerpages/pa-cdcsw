@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories.md
       - Stories/.keep
       - Stories/Turning Trash Into Treasure.md
       - Stories/Building A Greener South West District.md
