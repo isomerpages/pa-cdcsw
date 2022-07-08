@@ -16,4 +16,4 @@ c) Newborn must be under two (2) years old upon application.
 
 Click here to view the list of Baby Blisscard merchants.
 
-Click [here](/files/baby_blisscard_application_form_2015.pdf) to apply for Baby Blisscard @ South West.
+Click [here](https://go.gov.sg/babyblisscard ) to apply for Baby Blisscard @ South West.
