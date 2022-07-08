@@ -10,8 +10,8 @@ Simply fill up the application to become a Baby Blisscard member and you will re
 
 Eligibility criteria for application are as follows:
 
-a) Reside in South West District;
-b) Have at least one (1) parent who is a Singapore citizen; and
+a) Reside in South West District;<br>
+b) Have at least one (1) parent who is a Singapore citizen; and<br>
 c) Newborn must be under two (2) years old upon application. 
 
 Click [here](https://go.gov.sg/babyblisscard ) to apply for Baby Blisscard @ South West.
