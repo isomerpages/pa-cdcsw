@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - Stories/.keep
+      - Stories/Stories.md
       - Stories/Shakthi’s Care & Share Corner.md
       - Stories/The Girls’ Brigade Friend In Deed @ South West.md
       - Stories/DIY TraceTogether Pouches With Mdm Fang.md
@@ -9,5 +11,3 @@ collections:
       - Stories/Leading The Charge To Meet Needs.md
       - Stories/Building A Greener South West District.md
       - Stories/Turning Trash Into Treasure.md
-      - Stories/Stories.md
-      - Stories/.keep
