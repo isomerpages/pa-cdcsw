@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Stories/DIY TraceTogether Pouches With Mdm Fang.md
       - Stories/Sandrias Journey In Finding A Full Time Job.md
       - Stories/Leading The Charge To Meet Needs.md
       - Stories/Building A Greener South West District.md
