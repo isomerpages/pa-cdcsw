@@ -3,6 +3,10 @@ title: Media Releases
 permalink: /newsroom/Media-Releases
 description: ""
 ---
+**9 Jul 2022** : 
+
+**2 Jul 2022** : [DISCOVERING HEARTLAND GEMS @ SOUTH WEST](/files/Media%20Release/MR%20%20%202022/2022%2007%2002%20-%20Media%20Release%20-%20Launch%20of%20Heartland%20Gems%20at%20South%20West.pdf)
+
 **29 May 2022** : [FIRST COMMUNITY GUIDING PROGRAMME IN THE SOUTH WEST DISTRICT TO HELP GIRLS DEVELOP LEADERSHIP AND LIFE SKILLS](/files/Media%20Release/MR%20%20%202022/2022%2005%2029%20-%20MR%20-%20Launch%20of%20Community%20Guiding%20Prog%20&%20Graduation%20Ceremony%20Pilot%20Run.pdf)
 
 **18 Mar 2022** :  [NTU SINGAPORE GRADUATE STUDENTS EXPAND FREE TELEHEALTH SERVICES TO INCLUDE MONITORING FOR MENTAL WELL-BEING AMID THE PANDEMIC](/files/Media%20Release/MR%20%20%202022/2022%2003%2018%20-%20MR%20-%20NTU%20student%20expand%20free%20telehealth%20services.pdf)
