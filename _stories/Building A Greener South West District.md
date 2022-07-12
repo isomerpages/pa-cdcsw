@@ -3,10 +3,6 @@ title: Building A Greener South West District
 permalink: /stories/Building-A-Greener-South-West-District
 description: ""
 ---
-
-
-
-
 **Building A Greener South West District**
 
 ![Mr Tiew Chew Meng, BBM](/images/Stories/CM.jpg)
@@ -23,4 +19,4 @@ For his efforts to build a more sustainable and eco-friendly district, Mr Tiew r
 
  
 
-Read full story here: [](https://www.cdc.gov.sg/flipbook/southwest/bridge-2021-06/index.html%23p=12)[Bridge 2021 #06 Highres Spread (cdc.gov.sg)](https://www.cdc.gov.sg/flipbook/southwest/bridge-2021-06/index.html#p=12)
+Read full story Page 12 [here](https://go.gov.sg/bridge2021-6).
