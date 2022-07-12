@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/What We Do/News In/img-20211222-wa0015.jpg
       url: /contact-us/
       key_highlights:
         - title: CDC Voucher
