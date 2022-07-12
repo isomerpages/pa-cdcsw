@@ -3,9 +3,6 @@ title: Leading The Charge To Meet Needs
 permalink: /stories/Leading-The-Charge-To-Meet-Needs
 description: ""
 ---
-
-
-
 **Leading The Charge To Meet Needs**
 
 ![Mr Anthony Tan, PBM](/images/Stories/Anthony.jpg)
@@ -18,4 +15,4 @@ This is precisely what he does as the Chairman of the South West CDC’s Volunte
 
 For his efforts to rally the community to give back, Mr Tan received the Pingat Bakti Masyarakat (Public Service Medal) at this year’s National Day Awards. “I must thank Mayor Low Yen Ling, my fellow District Councillors, the staff at the South West CDC and all the other volunteers I work with. Their support has been invaluable and this win is a team effort.”
 
-Read full story here: [](https://www.cdc.gov.sg/flipbook/southwest/bridge-2021-06/index.html%23p=12)[Bridge 2021 #06 Highres Spread (cdc.gov.sg)](https://www.cdc.gov.sg/flipbook/southwest/bridge-2021-06/index.html#p=12)
+Read full story page 11 [here](https://go.gov.sg/bridge2021-6).
