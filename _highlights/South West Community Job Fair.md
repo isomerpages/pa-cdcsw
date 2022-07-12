@@ -3,8 +3,7 @@ title: South West Community Job Fair
 permalink: /highlights/SouthWest-Community-Job-Fair
 description: ""
 ---
-South West Community Job Fair
-=============================
+**South West Community Job Fair**
 
 ![Job  Fair](/images/Highlights/CommJobFair%20hr.jpg)
 
