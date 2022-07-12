@@ -3,6 +3,8 @@ title: Girl Guides Cookie Distribution
 permalink: /highlights/Girl-Guides-Cookie-Distribution
 description: ""
 ---
+**Girl Guides Cookie Distribution**
+
 ![Girls Guide](/images/Highlights/GG%20hr%20SW.jpg)
 
 To bring cheer to those affected in the South West District, Girl Guides Singapore (GGS) partnered the South West Community Development Council (CDC) and Koh Kock Leong Enterprise to distribute halal-certified cookies to 3,500 households over the National Day period.
