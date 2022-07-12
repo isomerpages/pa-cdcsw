@@ -19,4 +19,4 @@ For his efforts to build a more sustainable and eco-friendly district, Mr Tiew r
 
  
 
-Read full story Page 12 [here](https://go.gov.sg/bridge2021-6).
+Read full story page 12 [here](https://go.gov.sg/bridge2021-6).
