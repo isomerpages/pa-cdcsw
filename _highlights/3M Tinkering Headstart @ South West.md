@@ -12,6 +12,4 @@ description: ""
 
 One of the students who attended the workshop shared, “Through the workshop, I learnt how to make my own car and use sunlight to control it. Science is one of my favourite subjects because I get to do exciting experiments with my friends. I see a lot of science experiments on YouTube that look really fun too and want to try them when I get older!” 
 
-<a href= "https://www.facebook.com/watch/?v=295164805665675">
-   <img src="/images/Highlights/FB%20video%20-%203M.png" ></a>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rbq3Nk9WIwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
