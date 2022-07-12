@@ -3,8 +3,7 @@ title: 3M Tinkering Headstart @ South West
 permalink: /highlights/3M-Tinkering-Headstart-SouthWest
 description: ""
 ---
-3M Tinkering Headstart @ South West
-===================================
+**3M Tinkering Headstart @ South West**
 
 ![3M](/images/Highlights/3M%20hr.jpg)
 
