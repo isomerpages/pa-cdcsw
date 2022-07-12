@@ -21,7 +21,7 @@ sections:
         - title: CDC COVID-19 Relief Fund
           description: Nee Ann Kongsi (NAK) - CDC COVID-19 Relief Fund
           url: /what-we-do/for-assistance/kms/
-      background: /images/banner.png
+      background: /images/cdcvbanner.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
         us to create our home, a G.R.E.A.T South West District."'
