@@ -3,6 +3,8 @@ title: Our Partner Procter & Gamble
 permalink: /join-us/OurPartner-Procter-Gamble
 description: ""
 ---
+![](/images/Join%20Us/p%20g.png)
+
 Over the years, P&G has tapped on its resources to meet the varied needs of residents in the South West District.
 
 For residents of South West District, global consumer goods company P&G is synonymous with household, grooming and oral care products that have seen them through good and bad times. Thanks to an ongoing partnership with the South West Community Development Council (CDC), P&G has been uplifting their lives through their engagement initiatives and donations of personal care essentials.
