@@ -2,6 +2,7 @@ collections:
   example-collection:
     output: true
     order:
+      - Girl Guides Cookie Distribution.md
       - South West Community Job Fair.md
       - example-page/.keep
       - example-page/example-subpage.md
