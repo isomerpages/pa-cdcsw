@@ -8,7 +8,7 @@ description: ""
 | ||  |
 | -------- | -------- | -------- |
 | ![](/images/Highlights/Grant-A-Wish%20with%20LIAS%20@%20SW%20-%20Pic%201.jpg))    |   **Grant-A-Wish With LIAS @ South West**<br> A wrap-up to Festive Cheers @ South West <br><br> [Find Out More](/highlights/Grant-A-Wish-With-LIAS-SouthWest)<br><br>|      |
-| ![](/images/Stories/CM.jpg)    |   **Building A Greener South West District**<br> A wrap-up to Festive Cheers @ South West <br><br> [Find Out More](/stories/Building-A-Greener-South-West-District)<br><br>|      |
+| ![](/images/Highlights/Festive%20Cheers%20@%20SW%20-%20Pic%201.jpg)    |   **Fortune Bags Distribution As Part Of Festive Cheers @ South West**<br> A collaboration with SAGE Counselling Centre <br><br> [Find Out More](/highlights/Fortune-Bags-Distribution-As-Part-Of-Festive-Cheers-SouthWest)<br><br>|      |
 | ![](/images/Stories/Anthony.jpg)|  **Leading The Charge To Meet Needs**<br>**Mr Anthony Tan, PBM**, strengthens the community spirit by rallying corporate partners and residents to give back.<br><br> [Find Out More](/stories/Leading-The-Charge-To-Meet-Needs)<br><br>|
 |![](/images/Stories/sandria%20(2).jpg)| **Sandria’s Journey In Finding A Full-Time Job**<br>59 year-old Sandria was looking out for permanent job to boost her income but her efforts were in vain until she used the qood job portal.<br><br> [Find Out More](/stories/Sandrias-Journey-In-Finding-A-Full-Time-Job)<br><br>|   |
 | ![](/images/Stories/Shakthi-.jpg)    |   **Shakthi’s Care & Share Corner**<br> A project kickstarted by a 7-year-old to help others with $400 of her own savings.<br><br> [Find Out More](/stories/Shakthis-Care-Share-Corner)<br><br>|      |
