@@ -2,5 +2,6 @@ collections:
   example-collection:
     output: true
     order:
+      - Grant A Wish With LIAS @ South West.md
       - example-page/.keep
       - example-page/example-subpage.md
