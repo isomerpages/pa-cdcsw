@@ -35,7 +35,7 @@ sections:
       button: Read more
       url: /homepagebridgecover
       alt: homepagebridgecover
-      image: /images/homepagebridgecover.png
+      image: /images/NewsRoom/E BRIDGE/Issue 2 - 2022 - Celebrating-as-One.jpg
       subtitle: newsletter
       title: BRIDGE
   - infopic:
