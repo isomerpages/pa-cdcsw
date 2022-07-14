@@ -35,9 +35,9 @@ Date: July 22 & 23, 2022
 Location: Devan Nair Institute, 80 Jurong East St 21, Level 2, Singapore 609607
 Time: 10:00 AM to 5:00 PM
 
-Click here to find out more on the on-site employers: https://event.e2i.com.sg/web/SFFSWJul2022
+Click [here](https://event.e2i.com.sg/web/SFFSWJul2022) to find out more on the on-site employers.
 
-Click here to register for the complimentary workshops: https://go.gov.sg/swsff2022
+Click [here](https://go.gov.sg/swsff2022) to register for the complimentary workshops.
 
 
 *Please click on the images to be redirected to the registration page.*
