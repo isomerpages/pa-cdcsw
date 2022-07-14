@@ -1,0 +1,7 @@
+collections:
+  join-us:
+    output: true
+    order:
+      - Be Our Corporate Partner.md
+      - Our Partner  Koh Kock Leong Enterprise Pte Ltd.md
+      - Our Partner Procter & Gamble.md
