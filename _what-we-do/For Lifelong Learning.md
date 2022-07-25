@@ -11,10 +11,10 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-[![Social Media](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/skillsfuture/social-media.jpg?sfvrsn=bed89d56_2 "Social Media")](https://qood.com.sg/job-fair/south-west-community-job-fair-at-ayer-rajah)    
 [![Security](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_4%20Aug%202022_security_SM_FA.jpg)](https://go.gov.sg/swsfa-security)
 
-[![SWCDC_Webinar FB_13 Jul 2022_TCM Mobile_FA](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/for-lifelong-learning/swcdc_webinar-fb_13-jul-2022_tcm-mobile_fa.jpg?sfvrsn=8f4adc4_2 "SWCDC_Webinar FB_13 Jul 2022_TCM Mobile_FA")](https://go.gov.sg/swsfa-mobile)  
+[![Social Media](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/skillsfuture/social-media.jpg?sfvrsn=bed89d56_2 "Social Media")](https://qood.com.sg/job-fair/south-west-community-job-fair-at-ayer-rajah)    
+
 **SkillsFuture Advice Workshops/ Webinars**
 
 The SkillsFuture Advice workshop brings to the community useful information about SkillsFuture and how individuals can tap on the various resources for their career planning and skills upgrading needs.
