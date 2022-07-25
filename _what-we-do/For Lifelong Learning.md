@@ -11,6 +11,8 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
+[![Media](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_25%20Aug%202022_media_SM_FA.jpg)](https://go.gov.sg/swsfa-media)
+
 [![Security](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_4%20Aug%202022_security_SM_FA.jpg)](https://go.gov.sg/swsfa-security)
 
 [![Social Media](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/skillsfuture/social-media.jpg?sfvrsn=bed89d56_2 "Social Media")](https://qood.com.sg/job-fair/south-west-community-job-fair-at-ayer-rajah)    
