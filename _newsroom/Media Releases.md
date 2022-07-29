@@ -3,6 +3,8 @@ title: Media Releases
 permalink: /newsroom/Media-Releases
 description: ""
 ---
+**23 Jul 2022** : [SKILLSFUTURE FESTIVAL @ SOUTH WEST 2022 – STRONGER PARTNERSHIP TO FUTURE PROOF OUR NATION](/files/Media%20Release/MR%20%20%202022/2022%2007%2023%20-%20Media%20Release%20-%20SkillsFuture%20Festival%20at%20South%20West%202022.pdf)
+
 **9 Jul 2022** : [YOUNG TECHNOPRENEUR CHALLENGE 2022 RETURNS TO CHALLENGE STUDENTS TO COME UP WITH SUSTAINABLE SOLUTIONS FOR THE FUTURE](/files/Media%20Release/MR%20%20%202022/2022%2007%2009%20-%20Media%20Release%20-%20Young%20Technopreneur%20Challenge%202022.pdf)
 
 **2 Jul 2022** : [DISCOVERING HEARTLAND GEMS @ SOUTH WEST](/files/Media%20Release/MR%20%20%202022/2022%2007%2002%20-%20Media%20Release%20-%20Launch%20of%20Heartland%20Gems%20at%20South%20West.pdf)

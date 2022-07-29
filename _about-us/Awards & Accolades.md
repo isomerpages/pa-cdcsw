@@ -10,7 +10,10 @@ Some of these initiatives include annual recycling drives, environmental carniva
 
 Our district’s long-standing dedication and commitment to sustainability has led us to win several awards at local and international levels, as follows: 
 
-**2020**: Clean & Green Singapore Best District Award and 14th EcoFriend Awards (Mr Tiew Chew Meng, PBM, Chairman of Environment Functional Committee, South West CDC [8th Term])
+**2020**: Clean & Green Singapore Best District Award and 14th EcoFriend Awards (Mr Tiew Chew Meng, PBM, Chairman of Environment Functional Committee, South West CDC [8th Term]).
+
+![CGS](/images/About%20Us/cgs-best-district-award-2020.jpg)
+![ECo](/images/About%20Us/14th-ecofriend-award_tiew-chew-meng.jpg)
 
 **2019**: Cities of Love Awards (COLA) Distinguished Award and Municipal Service Award
 
