@@ -13,7 +13,7 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 [![Media](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_25%20Aug%202022_media_SM_FA.jpg)](https://go.gov.sg/swsfa-media)
 
-[![Power](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_11%20Aug%202022_power%20industry_FB_FA.jpg)](https://go.gov.sg/swsfa-power)
+[![Power](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_11%20Aug%202022_power%20industry_FB_FA-updated.jpg)](https://go.gov.sg/swsfa-power)
 
 [![Security](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_4%20Aug%202022_security_SM_FA.jpg)](https://go.gov.sg/swsfa-security)
 
