@@ -2,8 +2,8 @@ collections:
   stories:
     output: true
     order:
-      - SkillsFuture Festival @ South West 2022.md
       - Stories.md
+      - SkillsFuture Festival @ South West 2022.md
       - Turning Trash Into Treasure.md
       - Building A Greener South West District.md
       - Leading The Charge To Meet Needs.md
