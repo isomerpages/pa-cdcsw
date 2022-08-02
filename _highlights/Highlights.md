@@ -7,6 +7,7 @@ description: ""
 
 | ||  |
 | -------- | -------- | -------- |
+|![](/images/Stories/295245125_10159828757121273_3111037502924620082_n.jpg)| **SkillsFuture Festival @ South West 2022**<br> Stronger partnership to futureproof our nation<br><br> [Find Out More](/highlights/sff22)<br><br>|   |
 | ![](/images/Highlights/Grant-A-Wish%20with%20LIAS%20@%20SW%20-%20Pic%201.jpg)    |   **Grant-A-Wish With LIAS @ South West**<br> A wrap-up to Festive Cheers @ South West <br><br> [Find Out More](/highlights/Grant-A-Wish-With-LIAS-SouthWest)<br><br>|      |
 | ![](/images/Highlights/Festive%20Cheers%20@%20SW%20-%20Pic%201.jpg)    |   **Fortune Bags Distribution As Part Of Festive Cheers @ South West**<br> A collaboration with SAGE Counselling Centre <br><br> [Find Out More](/highlights/Fortune-Bags-Distribution-As-Part-Of-Festive-Cheers-SouthWest)<br><br>|      |
 | ![](/images/Highlights/lastscene_1920x1080px_v1-(002).jpg)|  **Clean Up South West! 2022 And Launch Of Share-Your-Book @ South West**<br>Launch of Share-Your-Book @ South West Initiative<br><br> [Find Out More](/highlights/CleanUp-SouthWest-2022-And-Launch-Of-Share-Your-Book-SouthWest)<br><br>|
