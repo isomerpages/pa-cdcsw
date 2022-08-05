@@ -34,7 +34,8 @@ The South West CDC-KKL Tertiary Grant is setup to help students from low-income 
 * Latest result slip (for students in their second year and above)
 * Copy of payslip / CPF contribution statement / income tax statement of all working members in the household
 
-**How to Apply?**<br>Submit your application through [www.go.gov.sg/swcdctertiarygrantform](http://www.go.gov.sg/swcdctertiarygrantform) or download the application form below and submit your completed application form and supporting documents at your
+**How to Apply?**<br>
+Submit your application through [www.go.gov.sg/swcdctertiarygrantform](http://www.go.gov.sg/swcdctertiarygrantform) or download the application form below and submit your completed application form and supporting documents at your nearest CC.
 
 **Contact Us**<br>
 For further enquiry, please email us at SWCDC_bursaries@pa.gov.sg.
