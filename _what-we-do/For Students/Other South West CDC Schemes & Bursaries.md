@@ -40,5 +40,5 @@ Submit your application through [www.go.gov.sg/swcdctertiarygrantform](http://ww
 **Contact Us**<br>
 For further enquiry, please email us at SWCDC_bursaries@pa.gov.sg.
 
-Click to view [South West Tertiary Grant poster](/files/tertiary-grant-poster.pdf)<br>
-Click to view [South West Tertiary Grant application form](/files/2021-tertiary-grant---application-form_1sep.pdf)
+Click to view [South West Tertiary Grant poster](/files/Tertiary%20Grant%20Poster%202022.pdf)<br>
+Click to view [South West Tertiary Grant application form](/files/South%20West%20Tertiary%20Grant%202022%20-%20New%20Application%20Form.pdf)
