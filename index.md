@@ -40,10 +40,9 @@ sections:
       title: BRIDGE
   - infopic:
       button: Find Out now
-      url: https://www.cdc.gov.sg/about-cdc/information-on-the-five-districts
+      url: "https://www.pa.gov.sg/our-network/community-development-councils "
       image: /images/small-map.png
       alt: Image alt text
       subtitle: district locator
       title: Which District am I residing in?
 ---
-
