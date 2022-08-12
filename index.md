@@ -19,7 +19,7 @@ sections:
           description: Graduate Relief & Individual Training Fund
           url: /what-we-do/for-students/gritfund/
         - title: CDC COVID-19 Relief Fund
-          description: Nee Ann Kongsi (NAK) - CDC COVID-19 Relief Fund
+          description: Kong Meng San (KMS)-CDC COVID-19 Relief Fund
           url: /what-we-do/for-assistance/kms/
       background: /images/cdcvbanner.png
   - infopic:
