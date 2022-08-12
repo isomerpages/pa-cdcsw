@@ -14,4 +14,4 @@ We now offer complimentary physical and virtual SkillsFuture Advice Workshops a
 
 For more information, kindly contact Ms June Lee via email: [june\_lee\_from.TP@pa.gov.sg](mailto:june_lee_from.TP@pa.gov.sg).
 
-![](https://www.cdc.gov.sg/images/librariesprovider6/images-swcdc/sfa-for-corporates.png?sfvrsn=4da4997f_1)
+![](/images/What%20We%20Do/For%20Corporate/sfa-for-corporates.png)
