@@ -12,6 +12,6 @@ The SkillsFuture movement was launched in 2016, to provide Singaporeans with the
 
 We now offer complimentary physical and virtual SkillsFuture Advice Workshops and Webinars, to help corporates build a more resilient workforce to navigate the fast-changing environment. Through the sharing of relevant tips and information, employees can build resilience and adopt a growth mindset in these difficult times.
 
-For more information, kindly contact Ms June Lee via email: [june\_lee\_from.TP@pa.gov.sg](mailto:june_lee_from.TP@pa.gov.sg).
+For more information, kindly contact Ms June Lee via email: [Syafiq\_NASRUN\_from.TP@pa.gov.sg](mailto:syafiq_NASRUN_from.TP@pa.gov.sg).
 
-![](https://www.cdc.gov.sg/images/librariesprovider6/images-swcdc/sfa-for-corporates.png?sfvrsn=4da4997f_1)
+![](/images/What%20We%20Do/For%20Corporate/sfa-for-corporates.png)
