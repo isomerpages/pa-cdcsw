@@ -1,6 +1,6 @@
 ---
 title: For Lifelong Learning
-permalink: /what-we-do/FOR-LIFELONG-LEARNING
+permalink: /what-we-do/FOR-LIFELONG-LEARNING/
 description: ""
 ---
 SkillsFuture Advice @ South West
@@ -11,8 +11,9 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-[![Media](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_25%20Aug%202022_media_SM_FA.jpg)](https://go.gov.sg/swsfa-media)
-
+<a href="https://go.gov.sg/swsfa-power">
+	<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_15%20Sept%202022_power%20industry_FB_FA2.jpg"></a>
+	
 **SkillsFuture Advice Workshops/ Webinars**
 
 The SkillsFuture Advice workshop brings to the community useful information about SkillsFuture and how individuals can tap on the various resources for their career planning and skills upgrading needs.
