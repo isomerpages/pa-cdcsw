@@ -12,8 +12,7 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 *Please click on the images to be redirected to the registration page.*
 
 <a href="https://go.gov.sg/swsfa-power">
-	
-![SkillsFuture Advice@South West (Thematic) – Introduction to the Power](/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_15%20Sept%202022_power%20industry_FB_FA2.jpg)
+	<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_15%20Sept%202022_power%20industry_FB_FA2.jpg"></a>
 	
 **SkillsFuture Advice Workshops/ Webinars**
 
