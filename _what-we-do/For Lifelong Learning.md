@@ -13,7 +13,12 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 <a href="https://go.gov.sg/swsfa-power">
 	<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_15%20Sept%202022_power%20industry_FB_FA2.jpg"></a>
-	
+
+
+<a href="https://go.gov.sg/swsfa-hr">
+<img 
+src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_28%20Sep%202022_hr_FB_FA.jpg"></a>
+
 **SkillsFuture Advice Workshops/ Webinars**
 
 The SkillsFuture Advice workshop brings to the community useful information about SkillsFuture and how individuals can tap on the various resources for their career planning and skills upgrading needs.

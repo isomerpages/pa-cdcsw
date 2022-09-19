@@ -16,7 +16,7 @@ locations:
     title: South West CDC
 contacts:
   - content:
-      - phone: +65 6121 1616
+      - phone: +65 6316 1616
       - email: southwest_cdc@pa.gov.sg
       - other: ""
     title: General Enquiries & Feedback
