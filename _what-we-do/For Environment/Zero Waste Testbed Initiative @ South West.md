@@ -1,9 +1,17 @@
 ---
 title: Zero Waste Testbed Initiative @ South West
-permalink: /what-we-do/For-Environment/zerowastetestbed
+permalink: /what-we-do/For-Environment/zerowastetestbed/
 description: zerowastetestbed
 third_nav_title: For Environment
 ---
+![ZWTI](/images/What%20We%20Do/For%20Environment/ZWTI%20Poster%20(Final).png)
+
+**Collaboration – Zero Waste Testbed Initiative**
+The Zero Waste Testbed Initiative is organised by NUS and South West Community Development Council to empower and support youths in the co-creation of innovative solutions towards zero waste and circular economy through test-bedding of proof-of-concepts within the NUS campus.
+
+This is an opportunity for teams to obtain up to $10,000 in project funding and mentorship by industry and government practitioners in the implementation of their ideas. 
+
+**ONGOING CALL: BEHAVIOURAL EDUCATION FOR RECYCLING RIGHT FROM YOUNG** 
 
 The **Zero Waste Testbed Initiative @ South West** is organised by the National University of Singapore (NUS) and the South West Community Development Council (CDC) to empower and support youths in the co-creation of innovative solutions towards zero waste and circular economy through test-bedding of proof-of-concepts (POCs) within the NUS campus.
 
@@ -13,9 +21,8 @@ Organised by NUS and South West CDC, the Second Edition of this initiative is no
 
 This edition focuses on&nbsp;**Designing for Habit Change**&nbsp;– driving behavioural changes in users to develop good environmental habits such as recycling right and avoiding consumption of single-use disposables.
 
-&nbsp;![SWCDC 2nd grant call poster v2](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/environment/swcdc-2nd-grant-call-poster-v2.jpg?sfvrsn=cb8ba827_2 "SWCDC 2nd grant call poster v2")
+![](/images/What%20We%20Do/For%20Environment/Green%20Spaces%20P2.jpg)
 
-&nbsp;
 
 **Eligibility Criteria**
 
