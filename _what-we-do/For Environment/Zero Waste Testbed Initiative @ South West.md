@@ -4,70 +4,94 @@ permalink: /what-we-do/For-Environment/zerowastetestbed/
 description: zerowastetestbed
 third_nav_title: For Environment
 ---
-![ZWTI](/images/What%20We%20Do/For%20Environment/ZWTI%20Poster%20(Final).png)
-
 **Collaboration – Zero Waste Testbed Initiative**
+
 The Zero Waste Testbed Initiative is organised by NUS and South West Community Development Council to empower and support youths in the co-creation of innovative solutions towards zero waste and circular economy through test-bedding of proof-of-concepts within the NUS campus.
 
 This is an opportunity for teams to obtain up to $10,000 in project funding and mentorship by industry and government practitioners in the implementation of their ideas. 
 
 **ONGOING CALL: BEHAVIOURAL EDUCATION FOR RECYCLING RIGHT FROM YOUNG** 
 
-The **Zero Waste Testbed Initiative @ South West** is organised by the National University of Singapore (NUS) and the South West Community Development Council (CDC) to empower and support youths in the co-creation of innovative solutions towards zero waste and circular economy through test-bedding of proof-of-concepts (POCs) within the NUS campus.
-
-**Second Edition Call (Open for Applications) -&nbsp;**EXTENDED TO 6 JULY 2022****
-
-Organised by NUS and South West CDC, the Second Edition of this initiative is now open for applications from&nbsp;**8 to 6 July 2022**!
-
-This edition focuses on&nbsp;**Designing for Habit Change**&nbsp;– driving behavioural changes in users to develop good environmental habits such as recycling right and avoiding consumption of single-use disposables.
-
-![](/images/What%20We%20Do/For%20Environment/Green%20Spaces%20P2.jpg)
+![ZWTI](/images/What%20We%20Do/For%20Environment/ZWTI%20Poster%20(Final).png)
 
 
-**Eligibility Criteria**
+Developing a recycling habit should ideally start from young. Beyond an information-based education for recycling, taking a behaviourally-informed approach could more effectively develop good habits.
 
-The eligibility criteria are as follows:
+According to Daniel Kahneman’s theory of human behaviour, people have two systems of thinking where System 1 is automatic, fast and concrete (e.g. imagine stopping quickly upon seeing the red man at a traffic light junction) while System 2 is slow, effortful and abstract (e.g. imagine mentally trying to compute “239 x 123”). This dual system theory can explain people’s habits on recycling (or lack of).
 
-a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to individuals or groups
+People might use heuristics (or simple rule of thumbs) to decide what can be recycled. Given people’s busy routines, it is unlikely that they will stop in their tracks to read and understand the labels on recycling bins, or search on the internet what can be recycled (System 2). Instead, they might use their immediate senses (e.g. sight, touch) and abstract thinking (e.g. paper, plastic categories) to determine if an item is recyclable (System 1), resulting in contamination in recycling bins.
 
-b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All group members must be 17 – 35 years old
+**How can a project be designed to shape habits and address behavioural heuristics for primary school students so that they can recycle more and recycle right in the school and/or at home?** Applicants need not have behavioural science background and may curate multiple ideas in a project.
 
-c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At least one of the group members must be a Singaporean or Permanent Resident
+Can I apply?
 
-d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At least one of the group members must be a prospective student, full-time student or alumni of NUS (eligible upon receipt of offer of admission for prospective NUS students and up to one year after graduation for NUS alumni)
+Applicants are to fulfil the below criteria:
 
-e)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; At least one of the group members must attend the briefing session on the programme on 18 June 2022 (Sat). For those that did not manage to attend the briefing session, please email Ms Tan Mei Ling ([Mei\_Ling\_ML\_TAN@pa.gov.sg](mailto:Mei_Ling_ML_TAN@pa.gov.sg)) and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)).
+* Open to individuals or groups
 
-f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Projects must have at least one project partner by the project pitching session on 6 August 2022 (Sat)
+* All group members must be 17 – 35 years old
 
-g)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project must be:
+* At least one of the group members must be a Singaporean or Permanent Resident
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Addressing one of the stated project topics;
+* At least one of the group members must be a prospective student, full-time student or alumni of NUS (eligible upon receipt of offer of admission for prospective NUS students)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Implemented in the South West District (to check if the location falls within the South West District, visit&nbsp;[www.pa.gov.sg](http://www.pa.gov.sg/)&nbsp;and insert the postal code under ‘District Information’ at the bottom of the webpage)
+* Applicants may engage on their own or seek support from NUS and South West CDC on the primary school to carry out the pilot implementation, of which must be in the South West District (to check if the location falls within the South West District, visit [www.pa.gov.sg](http://www.pa.gov.sg) and insert the postal code under ‘District Information’ at the bottom of the webpage)
 
-**How to Apply**
+How do I apply?
 
-Interested applicants are required to:
+_Briefing_
 
-a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Attend the virtual briefing session on&nbsp;**Saturday, 18 June 2022 at 10am**. Please register for the briefing session&nbsp;[here](https://us02web.zoom.us/meeting/register/tZckfuGoqD0iH9XF5hONNcaoZd8Vh2V6plKk).
+Interested applicants are to register for a briefing on **15 October 2022 (Sat), 10 – 11am** by emailing Mr Yang Chang Jye (YANG\_Chang\_Jye@pa.gov.sg) and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)). Applicants are highly encouraged to share their ideas during the briefing session to get early feedback before drafting the project proposal.
 
-b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Submit a summary of their project idea (maximum 1000 words) that contain the following details:
+_Project Proposal_
 
-o&nbsp;&nbsp; Project problem statement and intended behavioural and environmental outcome(s) for specific context that the project would be implemented in;
+Interested applicants are to **submit a short project proposal** that contain all the following details:
 
-o&nbsp;&nbsp; Background of the team member(s) (e.g. discipline, interest) and reason for application;
+1.       Project problem statement and intended behavioural and environmental outcome(s);
 
-o&nbsp;&nbsp; Project description, including the approach and how the project could engender behavioural change and contribute to the community; and
+2.       Project description, including the approach and how it was informed by the understanding of people’s recycling behaviours and habits; and
 
-o&nbsp;&nbsp; Overview and comparison of existing similar initiatives implemented in Singapore.
+3.       Background of the team member(s) (e.g. discipline, interest) and reason for application.
 
-Please email your summary in&nbsp;**Word document or PDF format**&nbsp;to Ms Tan Mei Ling ([Mei\_Ling\_ML\_TAN@pa.gov.sg](mailto:Mei_Ling_ML_TAN@pa.gov.sg)), and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)) with the subject “\[Zero Waste Testbed Initiative Second Edition\] ” by 6 July 2022 (Wednesday).
+Please email your summary by **11 November 2022 (Fri)** in **Word document or PDF format** to Mr Yang Chang Jye (YANG\_Chang\_Jye@pa.gov.sg) and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)) with the subject “\[ZWTI\] _(insert project name)”.
 
-**Funding Support**
+What happens after I apply?
 
-A funding of&nbsp;**up to $10,000**&nbsp;will be awarded to successful applicants on a reimbursement basis. The funding will be disbursed in two tranches, (1) upon the completion of a pre-determined project milestone and (2) balance amount upon completion of the project. Applicants must submit a completed statement of accounts within two months of reaching project milestone and project completion respectively to receive the reimbursement.  
+Applicants will receive a response in 2 weeks on the submitted proposal. Applicants may be invited to present their project idea to the organisers where they will provide feedback. Shortlisted applicants will then further develop their proposal for a pitching session to an evaluation panel, with support from an assigned project mentor. Upon award, applicants generally have 1 year to prepare and implement their projects.
+
+Will there be other topics that I can apply for?
+
+Applicants are welcome to contact Mr Yang Chang Jye (YANG\_Chang\_Jye@pa.gov.sg) and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)) with project ideas or proposals related to waste minimisation.
+
+For topics, applicants can refer to the other problem statements below, as well as the awarded projects on Recycling Right, Promoting Reuse and Waste to Resource for reference.
+
+**1\. Design for Recycle Right: Zero Contamination**
+
   
-Completed projects with potential may apply for further funding support of up to $10,000 to scale-up their project in the community within the South West District after the completion of their pilot. Past and existing applicants of the Zero Waste Testbed Initiative @ South West programme who are keen to do so may contact the organisers for more information.
+The [Recycle Right bins](https://nus.edu.sg/zerowaste/recycling-right-with-new-bin-design/) with behaviourally-informed design have shown to be effective in getting people to recycle right, with contamination rates of plastic bottle recycling bin reducing by more than half in both a campus and public space (shopping mall) setting. The bins have the following key features:
 
-For more information on the initiative, please click&nbsp;[here.](https://go.gov.sg/zerowastetestbed-factsheet)
+a.       A clear display with actual non-recyclables that highlights concretely what should not be placed inside the recycling bins
+
+b.       A slidable opening lid that adds friction to reduce mindless, habitual throwing of non-recyclables
+
+c.       A transparent bin body that showcases the accumulated clean recyclables
+
+The current bins are made of mostly powder-coated mild steel, except for the display and body which are made of acrylic. This design and materials have contributed to its aesthetic look, but its cost is higher than that of plastic. However, the production of plastic bins requires a high upfront cost of a plastic mould.
+
+**With the objective of retaining the key features/intentions of the bins that have resulted in its behavioural efficacy, how might a new bin be designed (e.g. innovative design to reduce material use or alternative materials) to be implemented in more premises (e.g. schools) (i) at a lower production cost and/or (ii) drive the contamination rate towards zero?**
+
+**2\. Designing for Reusable Habit in F&B Outlets**
+
+NUS plans to phase out key takeaway disposables (e.g. PP5 cups and paper-based containers) in canteens by 2025, which comprise a sizeable component of the waste sent for incineration that is not accepted by industry for recycling. To support this policy implementation, a convenient and operationally feasible reusable rental system will be implemented to facilitate ease of return – this had been piloted in the first scenario call of the Zero Waste Testbed Initiative at NUS Techno Edge canteen. In addition, the user experience of the system needs to facilitate the repetition of the behaviour for habit formation. 
+
+_a._       _Reusable cup design_
+
+A pleasant experience of using a reusable cup could encourage subsequent use. Cups also have operational requirements from stallholders and central cleaning facilities. For example, cups for fruit juice stalls require transparency to identify the type of drink easily and include a reusable straw for ice-blended drinks. Cups for hot drinks should prevent scalding when held and made of a light material for ease of collection. As all the reusable cups are steam-washed centrally by machines, the design should have minimal gaps (e.g. at the screw lid or mouth of cup) to minimise accumulation of dirt for easy washing.
+
+**How might a reusable cup be designed to meet the above requirements to improve its versatility and provide a pleasant experience for the user?** Applicants are expected to produce a mock-up design (e.g. through 3D printing) for preliminary evaluation.
+
+_b._       _Behavioural-based “reward” scheme for everyday habit_
+
+Renting a reusable or bringing one’s own reusable for takeaways in a canteen requires some intrinsic effort to overcome status quo inertia and sufficient repetition to become an automatic routine (i.e. a habit). To encourage habit formation, one way is to surprise users with random or intermittent small rewards to spur repetition. A large one makes the behaviour largely contingent on the rewards – when the rewards are removed, the desired behaviour likely discontinues.
+
+**How might a reward scheme be designed to encourage habit formation that can be operationalised in an NUS canteen?** Applicants are expected to also conduct behavioural data measurements over a period of time to quantify the efficacy of the scheme.
