@@ -95,3 +95,36 @@ _b._       _Behavioural-based “reward” scheme for everyday habit_
 Renting a reusable or bringing one’s own reusable for takeaways in a canteen requires some intrinsic effort to overcome status quo inertia and sufficient repetition to become an automatic routine (i.e. a habit). To encourage habit formation, one way is to surprise users with random or intermittent small rewards to spur repetition. A large one makes the behaviour largely contingent on the rewards – when the rewards are removed, the desired behaviour likely discontinues.
 
 **How might a reward scheme be designed to encourage habit formation that can be operationalised in an NUS canteen?** Applicants are expected to also conduct behavioural data measurements over a period of time to quantify the efficacy of the scheme.
+
+
+**Awarded Projects**
+
+First Edition
+
+Recycling Right: Publicity to Reduce Recycling Contamination Rate \[completed\]
+![Recyclean](/images/What%20We%20Do/For%20Environment/Recyclean%20team.jpg)
+_RecyClean team members: (from left to right) Colin Chan Wei Hua (Business and Information Systems), Gillian Yeong (Linguistics and Sociology), Yak Jun Yan James (Business and Information Systems), Cindy Evangeline (Industrial Design), and Ho Yi Jing (Industrial Design)._ 
+
+The team, RecyCLEAN, aimed to reduce recycling contamination rate through an evidence-based publicity campaign, comprising large wall publicity decals and Instagram educational campaign. This was implemented in UTown in September 2021 and resulted in an overall 10% decrease in recycling contamination rate. Read more about the project [here](https://nus.edu.sg/zerowaste/whats-breaking-recycling-the-culprit-behind-lower-recycling-rates/).
+
+Promoting Reuse: Reusable Rental System [completed]
+![UGo](/images/What%20We%20Do/For%20Environment/UGo%20team.jpg)
+_UGo team members: (from left to right) Daniel Foong (Engineering), Lim An Qi (Engineering), Liaw Ann Shin (Environmental Studies), Toh Sihui (Computing) and Celeste Ong (Marketing)._ 
+
+The team, UGo, aimed to get the community to reduce disposable usage by introducing a reusable rental system that was convenient for users and has a tracking system to minimise the loss of reusables. Piloted in Techno Edge Canteen from January to May 2022, the team had leveraged their various skill sets and developed a system that comprised an app to track the borrowing and returning of reusables, return bins that were conveniently placed in faculties near Techno Edge canteen and a marketing campaign to create a positive experience of the initiative. At the end of the pilot, over 800 reusables were used, with a high return rate of over 95%.
+
+Converting Waste to Resource: Upcycling Fruit Peel Waste to EcoEnzyme Detergent \[in progress\]
+![ECo](/images/What%20We%20Do/For%20Environment/EcoEnzyme.jpg)
+_EcoEnzyme lead: Ana Zeng (Industrial Design)_
+
+The EcoEnzyme project aims to pilot the upcycling of fruit peel waste into a detergent that can be used as a cleaning agent in F&B premises. Piloted in Techno Edge canteen, the project trialled a step-by-step process to guide the fruit juice stallholder and cleaners in fermenting the fruit peels and turning it into detergent. The detergent is also undergoing numerous tests (e.g. microbial) on the level of efficacy as a cleaning agent. In addition, the project had engaged the community in creating their own upcycled detergent at home.  
+
+Converting Waste to Resource: Upcycling Plastic Wastes to Street Furniture \[in progress\]
+![Brambe](/images/What%20We%20Do/For%20Environment/Brambe-1.jpg)
+Brambe team members: Bernie Ang (Architecture) [first from left] and Amanda Tay (Architecture) [first from right], with Ms Grace Fu, Minister for Sustainability and the Environment
+
+The team, Brambe, aims to design and produce street furniture by integrating upcycled plastic wastes and Jesmonite. Specifically, the team has designed a modular study table that allows reconfiguration for both individual use and group discussions, while considering the amount of material use and overall user experience. The team is in the midst of producing the tables and plans to trial them in an open study area in NUS.
+
+Upcycling Edition
+
+Upcycling Plastic & Glass Waste to Floating Eco-Gardens [in progress]
