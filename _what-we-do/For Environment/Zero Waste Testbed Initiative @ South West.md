@@ -8,7 +8,7 @@ third_nav_title: For Environment
 
 The Zero Waste Testbed Initiative is organised by NUS and South West Community Development Council to empower and support youths in the co-creation of innovative solutions towards zero waste and circular economy through test-bedding of proof-of-concepts within the NUS campus.
 
-This is an opportunity for teams to obtain up to $10,000 in project funding and mentorship by industry and government practitioners in the implementation of their ideas. 
+This is an opportunity for teams to obtain up to **$10,000 in project funding** and **mentorship** by industry and government practitioners in the implementation of their ideas. 
 
 **ONGOING CALL: BEHAVIOURAL EDUCATION FOR RECYCLING RIGHT FROM YOUNG** 
 
@@ -23,7 +23,7 @@ People might use heuristics (or simple rule of thumbs) to decide what can be rec
 
 **How can a project be designed to shape habits and address behavioural heuristics for primary school students so that they can recycle more and recycle right in the school and/or at home?** Applicants need not have behavioural science background and may curate multiple ideas in a project.
 
-Can I apply?
+**Can I apply?**
 
 Applicants are to fulfil the below criteria:
 
@@ -37,7 +37,7 @@ Applicants are to fulfil the below criteria:
 
 * Applicants may engage on their own or seek support from NUS and South West CDC on the primary school to carry out the pilot implementation, of which must be in the South West District (to check if the location falls within the South West District, visit [www.pa.gov.sg](http://www.pa.gov.sg) and insert the postal code under ‘District Information’ at the bottom of the webpage)
 
-How do I apply?
+**How do I apply?**
 
 _Briefing_
 
@@ -55,11 +55,11 @@ Interested applicants are to **submit a short project proposal** that contain al
 
 Please email your summary by **11 November 2022 (Fri)** in **Word document or PDF format** to Mr Yang Chang Jye (YANG\_Chang\_Jye@pa.gov.sg) and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)) with the subject “\[ZWTI\] _(insert project name)”.
 
-What happens after I apply?
+**What happens after I apply?**
 
 Applicants will receive a response in 2 weeks on the submitted proposal. Applicants may be invited to present their project idea to the organisers where they will provide feedback. Shortlisted applicants will then further develop their proposal for a pitching session to an evaluation panel, with support from an assigned project mentor. Upon award, applicants generally have 1 year to prepare and implement their projects.
 
-Will there be other topics that I can apply for?
+**Will there be other topics that I can apply for?**
 
 Applicants are welcome to contact Mr Yang Chang Jye (YANG\_Chang\_Jye@pa.gov.sg) and Ms Mindy Ong ([mindy\_ong@nus.edu.sg](mailto:mindy_ong@nus.edu.sg)) with project ideas or proposals related to waste minimisation.
 
@@ -99,7 +99,7 @@ Renting a reusable or bringing one’s own reusable for takeaways in a canteen r
 
 **Awarded Projects**
 
-First Edition
+*First Edition*
 
 Recycling Right: Publicity to Reduce Recycling Contamination Rate \[completed\]
 ![Recyclean](/images/What%20We%20Do/For%20Environment/Recyclean%20team.jpg)
@@ -125,10 +125,10 @@ Brambe team members: Bernie Ang (Architecture) [first from left] and Amanda Tay 
 
 The team, Brambe, aims to design and produce street furniture by integrating upcycled plastic wastes and Jesmonite. Specifically, the team has designed a modular study table that allows reconfiguration for both individual use and group discussions, while considering the amount of material use and overall user experience. The team is in the midst of producing the tables and plans to trial them in an open study area in NUS.
 
-**Upcycling Edition**
+*Upcycling Edition*
 
 Upcycling Plastic & Glass Waste to Floating Eco-Gardens [in progress]
 ![Ariel](/images/What%20We%20Do/For%20Environment/Ariel.png)
 Project Ariel Team Member, Ibnur Rashad (Engineering Science Alumnus) [left], had received Gold Award at Taiwan International Invention Show & Technomart. Other team members include Ong Kok Chung (Environmental Engineering), Tan Yi Han (Engineering Science Alumnus), Sullivan Wang and Ashton Law. 
 
-The team, Project Ariel, aims to create floating eco-garden modules by upcycling plastic and glass waste. The plastic waste provides buoyancy to the modules, while glass waste is shredded to form the substrate for the garden. The team is also engaging the community to learn about the upcycling process and build their own floating eco-garden modules. Read more about the project [here](https://www.todayonline.com/singapore/nus-alumni-use-plastic-and-glass-waste-make-floating-garden-edible-plants-1791926)
+The team, Project Ariel, aims to create floating eco-garden modules by upcycling plastic and glass waste. The plastic waste provides buoyancy to the modules, while glass waste is shredded to form the substrate for the garden. The team is also engaging the community to learn about the upcycling process and build their own floating eco-garden modules. Read more about the project [here](https://www.todayonline.com/singapore/nus-alumni-use-plastic-and-glass-waste-make-floating-garden-edible-plants-1791926).
