@@ -125,11 +125,10 @@ Brambe team members: Bernie Ang (Architecture) [first from left] and Amanda Tay 
 
 The team, Brambe, aims to design and produce street furniture by integrating upcycled plastic wastes and Jesmonite. Specifically, the team has designed a modular study table that allows reconfiguration for both individual use and group discussions, while considering the amount of material use and overall user experience. The team is in the midst of producing the tables and plans to trial them in an open study area in NUS.
 
-Upcycling Edition
+**Upcycling Edition**
 
 Upcycling Plastic & Glass Waste to Floating Eco-Gardens [in progress]
 ![Ariel](/images/What%20We%20Do/For%20Environment/Ariel.png)
 Project Ariel Team Member, Ibnur Rashad (Engineering Science Alumnus) [left], had received Gold Award at Taiwan International Invention Show & Technomart. Other team members include Ong Kok Chung (Environmental Engineering), Tan Yi Han (Engineering Science Alumnus), Sullivan Wang and Ashton Law. 
 
-The team, Project Ariel, aims to create floating eco-garden modules by upcycling plastic and glass waste. The plastic waste provides buoyancy to the modules, while glass waste is shredded to form the substrate for the garden. The team is also engaging the community to learn about the upcycling process and build their own floating eco-garden modules. Read more about the project here.
-
+The team, Project Ariel, aims to create floating eco-garden modules by upcycling plastic and glass waste. The plastic waste provides buoyancy to the modules, while glass waste is shredded to form the substrate for the garden. The team is also engaging the community to learn about the upcycling process and build their own floating eco-garden modules. Read more about the project [here](https://www.todayonline.com/singapore/nus-alumni-use-plastic-and-glass-waste-make-floating-garden-edible-plants-1791926)
