@@ -12,3 +12,28 @@ Click [here](/files/What%20we%20do/Sustainable%20South%20West_Digital-1.pdf) t
 
 **Sustainable South West Awards 2022**
 
+<img  
+		 src="/images/What%20We%20Do/For%20Environment/SWW2022.jpg"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
