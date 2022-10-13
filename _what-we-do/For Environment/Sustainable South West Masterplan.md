@@ -9,3 +9,5 @@ The **Sustainable South West (SSW)** is a sustainability masterplan that will st
 Developed by the community for the community, the SSW is a culmination of voices, views and input from South West residents from all walks of life.  
   
 Click [here](/files/What%20we%20do/Sustainable%20South%20West_Digital-1.pdf) to view the e-version of the Sustainable South West masterplan.
+
+**Sustainable South West Awards 2022**** 
