@@ -19,6 +19,6 @@ The South West Community Development Council (CDC) invites your nominations for 
 
 We encourage you to nominate your organisation’s environmental projects and/or activities that contribute towards a sustainable environment. Nominees will be evaluated on their achievements/contributions/projects from January – December 2022, within the South West district.
 
-Please click [here](/files/What%20we%20do/Sustainable%20South%20West%20Awards%202022%20Nomination%20Form.pdf) for the nomination form. Please submit your nominations for the Sustainable South West Awards 2022 by Sunday, 20 November 2022 via https://go.gov.sg/sswawards2022.
+Please click [here](/files/What%20we%20do/Sustainable%20South%20West%20Awards%202022%20Nomination%20Form.pdf) for the nomination form. Please submit your nominations for the Sustainable South West Awards 2022 by **Sunday, 20 November 2022** via this [link](https://form.gov.sg/#!/633ce7b636ec6a00122a5946).
 
 Thank you and we look forward to your nominations!
