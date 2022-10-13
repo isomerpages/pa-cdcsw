@@ -11,13 +11,13 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-<a href="https://go.gov.sg/swsfa-power">
-	<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_15%20Sept%202022_power%20industry_FB_FA2.jpg"></a>
+<a href="https://tinyurl.com/mendaki-digismart">
+	<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/22%20Oct%20IoT.jpg"></a>
 
 
-<a href="https://go.gov.sg/swsfa-hr">
+<a href="https://go.gov.sg/swsfa-firstaid">
 <img 
-src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_JS_28%20Sep%202022_hr_FB_FA.jpg"></a>
+src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar%20EDM_26%20Oct%202022_LS_firstaid_FB_FA.jpg"></a>
 
 **SkillsFuture Advice Workshops/ Webinars**
 
