@@ -10,4 +10,5 @@ Developed by the community for the community, the SSW is a culmination of voices
   
 Click [here](/files/What%20we%20do/Sustainable%20South%20West_Digital-1.pdf) to view the e-version of the Sustainable South West masterplan.
 
-**Sustainable South West Awards 2022**** 
+**Sustainable South West Awards 2022**
+
