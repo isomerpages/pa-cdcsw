@@ -1,12 +1,12 @@
 ---
 title: Contact Details
-permalink: /contact-us/Contact-Details
+permalink: /contact-us/Contact-Details/
 description: ""
 ---
 **SME Centre@SouthWest**<br>
 The SME Centre@SouthWest as launched in 2013, in partnership with Enterprise Singapore (ESG), Singapore Manufacturing Federation (SMF) and South West CDC. It serves as a one-stop centre that assists businesses on business diagnosis, information on Government funded programmes, capability workshops and group based upgrading. 
 
-To book an appointment with a business advisor, please Contact **Ms Michelle Ling** via email [michelle.ling@smecentre-smf.sg](mailto:michelle.ling@smecentre-smf.sg) or handphone 8186 6018.
+To book an appointment with a business advisor, please email [southwest@smecentre-smf.sg](mailto:michelle.ling@smecentre-smf.sg) or call 6826 3020.
 
 **Social Service Office (SSO)**<br>
 SSOs are set up by the Ministry of Social and Family Development (MSF) to bring social assistance closer to needy residents. Residents can apply for ComCare assistance at the SSO in their vicinity.  
