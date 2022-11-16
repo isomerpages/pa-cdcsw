@@ -11,8 +11,9 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-<a href="https://go.gov.sg/swsfa-digitalmedia">
-	<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_DS_15%20Nov%202022_digital%20media_FB_FA.jpg"></a>
+<a href="https://event.e2i.com.sg/web/JrgCL_Nov30">
+<img
+src="/images/What%20We%20Do/For%20Lifelong%20Learning/eDM-01.png"></a>
 
 **SkillsFuture Advice Workshops/ Webinars**
 
