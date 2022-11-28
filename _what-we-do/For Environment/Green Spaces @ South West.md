@@ -33,4 +33,4 @@ If you are keen to seek funding support for your green spaces, please see the fo
 
 **Adopt-A-Garden @ South West:** corporations and organisations can adopt gardens by sponsoring a part of the community gardens’ expenses or donating furniture and tools. They can also volunteer and help out at the community gardens on a regular basis, deepening engagement with residents and fostering community bonds. The CDC will assist to do the matching of community gardens.
 
-For more information, please email: southwest\_mei\_ling\_ml@pa.gov.sg.
+For more information, please email: southwest\_cdc\_@pa.gov.sg.
