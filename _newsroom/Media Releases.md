@@ -3,7 +3,7 @@ title: Media Releases
 permalink: /newsroom/Media-Releases/
 description: ""
 ---
-**12 Nov 2022** :[MORE SUPPORT FOR CAREGIVERS  IN THE SOUTH WEST DISTRICT](/files/Media%20Release/MR%20%20%202022/2022%2011%2012%20-%20Media%20Release%20-%20South%20West%20District%20Meeting%202022%20(final).pdf)
+**12 Nov 2022** : [MORE SUPPORT FOR CAREGIVERS  IN THE SOUTH WEST DISTRICT](/files/Media%20Release/MR%20%20%202022/2022%2011%2012%20-%20Media%20Release%20-%20South%20West%20District%20Meeting%202022%20(final).pdf)
 
 **24 Sep 2022** : [MORE THAN 400 VOLUNTEERS GATHERED TO REACH OUT TO 1,000 VULNERABLE  HOUSEHOLDS THROUGH ESSENTIALS PACKS DISTRIBUTION](/files/Media%20Release/MR%20%20%202022/2022%2009%2024%20-%20Media%20Release%20-%20ExxonMobil%20Household%20Packs%20Distribution%2020220924.pdf)
 
