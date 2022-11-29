@@ -16,8 +16,6 @@ Succeeding 1,000,000 Native Plants @ South West, Green Spaces @ South West will 
   
 **Love** \- where residents care and share for the vulnerable, who can be meaningfully engaged at these spaces and enjoy the garden harvest together.
 
-![](https://www.cdc.gov.sg/images/librariesprovider6/slider/thumbnail-green-spaces-resized.jpg?sfvrsn=83d4f72d_1)
-
 If you are keen to seek funding support for your green spaces, please see the following: 
 
 **A one-time seed funding:** for gardening groups as follows:
