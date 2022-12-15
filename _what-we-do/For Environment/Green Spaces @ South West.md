@@ -1,6 +1,6 @@
 ---
 title: Green Spaces @ South West
-permalink: /what-we-do/For-Environment/greenspaces
+permalink: /what-we-do/For-Environment/greenspaces/
 description: ""
 third_nav_title: For Environment
 ---
@@ -15,8 +15,6 @@ Succeeding 1,000,000 Native Plants @ South West, Green Spaces @ South West will 
 **Learn** \- where garden volunteers gain relevant and new knowledge to enhance the community experience in these green spaces.  
   
 **Love** \- where residents care and share for the vulnerable, who can be meaningfully engaged at these spaces and enjoy the garden harvest together.
-
-![](https://www.cdc.gov.sg/images/librariesprovider6/slider/thumbnail-green-spaces-resized.jpg?sfvrsn=83d4f72d_1)
 
 If you are keen to seek funding support for your green spaces, please see the following: 
 
@@ -33,4 +31,4 @@ If you are keen to seek funding support for your green spaces, please see the fo
 
 **Adopt-A-Garden @ South West:** corporations and organisations can adopt gardens by sponsoring a part of the community gardens’ expenses or donating furniture and tools. They can also volunteer and help out at the community gardens on a regular basis, deepening engagement with residents and fostering community bonds. The CDC will assist to do the matching of community gardens.
 
-For more information, please contact Ms Tan Mei Ling via email: tan\_mei\_ling\_ml@pa.gov.sg.
+For more information, please email: southwest\_cdc@pa.gov.sg.
