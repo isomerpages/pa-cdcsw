@@ -7,8 +7,7 @@ third_nav_title: For Environment
 **Clean Up South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
 
 The objective of Clean Up South West! is aimed to:
-
-*   Provide a platform for residents to recycle;
+* Provide a platform for residents to recycle;
 *   Offset carbon emission through recycling; and
 *   Champion environmental responsibility by rallying our partners to build a sustainable environment in the community.
 
@@ -18,12 +17,46 @@ If you are keen to find out more, or wish to be part of the South West Sustainab
 ![](/images/What%20We%20Do/For%20Environment/Clean%20Up%20SW.jpg)
   ![](/images/What%20We%20Do/For%20Environment/Sustainable%20SW.jpg)
 
-**Recent Programme**
+**Clean Up South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
+The objective of Clean Up South West! is aimed to:
 
-Clean Up South West! 2022 took place on Sunday, 16 January 2022 at Hillview Community Club with the focus to “Reuse, before Recycling”. Guest-of-honour, Mr Gan Kim Yong, Minister for Trade and Industry and Adviser to Chua Chu Kang GRC GROs launched the Share-Your-Book @ South West initiative.  
+* Provide a platform for residents to recycle;
+* Offset carbon emission through recycling; and
+* Champion environmental responsibility by rallying our partners to build a sustainable environment in the community.
 
-The Share-Your-Book @ South West initiative is a collaboration with Sharetings and ALBA E-Waste, where residents can donate their pre-loved books to over 14 Community Library @ RCs and reading corners located in the South West District. Residents will be able to use the Sharetings mobile app to donate pre-loved books, while ALBA will provide CO2 points when people bring their recyclables to any of ALBA’s bins. CO2 points accumulated on ALBA STEP Up app can be exchanged for rewards such as e-vouchers for eco-friendly products.
+Contact Us 
 
-Mayor of South West District, Ms Low Yen Ling said, “We hope the Share-Your-Book @ South West initiative will give residents a chance to share their pre-loved books and keep them in use for longer, and reduce the amount of waste produced. If more things can be reused even before recycling, the levels of waste will come down. Having little book-sharing communities across our district will contribute to a growing culture of sharing and reusing that supports our South West district’s goal to be a Zero Waste community.”   
+If you are keen to find out more, or wish to be part of the South West Sustainable journey, please contact Chang Jye (Email: Yang_Chang_Jye@pa.gov.sg).
 
-![](/images/What%20We%20Do/For%20Environment/Share%20p1.jpg)
+**Recent programme**
+
+Clean Up South West! 2023 took place on Saturday, 31 January 2022 at Chua Chu Kang Community Club where more than 40 community recycling points will be set up across the district on 7, 8, 14 and 15 Jan 2023, to encourage residents to donate their recyclables such as clothes, paper, carton, newspaper in exchange for groceries. 1000 Points on ALBA STEP UP App will be awarded to residents who participated in the recycling drive. You could refer to the list of collection points [here](https://go.gov.sg/cleanupswcollection2023).
+
+The “Trash-for-Groceries” exchange rates are as follows:
+
+•	3 kg of clothes = 1 packet of 1 kg (white) rice
+
+•	4 kg of paper/carton/newspaper = 1 packet of noodles
+
+Guest-of-honour, Mr Gan Kim Yong, Minister for Trade and Industry and Adviser to Chua Chu Kang GRC GROs launched the **Green Trails @ South West** initiative.  
+
+ 
+Green Trails @ South West, a collaboration with the South West CDC, NTU Earthlink, National Parks and the community to co-create Trails, with South West’s community gardens as checkpoints. Using a digital passport, residents can scan the QR codes at the gardens to download stories and fun facts about the gardens, answer questions and upload photos of themselves at the gardens.  Green Trails @ South West initiative will be piloted in Chua Chu Kang GRC with four community gardens in Bukit Gombak and gradually be expanded to include more community gardens in the district. 
+
+We hope to encourage our residents to adopt a healthier lifestyle by walking and discover interesting facts about our community gardens. This initiative is also aligned with “Our Green Ride” pillar of our Sustainable South West Master Plan, for a car-lite community.
+
+Michelman Singapore will contribute $25,000 for the Green Trail that will go towards supporting 1,000 vulnerable families with grocery packs to help them with daily expenses. For every person who completes the trail, $25 will be donated to support these families.
+
+Do check out the addresses below for the Green Trail piloted in Bukit Gombak Division:
+
+
+
+
+
+| **Name of Community Garden** |  **Address** | 
+| -------- | -------- | 
+| Hillview Garden    | At the junction of Jln Remaja/ Jln Batu Nilam Postal Code 668671    |
+ Hillview Connection Garden    | Between Hillview Apt & Meralodge Condo Postal Code 669583   |
+Pavilion’s Edible and Biodiversity Garden    | Pavilion Playground Park Postal Code 658522   |
+Hillview Vantage Garden   | Hillview Avenue Postal Code 669620
+
