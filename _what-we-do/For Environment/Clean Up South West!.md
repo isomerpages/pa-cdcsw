@@ -40,6 +40,7 @@ The “Trash-for-Groceries” exchange rates are as follows:
 
 Guest-of-honour, Mr Gan Kim Yong, Minister for Trade and Industry and Adviser to Chua Chu Kang GRC GROs launched the **Green Trails @ South West** initiative.  
 
+![](/images/What%20We%20Do/For%20Environment/DSC_3108%20(1).jpg)
  
 Green Trails @ South West, a collaboration with the South West CDC, NTU Earthlink, National Parks and the community to co-create Trails, with South West’s community gardens as checkpoints. Using a digital passport, residents can scan the QR codes at the gardens to download stories and fun facts about the gardens, answer questions and upload photos of themselves at the gardens.  Green Trails @ South West initiative will be piloted in Chua Chu Kang GRC with four community gardens in Bukit Gombak and gradually be expanded to include more community gardens in the district. 
 
@@ -59,4 +60,3 @@ Do check out the addresses below for the Green Trail piloted in Bukit Gombak Div
  Hillview Connection Garden    | Between Hillview Apt & Meralodge Condo Postal Code 669583   |
 Pavilion’s Edible and Biodiversity Garden    | Pavilion Playground Park Postal Code 658522   |
 Hillview Vantage Garden   | Hillview Avenue Postal Code 669620
-
