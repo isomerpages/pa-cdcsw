@@ -10,7 +10,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: CDC Voucher
-          description: $100 in CDC Vouchers
+          description: $300 in CDC Vouchers
           url: /what-we-do/new-in
         - title: SWIF+
           description: South West Innovation Fund Plus
@@ -21,7 +21,7 @@ sections:
         - title: CDC COVID-19 Relief Fund
           description: Kong Meng San (KMS)-CDC COVID-19 Relief Fund
           url: /what-we-do/for-assistance/kms/
-      background: /images/cdcvbanner.png
+      background: /images/What We Do/News In/Cover Banner No Text - Banner.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
         us to create our home, a G.R.E.A.T South West District."'
