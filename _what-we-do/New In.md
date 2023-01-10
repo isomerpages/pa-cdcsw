@@ -5,7 +5,7 @@ description: ""
 ---
 **About CDC Vouchers Scheme 2023**
 
-![CDC](/images/CDC%20vouchers/Cover%20Banner%20-%20Post%20with%20articles.png)
+![](/images/What%20We%20Do/News%20In/Cover%20Banner%20-%20Post%20with%20articles.png)
 
 
 Every Singaporean household will receive a total of $300 CDC Vouchers on 3 January 2023.  This is part of the enhanced support under the Assurance Package to help cushion the impact of additional Goods & Services Tax (GST) for Singaporean households and the $1.5 billion Support Package announced in October 2022.  Singaporean households can use the vouchers to purchase goods and services from participating hawkers and heartland merchants as well as participating supermarkets.
