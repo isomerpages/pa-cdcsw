@@ -26,4 +26,3 @@ SW Care Referral Guide Image
 
 **Help Schemes**<br>
 The South West CDC hopes to strengthen the safety net and benefit more needy residents through our various help schemes.
-
