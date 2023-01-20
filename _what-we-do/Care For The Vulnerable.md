@@ -1,6 +1,6 @@
 ---
 title: Care For The Vulnerable
-permalink: /what-we-do/CARE-FOR-THE-VULNERABLE
+permalink: /what-we-do/CARE-FOR-THE-VULNERABLE/
 description: ""
 ---
 **Local Programmes**<br>
@@ -27,4 +27,3 @@ SW Care Referral Guide Image
 **Help Schemes**<br>
 The South West CDC hopes to strengthen the safety net and benefit more needy residents through our various help schemes.
 
-Click to view the[South West Community Resource Map](/files/south-west-community-resource-map---22-nov.pdf) 
