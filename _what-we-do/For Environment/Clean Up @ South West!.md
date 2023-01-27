@@ -51,9 +51,6 @@ Michelman Singapore will contribute $25,000 for the Green Trail that will go tow
 Do check out the addresses below for the Green Trail piloted in Bukit Gombak Division:
 
 
-
-
-
 | **Name of Community Garden** |  **Address** | 
 | -------- | -------- | 
 | Hillview Garden    | At the junction of Jln Remaja/ Jln Batu Nilam Postal Code 668671    |
