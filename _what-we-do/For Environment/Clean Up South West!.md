@@ -6,7 +6,7 @@ third_nav_title: For Environment
 ---
 **Clean Up @ South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
 
-The objective of Clean Up South West! is aimed to:
+The objective of Clean Up @ South West! is aimed to:
 * Provide a platform for residents to recycle;
 *   Offset carbon emission through recycling; and
 *   Champion environmental responsibility by rallying our partners to build a sustainable environment in the community.
@@ -17,8 +17,8 @@ If you are keen to find out more, or wish to be part of the South West Sustainab
 ![](/images/What%20We%20Do/For%20Environment/Clean%20Up%20SW.jpg)
   ![](/images/What%20We%20Do/For%20Environment/Sustainable%20SW.jpg)
 
-**Clean Up South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
-The objective of Clean Up South West! is aimed to:
+**Clean Up @ South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
+The objective of Clean Up @ South West! is aimed to:
 
 * Provide a platform for residents to recycle;
 * Offset carbon emission through recycling; and
@@ -30,7 +30,7 @@ If you are keen to find out more, or wish to be part of the South West Sustainab
 
 **Recent programme**
 
-Clean Up South West! 2023 took place on Saturday, 31 January 2022 at Chua Chu Kang Community Club where more than 40 community recycling points will be set up across the district on 7, 8, 14 and 15 Jan 2023, to encourage residents to donate their recyclables such as clothes, paper, carton, newspaper in exchange for groceries. 1000 Points on ALBA STEP UP App will be awarded to residents who participated in the recycling drive. You could refer to the list of collection points [here](https://go.gov.sg/cleanupswcollection2023).
+Clean Up @ South West! 2023 took place on Saturday, 31 January 2022 at Chua Chu Kang Community Club where more than 40 community recycling points will be set up across the district on 7, 8, 14 and 15 Jan 2023, to encourage residents to donate their recyclables such as clothes, paper, carton, newspaper in exchange for groceries. 1000 Points on ALBA STEP UP App will be awarded to residents who participated in the recycling drive. You could refer to the list of collection points [here](https://go.gov.sg/cleanupswcollection2023).
 
 The “Trash-for-Groceries” exchange rates are as follows:
 
