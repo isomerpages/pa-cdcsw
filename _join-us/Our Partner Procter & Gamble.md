@@ -1,6 +1,6 @@
 ---
 title: Our Partner Procter & Gamble
-permalink: /join-us/OurPartner-Procter-Gamble
+permalink: /join-us/OurPartner-Procter-Gamble/
 description: ""
 ---
 ![](/images/Join%20Us/p%20g.png)
@@ -21,4 +21,4 @@ As the circuit breaker measures eased, P&G donated 500 sets of cleaning products
 
 Frontliners continued to benefit from P&G’s unwavering support, with the company contributing to 2,000 care packs for frontliners in the health, education and transport sectors in June 2020 and 5,000 care packs for healthcare workers during last year’s Project Appreciation @ South West.
 
-Find out more about P&G’s contributions here: [Bridge 2021 #07 Highres Spread (cdc.gov.sg)](https://www.cdc.gov.sg/Flipbook/SouthWest/2022/bridge-2022-issue-07/index.html#p=16)
+Find out more about P&G’s contributions here: [BRIDGE 2022 - Issue 1 - Page 7](/files/E%20BRIDGE/Bridge%202022%20Issue%201.pdf)
