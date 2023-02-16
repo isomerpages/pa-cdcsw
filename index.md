@@ -33,9 +33,9 @@ sections:
   - infopic:
       description: Find out what's happening in the South West District now!
       button: Read more
-      url: https://go.gov.sg/bridge-issue3-may-jun-2022
+      url: https://go.gov.sg/bridge2022-4
       alt: homepagebridgecover
-      image: /images/NewsRoom/E BRIDGE/BRIDGE 3 2022.jpg
+      image: /images/NewsRoom/E BRIDGE/BRIDGE 4- 2022.png
       subtitle: newsletter
       title: BRIDGE
   - infopic:
