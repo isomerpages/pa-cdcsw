@@ -12,13 +12,10 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 *Please click on the images to be redirected to the registration page.*
 
 <a 
-href="https://go.gov.sg/swsfa-agritech">
+href="https://go.gov.sg/swsfa-sustainability">
 <img
-src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar%20EDM_LS_2%20Feb%202023_agritech_FB_FA.jpg"></a>
+src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar_L_15%20Mar%2023_sustainability_FB_FA.jpg"></a>
 
-<a href="https://go.gov.sg/swsfa-drone">
-<img
-src="/images/What%20We%20Do/For%20Lifelong%20Learning/SWCDC_Webinar%20EDM_L_15%20Feb%2023_Eye%20In%20The%20Sky_Square%20hi-res.jpg"></a>
 
 **SkillsFuture Advice Workshops/ Webinars**
 
