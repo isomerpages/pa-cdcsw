@@ -12,19 +12,18 @@ Caregiving @ South West initiative aims to rally the community to Celebrate care
 
 The initiative will address three aspects of caregiving:
 
-1.  Celebrate Caregivers and Caregiving through increasing awareness and appreciation:
-
-*   Rolling out Caregiving @ South West roadshows across the South West District at community events, schools, shopping malls and healthcare institutions;
-*   Roving the Caregiver vending machine to educate and bring relevant information to the community 
+1.  Celebrate Caregivers and Caregiving through increasing awareness and appreciation:  
+*  Rolling out Caregiving @ South West roadshows across the South West District at community events, schools, shopping malls and healthcare institutions;
+* Roving the Caregiver vending machine to educate and bring relevant information to the community 
 
 2.  Support Caregivers with professional training, providing resources and services:
-
 *   Curating educational resources on Caregiving;
 *   Providing Caregiver Support Fund to defray Caregivers’ selfcare and caregiving expenses;
 *   Providing opportunities for caregivers to have selfcare time through Caregiver Respite Day; and
 *   Encouraging community and businesses to support caregiving.
 
-3.  Empower A Caring Community in areas of caregiving:
+
+3. Empower A Caring Community in areas of caregiving:
 
 *   Engaging trained or past caregivers to volunteer as respite caregivers or serve as community caregivers (social employment); and
 *   Organising Caregiving workshops and talks.
