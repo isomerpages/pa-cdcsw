@@ -21,7 +21,7 @@ sections:
         - title: CDC COVID-19 Relief Fund
           description: Kong Meng San (KMS)-CDC COVID-19 Relief Fund
           url: /what-we-do/for-assistance/kms/
-      background: /images/What We Do/News In/Cover Banner No Text - Banner.png
+      background: /images/What We Do/News In/Cover Banner.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
         us to create our home, a G.R.E.A.T South West District."'
