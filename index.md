@@ -18,9 +18,6 @@ sections:
         - title: GRIT FUND
           description: Graduate Relief & Individual Training Fund
           url: /what-we-do/for-students/gritfund/
-        - title: CDC COVID-19 Relief Fund
-          description: Kong Meng San (KMS)-CDC COVID-19 Relief Fund
-          url: /what-we-do/for-assistance/kms/
       background: /images/What We Do/News In/Cover Banner.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
