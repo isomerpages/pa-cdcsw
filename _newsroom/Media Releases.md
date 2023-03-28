@@ -3,6 +3,8 @@ title: Media Releases
 permalink: /newsroom/Media-Releases/
 description: ""
 ---
+**25 Mar 2023** : [WRAP UP OF THREE-MONTH FESTIVE CHEERS @ SOUTH WEST 2022 WITH CUSTOMISED GIFTING TO 150 SENIORS](/files/Media%20Release/MR%202023/2023%2003%2025%20-%20Media%20Release%20-%20Grant-A-Wish%20with%20Elmich%20&%20Nature%20Landscapes%20@%20SW.pdf)
+
 **15 Feb 2023** : [CLOSE TO 500 VULNERABLE SENIORS TO RECEIVE SUPERMARKET VOUCHERS AS PART OF MAYBANK SHOPPING WITH SENIORS @ SOUTH WEST INITIATIVE](/files/Media%20Release/MR%202023/2023%2002%2015%20-%20Media%20Release%20-%20Launch%20of%20Maybank%20Shopping%20with%20Seniors%20@%20South%20West.pdf)
 
 **31 Dec 2022** : [WALK FOR GOOD - LAUNCH OF GREEN TRAILS AT CLEAN UP SOUTH WEST! 2023](/files/Media%20Release/MR%20%20%202022/2022%2012%2031%20-%20Media%20Release%20-%20Launch%20of%20Green%20Trails%20At%20Clean%20Up%20South%20West!%202023.pdf)
