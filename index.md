@@ -38,11 +38,4 @@ sections:
       image: /images/NewsRoom/E BRIDGE/No1-2023.png
       subtitle: newsletter
       title: BRIDGE
-  - infopic:
-      button: Find Out now
-      url: https://www.gowhere.gov.sg/cdc
-      image: /images/small-map.png
-      alt: Image alt text
-      subtitle: district locator
-      title: Which District am I residing in?
 ---
