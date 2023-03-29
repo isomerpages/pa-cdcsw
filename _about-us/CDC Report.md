@@ -1,6 +1,6 @@
 ---
 title: CDC Report
-permalink: /about-us/cdcsw-report
+permalink: /about-us/cdcsw-report/
 description: ""
 ---
 **CDC Report**

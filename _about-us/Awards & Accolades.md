@@ -1,6 +1,6 @@
 ---
 title: Awards & Accolades
-permalink: /about-us/awards-accolades
+permalink: /about-us/awards-accolades/
 description: ""
 ---
 **Awards & Accolades**<br>

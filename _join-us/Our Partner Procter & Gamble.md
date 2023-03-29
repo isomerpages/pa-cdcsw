@@ -1,6 +1,6 @@
 ---
 title: Our Partner Procter & Gamble
-permalink: /join-us/OurPartner-Procter-Gamble/
+permalink: /join-us/ourpartner-procter-gamble/
 description: ""
 ---
 ![](/images/Join%20Us/p%20g.png)

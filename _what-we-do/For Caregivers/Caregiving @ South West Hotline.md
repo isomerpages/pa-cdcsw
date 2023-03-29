@@ -1,6 +1,6 @@
 ---
 title: Caregiving @ South West Hotline
-permalink: /what-we-do/For-Caregivers/hotline
+permalink: /what-we-do/for-caregivers/hotline/
 description: ""
 third_nav_title: For Caregivers
 ---

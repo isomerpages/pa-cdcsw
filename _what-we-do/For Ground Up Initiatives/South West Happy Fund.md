@@ -1,6 +1,6 @@
 ---
 title: South West Happy Fund
-permalink: /what-we-do/FOR-GROUND-UP-INITIATIVES/South-West-Happy-Fund
+permalink: /what-we-do/for-ground-up-initiatives/south-west-happy-fund/
 description: ""
 third_nav_title: For Ground Up Initiatives
 ---

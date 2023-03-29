@@ -1,6 +1,6 @@
 ---
 title: Building A Greener South West District
-permalink: /stories/Building-A-Greener-South-West-District
+permalink: /stories/building-a-greener-south-west-district/
 description: ""
 ---
 **Building A Greener South West District**

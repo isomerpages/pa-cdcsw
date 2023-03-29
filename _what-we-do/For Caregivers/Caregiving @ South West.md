@@ -1,6 +1,6 @@
 ---
 title: Caregiving @ South West
-permalink: /what-we-do/For-Caregivers/caregiving/
+permalink: /what-we-do/for-caregivers/caregiving/
 description: ""
 third_nav_title: For Caregivers
 ---

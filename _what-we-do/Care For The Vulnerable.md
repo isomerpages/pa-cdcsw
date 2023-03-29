@@ -1,6 +1,6 @@
 ---
 title: Care For The Vulnerable
-permalink: /what-we-do/CARE-FOR-THE-VULNERABLE/
+permalink: /what-we-do/care-for-the-vulnerable/
 description: ""
 ---
 **Local Programmes**<br>

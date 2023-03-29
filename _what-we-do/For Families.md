@@ -1,6 +1,6 @@
 ---
 title: For Families
-permalink: /what-we-do/FOR-FAMILIES
+permalink: /what-we-do/for-families/
 description: ""
 ---
 **Baby Blisscard @ South West**

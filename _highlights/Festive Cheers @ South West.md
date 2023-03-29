@@ -1,6 +1,6 @@
 ---
 title: Festive Cheers @ South West
-permalink: /highlights/Festive-Cheers-SouthWest
+permalink: /highlights/festive-cheers-southwest/
 description: ""
 ---
 **Festive Cheers @ South West**

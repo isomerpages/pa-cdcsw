@@ -1,6 +1,6 @@
 ---
 title: Grant A Wish With LIAS @ South West
-permalink: /highlights/Grant-A-Wish-With-LIAS-SouthWest
+permalink: /highlights/grant-a-wish-with-lias-southwest/
 description: ""
 ---
 

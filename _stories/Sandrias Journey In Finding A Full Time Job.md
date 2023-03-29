@@ -1,6 +1,6 @@
 ---
 title: Sandrias Journey In Finding A Full Time Job
-permalink: /stories/Sandrias-Journey-In-Finding-A-Full-Time-Job
+permalink: /stories/sandrias-journey-in-finding-a-full-time-job/
 description: ""
 ---
 **Sandria’s Journey In Finding A Full-Time Job**

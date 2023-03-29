@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /gallery
+permalink: /gallery/
 date: 2022-02-09
 layout: post
 description: ""

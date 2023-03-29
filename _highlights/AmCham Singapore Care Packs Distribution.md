@@ -1,6 +1,6 @@
 ---
 title: AmCham Singapore Care Packs Distribution
-permalink: /highlights/AmCham-Singapore-Care-Packs-Distribution
+permalink: /highlights/amcham-singapore-care-packs-distribution/
 description: ""
 ---
 **AmCham Singapore Care Packs Distribution**

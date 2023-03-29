@@ -1,6 +1,6 @@
 ---
 title: E BRIDGE
-permalink: /newsroom/E-BRIDGE/
+permalink: /newsroom/e-bridge/
 description: ""
 ---
 To view our newsletters, click on the respective links below:

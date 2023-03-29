@@ -1,6 +1,6 @@
 ---
 title: ExxonMobil Gift Pack Distribution
-permalink: /highlights/ExxonMobil-Gift-Pack-Distribution
+permalink: /highlights/exxonmobil-gift-pack-distribution/
 description: ""
 ---
 **ExxonMobil Gift Pack Distribution**

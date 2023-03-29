@@ -1,6 +1,6 @@
 ---
 title: 3M Tinkering Headstart @ South West
-permalink: /highlights/3M-Tinkering-Headstart-SouthWest
+permalink: /highlights/3m-tinkering-headstart-southwest/
 description: ""
 ---
 **3M Tinkering Headstart @ South West**

@@ -1,6 +1,6 @@
 ---
 title: For Caregivers
-permalink: /what-we-do/FOR-CAREGIVERS
+permalink: /what-we-do/for-caregivers/
 description: ""
 third_nav_title: For Caregivers
 ---

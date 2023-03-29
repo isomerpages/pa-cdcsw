@@ -1,6 +1,6 @@
 ---
 title: South West Community Job Fair
-permalink: /highlights/SouthWest-Community-Job-Fair
+permalink: /highlights/southwest-community-job-fair/
 description: ""
 ---
 

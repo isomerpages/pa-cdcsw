@@ -1,6 +1,6 @@
 ---
 title: Green Spaces @ South West
-permalink: /what-we-do/For-Environment/greenspaces/
+permalink: /what-we-do/for-environment/greenspaces/
 description: ""
 third_nav_title: For Environment
 ---

@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /newsroom/Announcements
+permalink: /newsroom/announcements/
 description: ""
 ---
 **CDC Vouchers Scheme**  

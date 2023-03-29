@@ -1,6 +1,6 @@
 ---
 title: Launch Of “Woke Wednesday” Campaign
-permalink: /highlights/Launch-Of-WokeWednesday-Campaign
+permalink: /highlights/launch-of-wokewednesday-campaign/
 description: ""
 ---
 **Launch Of “Woke Wednesday” Campaign**

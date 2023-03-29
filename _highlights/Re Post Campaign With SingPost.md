@@ -1,6 +1,6 @@
 ---
 title: Re Post Campaign With SingPost
-permalink: /highlights/Re-Post-Campaign-With-SingPost
+permalink: /highlights/re-post-campaign-with-singpost/
 description: ""
 ---
 **Re:Post Campaign With SingPost**

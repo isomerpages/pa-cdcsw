@@ -1,6 +1,6 @@
 ---
 title: South West Caregiver Care Guide
-permalink: /what-we-do/For-Caregivers/caregivercareguide
+permalink: /what-we-do/for-caregivers/caregivercareguide/
 description: ""
 third_nav_title: For Caregivers
 ---
