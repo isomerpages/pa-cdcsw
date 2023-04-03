@@ -1,6 +1,6 @@
 ---
 title: New In
-permalink: /what-we-do/New-In/
+permalink: /what-we-do/new-in/
 description: ""
 ---
 **About CDC Vouchers Scheme 2023**

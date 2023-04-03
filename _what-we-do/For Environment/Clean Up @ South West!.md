@@ -1,6 +1,6 @@
 ---
 title: Clean Up @ South West!
-permalink: /what-we-do/For-Environment/cleanupsw/
+permalink: /what-we-do/for-environment/cleanupsw/
 description: cleanupsw
 third_nav_title: For Environment
 ---

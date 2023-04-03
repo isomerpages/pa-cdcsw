@@ -1,6 +1,6 @@
 ---
 title: Turning Trash Into Treasure
-permalink: /stories/stories/turning-trash-into-treasure
+permalink: /stories/stories/turning-trash-into-treasure/
 description: ""
 image: /images/Stories/Plasticevo team.jpg
 ---

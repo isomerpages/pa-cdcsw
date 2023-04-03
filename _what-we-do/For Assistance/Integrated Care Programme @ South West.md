@@ -1,6 +1,6 @@
 ---
 title: Integrated Care Programme @ South West
-permalink: /what-we-do/For-Assistance/icp
+permalink: /what-we-do/for-assistance/icp/
 description: ""
 third_nav_title: For Assistance
 ---

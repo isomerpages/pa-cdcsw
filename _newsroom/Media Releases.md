@@ -1,6 +1,6 @@
 ---
 title: Media Releases
-permalink: /newsroom/Media-Releases/
+permalink: /newsroom/media-releases/
 description: ""
 ---
 **25 Mar 2023** : [WRAP UP OF THREE-MONTH FESTIVE CHEERS @ SOUTH WEST 2022 WITH CUSTOMISED GIFTING TO 150 SENIORS](/files/Media%20Release/MR%202023/2023%2003%2025%20-%20Media%20Release%20-%20Grant-A-Wish%20with%20Elmich%20&%20Nature%20Landscapes%20@%20SW.pdf)

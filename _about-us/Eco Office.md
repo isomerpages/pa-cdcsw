@@ -1,6 +1,6 @@
 ---
 title: Eco Office
-permalink: /about-us/eco-office
+permalink: /about-us/eco-office/
 description: ""
 ---
 **Eco Office**

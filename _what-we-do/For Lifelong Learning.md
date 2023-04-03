@@ -1,6 +1,6 @@
 ---
 title: For Lifelong Learning
-permalink: /what-we-do/FOR-LIFELONG-LEARNING/
+permalink: /what-we-do/for-lifelong-learning/
 description: ""
 ---
 SkillsFuture Advice @ South West

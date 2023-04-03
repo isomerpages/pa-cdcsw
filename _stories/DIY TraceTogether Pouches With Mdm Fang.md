@@ -1,6 +1,6 @@
 ---
 title: DIY TraceTogether Pouches With Mdm Fang
-permalink: /stories/DIY-TraceTogether-Pouches-WithMdm-Fang
+permalink: /stories/diy-tracetogether-pouches-withmdm-fang/
 description: ""
 ---
 

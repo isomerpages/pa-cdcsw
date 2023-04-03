@@ -1,6 +1,6 @@
 ---
 title: Adopt @ South West
-permalink: /what-we-do/For-Assistance/adopt
+permalink: /what-we-do/for-assistance/adopt/
 description: ""
 third_nav_title: For Assistance
 ---

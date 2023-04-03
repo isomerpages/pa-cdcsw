@@ -1,6 +1,6 @@
 ---
 title: For Healthy Living
-permalink: /what-we-do/FOR-HEALTHY-LIVING
+permalink: /what-we-do/for-healthy-living/
 description: ""
 third_nav_title: For Healthy Living
 ---

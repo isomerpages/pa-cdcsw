@@ -1,6 +1,6 @@
 ---
 title: A Word From Yen Ling
-permalink: /about-us/a-word-from-yenling
+permalink: /about-us/a-word-from-yenling/
 description: ""
 ---
 ![Alt text for image on Isomer site](/images/kk_050118_048-3k.jpg)

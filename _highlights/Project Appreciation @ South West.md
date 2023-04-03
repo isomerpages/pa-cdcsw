@@ -1,6 +1,6 @@
 ---
 title: Project Appreciation @ South West
-permalink: /highlights/Project-Appreciation-South-West
+permalink: /highlights/project-appreciation-south-west/
 description: ""
 ---
 **Project Appreciation @ South West**

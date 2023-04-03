@@ -1,6 +1,6 @@
 ---
 title: Contact Details
-permalink: /contact-us/Contact-Details/
+permalink: /contact-us/contact-details/
 description: ""
 ---
 **SME Centre@SouthWest**<br>

@@ -1,6 +1,6 @@
 ---
 title: South West Eco Fund Plus
-permalink: /what-we-do/For-Environment/ecofund/
+permalink: /what-we-do/for-environment/ecofund/
 description: ecofund
 third_nav_title: For Environment
 ---

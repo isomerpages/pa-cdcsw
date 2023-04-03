@@ -35,4 +35,12 @@ sections:
       image: /images/NewsRoom/E BRIDGE/No1-2023.png
       subtitle: newsletter
       title: BRIDGE
+  - infopic:
+      title: Find My District
+      subtitle: CDC District Locator
+      description: Enter postal code to locate your district
+      button: Click Here
+      url: https://www.gowhere.gov.sg/cdc?result=&status=success
+      image: /images/small-map.png
+      alt: Image alt text
 ---

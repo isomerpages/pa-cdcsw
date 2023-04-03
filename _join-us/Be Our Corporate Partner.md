@@ -1,6 +1,6 @@
 ---
 title: Be Our Corporate Partner
-permalink: /join-us/Be-Our-Corporate-Partner
+permalink: /join-us/be-our-corporate-partner/
 description: ""
 ---
 Learn how you can start by being a good and responsible corporate partner, and an esteemed neighbour to the South West community!   

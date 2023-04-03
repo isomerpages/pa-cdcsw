@@ -1,6 +1,6 @@
 ---
 title: Supporting Corporate Social Responsibility (CSR) Efforts
-permalink: /what-we-do/For-Corporates/csrefforts
+permalink: /what-we-do/for-corporates/csrefforts/
 description: csrefforts
 third_nav_title: For Corporates
 ---

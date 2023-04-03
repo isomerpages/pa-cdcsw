@@ -1,6 +1,6 @@
 ---
 title: For Corporates
-permalink: /what-we-do/FOR-CORPORATES
+permalink: /what-we-do/for-corporates/
 description: ""
 third_nav_title: For Corporates
 ---

@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Festival @ South West 2022
-permalink: /highlights/permalink/sff22
+permalink: /highlights/permalink/sff22/
 description: ""
 ---
 

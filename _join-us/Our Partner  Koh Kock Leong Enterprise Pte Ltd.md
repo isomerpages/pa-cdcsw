@@ -1,6 +1,6 @@
 ---
 title: Our Partner  Koh Kock Leong Enterprise Pte Ltd
-permalink: /join-us/OurPartner-KohKock-Leong-Enterprise-Pte-Ltd
+permalink: /join-us/ourpartner-kohkock-leong-enterprise-pte-ltd/
 description: ""
 ---
 ![](/images/Join%20Us/kkl2.png)

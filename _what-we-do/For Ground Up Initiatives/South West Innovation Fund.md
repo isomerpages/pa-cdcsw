@@ -1,6 +1,6 @@
 ---
 title: South West Innovation Fund
-permalink: /what-we-do/FOR-GROUND-UP-INITIATIVES/swift
+permalink: /what-we-do/for-ground-up-initiatives/swift/
 description: ""
 third_nav_title: For Ground Up Initiatives
 ---

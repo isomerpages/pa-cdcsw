@@ -1,6 +1,6 @@
 ---
 title: Fortune Bags Distribution As Part Of Festive Cheers @ South West
-permalink: /highlights/Fortune-Bags-Distribution-As-Part-Of-Festive-Cheers-SouthWest
+permalink: /highlights/fortune-bags-distribution-as-part-of-festive-cheers-southwest/
 description: ""
 ---
 **Fortune Bags Distribution As Part Of Festive Cheers @ South West**
