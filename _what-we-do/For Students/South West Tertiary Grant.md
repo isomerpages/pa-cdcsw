@@ -5,28 +5,30 @@ description: ""
 third_nav_title: For Students
 ---
 **South West Tertiary Grant**<br>
-Learning is a lifelong process and South West CDC firmly believed in providing holistic educational support to our residents. The South West CDC-KKL GRIT Fund is setup to help students from low-income families, who graduated during the pandemic and are unable to secure employment, with a one-off interim $500 grant to tide them through this difficult period.
+         <!-- /\* Font Definitions \*/ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-alt:Wingdings; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-alt:"Calisto MT"; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-alt:Calibri; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:Lato; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-520092929 1342237951 33 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; mso-fareast-language:EN-US;} a:link, span.MsoHyperlink {mso-style-priority:99; font-family:"Times New Roman",serif; mso-bidi-font-family:"Times New Roman"; color:#0563C1; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph {mso-style-priority:34; mso-style-unhide:no; mso-style-qformat:yes; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-hansi-font-family:Calibri; mso-bidi-font-family:Calibri; mso-fareast-language:EN-US;} .MsoPapDefault {mso-style-type:export-only;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} /\* List Definitions \*/ @list l0 {mso-list-id:1371954662; mso-list-type:hybrid; mso-list-template-ids:-1 1208549377 1208549379 1208549381 1208549377 1208549379 1208549381 1208549377 1208549379 1208549381;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Symbol;} @list l0:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l0:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Wingdings;} @list l0:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Symbol;} @list l0:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l0:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Wingdings;} @list l0:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Symbol;} @list l0:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l0:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Wingdings;} @list l1 {mso-list-id:1608925103; mso-list-type:hybrid; mso-list-template-ids:-1 1208549377 1208549379 1208549381 1208549377 1208549379 1208549381 1208549377 1208549379 1208549381;} @list l1:level1 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Symbol;} @list l1:level2 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l1:level3 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Wingdings;} @list l1:level4 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Symbol;} @list l1:level5 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l1:level6 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Wingdings;} @list l1:level7 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Symbol;} @list l1:level8 {mso-level-number-format:bullet; mso-level-text:o; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:"Courier New"; mso-bidi-font-family:"Times New Roman";} @list l1:level9 {mso-level-number-format:bullet; mso-level-text:; mso-level-tab-stop:none; mso-level-number-position:left; text-indent:-.25in; font-family:Wingdings;} ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
 
-Eligible students are required to complete a complimentary online course through the GnowbeLearn platform.
+The South West Tertiary Grant is setup to help students from low-income families, defray their general education expenses such as transport, sports, wellness and self-development courses. Successful applicants will receive $600 in grant.
 
-**Eligibility Criteria**<br>
-* Resident of South West District;
-* Full-time student at the following local Institutions: Pre-tertiary institutions (i.e. JCs/MI), Institute of Technical Education (ITE), Polytechnics and Universities;
-* Graduated between December 2019 and March 2023;
-Singapore Citizen or at least one immediate family member is a Singapore Citizen;
-* Combined Gross Monthly Household Income of $3,500 or Per Capita Income (PCI) of $875, whichever is lower; and
-* Not in any full-time employment or committed traineeship/internship programme. i.e. part-time and temp job employment are allowable.
+**Eligibility Criteria**
+
+*   Resident of South West District;
+*   Full-time student at localised tertiary institutions (polytechnics, universities, NAFA or LaSalle);
+*   Singapore Citizen or at least one immediate family member is a Singapore Citizen; and
+*   Combined Gross Monthly Household Income of $3,500 or Per Capita Household Income of $875, whichever is lower.
 
 **Required Supporting Documents**
-* NRIC;
-* Graduation certificate;
-* Copy of payslip / CPF contribution statement / income tax statement of all working and non-working members in the household, except for family members who are NSF/full-time students. Self-employed family members must provide their latest Income Tax Statement.
 
-**How to Apply?**<br>
-Interested applicants may apply here: https://go.gov.sg/SWCDCGRIT
+*   Applicant’s NRIC
+*   Student Matriculation Card
+*   Latest result slip (for students in their second year and above)
+*   Copy of payslip / CPF Contribution History statement / Income Tax Statement for all working and non-working members in the household except for students and NSman
 
-**Contact Us**<br>
-For further enquiry, please email us at SWCDC_bursaries@pa.gov.sg.
-<br>
+**How to Apply?**
 
-![gritfund](/images/grit.png)
+Submit your application online – [www.go.gov.sg/swcdctertiarygrantform](http://www.go.gov.sg/swcdctertiarygrantform) or visit your nearest Community Club/Centre to pick up and submit a hardcopy application.
+
+**Contact Us**
+
+For further clarifications, please email us at [swcdc\_bursaries@pa.gov.sg](mailto:swcdc_bursaries@pa.gov.sg).
+
+Download the South West Tertiary Grant Poster.
