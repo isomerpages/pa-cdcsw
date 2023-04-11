@@ -1,11 +1,11 @@
 ---
-title: South West CDC Koh Kock Leong (KKL) Graduate Relief & Individual Training
-  (GRIT) Fund
+title: South West CDC Koh Kock Leong (KKL) Graduate Relief &amp; Individual
+  Training (GRIT) Fund
 permalink: /what-we-do/for-students/gritfund/
 description: ""
 third_nav_title: For Students
 ---
-**South West CDC-Koh Kock Leong (KKL) Graduate Relief & Individual Training (GRIT) Fund**<br>
+**South West Tertiary Grant**<br>
 Learning is a lifelong process and South West CDC firmly believed in providing holistic educational support to our residents. The South West CDC-KKL GRIT Fund is setup to help students from low-income families, who graduated during the pandemic and are unable to secure employment, with a one-off interim $500 grant to tide them through this difficult period.
 
 Eligible students are required to complete a complimentary online course through the GnowbeLearn platform.
