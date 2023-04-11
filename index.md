@@ -15,9 +15,9 @@ sections:
         - title: SWIF+
           description: South West Innovation Fund Plus
           url: /what-we-do/for-ground-up-initiatives/swift
-        - title: GRIT FUND
-          description: Graduate Relief & Individual Training Fund
-          url: /what-we-do/for-students/gritfund/
+        - title: Tertiary Grant
+          description: $600 in Tertiary Grant
+          url: /what-we-do/for-students/tertiarygrant//
       background: /images/What We Do/News In/Cover Banner.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
