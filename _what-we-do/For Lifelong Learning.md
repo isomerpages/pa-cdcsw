@@ -20,7 +20,7 @@ We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs 
 
 This job fair is powered by [www.goodjobs.com.sg](http://www.goodjobs.com.sg). This is a local FREE-TO-USE platform for all Employers and Job Seekers. No hidden charges. There are more than 16,000 jobs in the database and there is one job waiting for you to bring it home.
 
-Should have any enquiries or experience any difficulty with the portal, do contact GoodJobs Pte Ltd’s hotline at 91826801 for assistance.
+Should have any enquiries or experience any difficulty with the portal, do contact GoodJobs Pte Ltd’s hotline at **91826801** for assistance.
 
 **SkillsFuture Advice Workshops/ Webinars**
 
