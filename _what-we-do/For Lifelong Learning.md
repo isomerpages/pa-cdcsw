@@ -46,4 +46,4 @@ Organizations
 
 The South West Learn on the Job programme trains and places vulnerable residents seeking employment, providing an opportunity for social mobility and a better future for these residents and their families. Together with partners such as e2i and employers, residents benefit from seamless support in this one-stop referral process.
 
-[![SW LOTJ_1](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/skillsfuture/sw-lotj_1.jpg?sfvrsn=30e7ba06_3 "SW LOTJ_1")](https://www.cdc.gov.sg/images/librariesprovider6/what-we-do/skillsfuture/sw-lotj_1.jpg?sfvrsn=30e7ba06_3)
+
