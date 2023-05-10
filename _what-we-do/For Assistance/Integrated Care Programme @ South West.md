@@ -4,7 +4,7 @@ permalink: /what-we-do/for-assistance/icp/
 description: ""
 third_nav_title: For Assistance
 ---
-The Integrated Care Programme (ICP) @ South West is a wrap-around child-centric programme to improve the social mobility of vulnerable primary school students with issues such as absenteeism. It involves integrating the strengths and resources of stakeholders to deliver holistic upstream intervention to help the students. 
+**The Integrated Care Programme (ICP) @ South West** is a wrap-around child-centric programme to improve the social mobility of vulnerable primary school students with issues such as absenteeism. It involves integrating the strengths and resources of stakeholders to deliver holistic upstream intervention to help the students. 
 
 The ICP @ South West was piloted at Chua Chu Kang Primary School and Teck Whye Primary School to target vulnerable primary school students. 
 

@@ -1,6 +1,6 @@
 ---
 title: Community Guiding Programme
-permalink: /highlights/permalink/cgp/
+permalink: /highlights/cgp/
 description: ""
 ---
 ![](/images/Stories/285142775_10159736023556273_2509940014044507393_n.jpg)\

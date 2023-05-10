@@ -1,6 +1,6 @@
 ---
 title: Young Technopreneur Challenge
-permalink: /highlights/permalink/ytp/
+permalink: /highlights/ytp/
 description: ""
 ---
 ![](/images/Highlights/292155972_10159808953576273_1045323223116388143_n.jpg)
