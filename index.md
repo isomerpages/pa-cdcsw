@@ -32,7 +32,7 @@ sections:
       button: Read more
       url: https://go.gov.sg/bridge-1-2023
       alt: homepagebridgecover
-      image: /images/NewsRoom/E BRIDGE/No1-2023.png
+      image: /images/NewsRoom/E BRIDGE/no 2-2023.png
       subtitle: newsletter
       title: BRIDGE
   - infopic:
