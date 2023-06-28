@@ -30,7 +30,7 @@ sections:
   - infopic:
       description: Find out what's happening in the South West District now!
       button: Read more
-      url: https://go.gov.sg/bridge-1-2023
+      url: https://go.gov.sg/bridge-2-2023
       alt: homepagebridgecover
       image: /images/NewsRoom/E BRIDGE/no 2-2023.png
       subtitle: newsletter
