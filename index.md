@@ -4,9 +4,7 @@ title: South West CDC
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: There will be a scheduled downtime on all CDC websites on 17
-  April. The website may not be available during this period. We apologise for
-  the inconvenience caused.
+notification: ""
 sections:
   - hero:
       url: /contact-us/
@@ -32,9 +30,9 @@ sections:
   - infopic:
       description: Find out what's happening in the South West District now!
       button: Read more
-      url: https://go.gov.sg/bridge-1-2023
+      url: https://go.gov.sg/bridge-2-2023
       alt: homepagebridgecover
-      image: /images/NewsRoom/E BRIDGE/No1-2023.png
+      image: /images/NewsRoom/E BRIDGE/no 2-2023.png
       subtitle: newsletter
       title: BRIDGE
   - infopic:

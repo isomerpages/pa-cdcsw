@@ -11,10 +11,9 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-<a href="https://www.goodjobs.com.sg/job-fairs/south-west-community-job-fair-at-telok-blangah">
-<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/may%20poster.jpg"></a>
+<a href="https://go.gov.sg/swsfa-data">
+<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/intro%20to%20data%20centre%20tech%20edm%2012%20july%202023.png"></a>
 
-Mark your calendars on the 4th &amp; 5th May 2023 (10am-4pm) for the South West Community Job Fair @ Telok Blangah CC. Click [here](https://www.goodjobs.com.sg/job-fairs/south-west-community-job-fair-at-telok-blangah) to register! _Be the first 100 to play a game at our SkillsFuture Advice booth and stand a chance to redeem a gift!_
 
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
 
@@ -45,5 +44,3 @@ Organizations
 **South West Learn on the Job**&nbsp;
 
 The South West Learn on the Job programme trains and places vulnerable residents seeking employment, providing an opportunity for social mobility and a better future for these residents and their families. Together with partners such as e2i and employers, residents benefit from seamless support in this one-stop referral process.
-
-
