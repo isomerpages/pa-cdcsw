@@ -18,7 +18,7 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 Unlock the secrets to thriving in the dynamic landscape of today's job market! Seize the opportunity to boost your income and employability. Join us for a transformative seminar to pave your way to a better future!
 
-**Only 30 Slots available! Sign up today!**
+**Only 30 Slots available! Sign up today! (Hyperlink Google Form)**
 
 -----------------------------------------------
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
