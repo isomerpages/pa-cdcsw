@@ -20,7 +20,7 @@ Unlock the secrets to thriving in the dynamic landscape of today's job market! S
 
 **Only 30 Slots available! Sign up today!**
 
-
+-----------------------------------------------
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
 
 This job fair is powered by [www.goodjobs.com.sg](http://www.goodjobs.com.sg). This is a local FREE-TO-USE platform for all Employers and Job Seekers. No hidden charges. There are more than 16,000 jobs in the database and there is one job waiting for you to bring it home.
