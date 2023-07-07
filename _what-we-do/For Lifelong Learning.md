@@ -13,14 +13,14 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform?usp=sharing">
 <img src="/images/What%20We%20Do/For%20Lifelong%20Learning/fca_edm_cdc%20(1).jpg"></a>
-
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-alt:"Calisto MT"; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:SimSun; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-alt:Calibri; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:"\\@SimSun"; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:1 135135232 16 0 262144 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+        
 
 **Blurb for your consideration:**
 
 Unlock the secrets to thriving in the dynamic landscape of today's job market! Seize the opportunity to boost your income and employability. Join us for a transformative seminar to pave your way to a better future!
 
-Only 30 Slots available! Sign up today!
+**Only 30 Slots available! Sign up today!**
+
 
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
 
