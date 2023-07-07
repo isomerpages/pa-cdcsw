@@ -14,7 +14,6 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform?usp=sharing">
 <img src="/images/What%20We%20Do/For%20Lifelong%20Learning/fca_edm_cdc%20(1).jpg"></a>
         
-
 **Blurb for your consideration:**
 
 Unlock the secrets to thriving in the dynamic landscape of today's job market! Seize the opportunity to boost your income and employability. Join us for a transformative seminar to pave your way to a better future!
