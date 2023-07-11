@@ -3,7 +3,7 @@ title: For Lifelong Learning
 permalink: /what-we-do/for-lifelong-learning/
 description: ""
 ---
-SkillsFuture Advice @ South West
+[Emerging Skills to Enhance Your Employability in Singapore's Job Market Seminar - Sign Up Form (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform)[undefined](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform)SkillsFuture Advice @ South West
 
 Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsFuture Advice @ South West (SFA @ South West) aims to help residents navigate the SkillsFuture landscape and better understand the skills needed for the future economy as well as their own strengths. Recently renewed between the five CDCs, SkillsFuture Singapore (SSG) and e2i, SFA @ South West will target to reach even more residents, to better support them in today’s volatile jobs landscape.
 
@@ -18,7 +18,7 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 Unlock the secrets to thriving in the dynamic landscape of today's job market! Seize the opportunity to boost your income and employability. Join us for a transformative seminar to pave your way to a better future!
 
-**Only 30 Slots available! Sign up today! (Hyperlink Google Form)**
+**Only 30 Slots available! Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform) today!**
 
 -----------------------------------------------
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
