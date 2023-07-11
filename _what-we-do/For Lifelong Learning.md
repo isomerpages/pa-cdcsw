@@ -3,7 +3,7 @@ title: For Lifelong Learning
 permalink: /what-we-do/for-lifelong-learning/
 description: ""
 ---
-SkillsFuture Advice @ South West
+[Emerging Skills to Enhance Your Employability in Singapore's Job Market Seminar - Sign Up Form (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform)[undefined](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform)SkillsFuture Advice @ South West
 
 Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsFuture Advice @ South West (SFA @ South West) aims to help residents navigate the SkillsFuture landscape and better understand the skills needed for the future economy as well as their own strengths. Recently renewed between the five CDCs, SkillsFuture Singapore (SSG) and e2i, SFA @ South West will target to reach even more residents, to better support them in today’s volatile jobs landscape.
 
@@ -11,10 +11,16 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-<a href="https://go.gov.sg/swsfa-data">
-<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/intro%20to%20data%20centre%20tech%20edm%2012%20july%202023.png"></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform?usp=sharing">
+<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/fca_edm_cdc%20(1).jpg"></a>
 
+**Blurb for your consideration:**
 
+Unlock the secrets to thriving in the dynamic landscape of today's job market! Seize the opportunity to boost your income and employability. Join us for a transformative seminar to pave your way to a better future!
+
+**Only 30 Slots available! Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform) today!**
+
+-----------------------------------------------
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
 
 This job fair is powered by [www.goodjobs.com.sg](http://www.goodjobs.com.sg). This is a local FREE-TO-USE platform for all Employers and Job Seekers. No hidden charges. There are more than 16,000 jobs in the database and there is one job waiting for you to bring it home.
