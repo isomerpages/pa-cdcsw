@@ -3,7 +3,7 @@ title: For Lifelong Learning
 permalink: /what-we-do/for-lifelong-learning/
 description: ""
 ---
-[Emerging Skills to Enhance Your Employability in Singapore's Job Market Seminar - Sign Up Form (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform)[undefined](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform)SkillsFuture Advice @ South West
+**SkillsFuture Advice @ South West**
 
 Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsFuture Advice @ South West (SFA @ South West) aims to help residents navigate the SkillsFuture landscape and better understand the skills needed for the future economy as well as their own strengths. Recently renewed between the five CDCs, SkillsFuture Singapore (SSG) and e2i, SFA @ South West will target to reach even more residents, to better support them in today’s volatile jobs landscape.
 
