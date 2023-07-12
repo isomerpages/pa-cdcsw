@@ -14,7 +14,7 @@ What’s more? It is open to EVERYONE! 
 
 Sign up now to enjoy fun and healthy days ahead! 
 
-Click [here](https://www.cdc.gov.sg/docs/librariesprovider6/documents-swcdc/pdf-files/642b2521-217f-4fa6-8bc2-aa3685c915e6_fun_walkers_and_health_qigong_form_combined.pdf?sfvrsn=6707a88d_0) to join the Health Qigong @ South West.
+Click [here](https://form.gov.sg/6348cd0411f54d0011d85e99) to join the Health Qigong @ South West.
 
 ![](/images/What%20We%20Do/For%20Healthy%20Living/For%20Healthy%20Lifestyle%20%20-%20Qigong%20-%20DSC07796%20(002).jpg)
 ![](/images/What%20We%20Do/For%20Healthy%20Living/Health%20Qigong%20P1.jpg)
