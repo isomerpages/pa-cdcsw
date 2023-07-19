@@ -3,6 +3,8 @@ title: Media Releases
 permalink: /newsroom/media-releases/
 description: ""
 ---
+**1 Jul 2023** : [LAUNCH OF $2 MILLION SOUTH WEST COMMUNITY CARING FUND TO SUPPORT FAMILIES AND SENIORS AMIDST RISING COST OF LIVING ](/files/Media%20Release/MR%202023/post%20media%20release%20-%20south%20west%20district%20meeting%20and%20partners%20appreciation%202023%20.pdf)
+
 **25 Mar 2023** : [WRAP UP OF THREE-MONTH FESTIVE CHEERS @ SOUTH WEST 2022 WITH CUSTOMISED GIFTING TO 150 SENIORS](/files/Media%20Release/MR%202023/2023%2003%2025%20-%20Media%20Release%20-%20Grant-A-Wish%20with%20Elmich%20&%20Nature%20Landscapes%20@%20SW.pdf)
 
 **15 Feb 2023** : [CLOSE TO 500 VULNERABLE SENIORS TO RECEIVE SUPERMARKET VOUCHERS AS PART OF MAYBANK SHOPPING WITH SENIORS @ SOUTH WEST INITIATIVE](/files/Media%20Release/MR%202023/2023%2002%2015%20-%20Media%20Release%20-%20Launch%20of%20Maybank%20Shopping%20with%20Seniors%20@%20South%20West.pdf)
