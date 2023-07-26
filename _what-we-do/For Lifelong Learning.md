@@ -19,7 +19,7 @@ Have you ever tried playing drone soccer? Or used a VR goggle? Come down for our
 
 Learn more on digital, green and care economies and SkillsFuture initiatives. Employers onsite for those who wish to attend job interviews, or even just to find out more on jobs and industries.
        
-Stand a chance to receive a**goodie bag and $5 NTUC vouchers**. WE ARE SO EXCITED TO SEE YOU THERE!
+Stand a chance to receive a **goodie bag and $5 NTUC vouchers**. WE ARE SO EXCITED TO SEE YOU THERE!
 
 
 -----------------------------------------------
