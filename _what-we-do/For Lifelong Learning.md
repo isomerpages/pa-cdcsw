@@ -11,13 +11,15 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 *Please click on the images to be redirected to the registration page.*
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform?usp=sharing">
-<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/fca_edm_cdc%20(1).jpg"></a>
+<a href="https://go.gov.sg/swsff2023">
+<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/skillsfuture%20festival%20@%20sw_edm-01.jpg"></a>
 
-Unlock the secrets to thriving in the dynamic landscape of today's job market! Seize the opportunity to boost your income and employability. Join us for a transformative seminar to pave your way to a better future!
 
-**Only 30 Slots available! Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScGcT447warrc_2OV4RrsKyorR1gy5iNTN3UO-6DF5Vyus4GQ/viewform) today!**
+Have you ever tried playing drone soccer? Or used a VR goggle? Come down for our event and try these and more out!
 
+Learn more on digital, green and care economies and SkillsFuture initiatives. Employers onsite for those who wish to attend job interviews, or even just to find out more on jobs and industries.
+
+Stand a chance to receive a goodie bag and $5 NTUC vouchers. WE ARE SO EXCITED TO SEE YOU THERE!
 -----------------------------------------------
 We will be bringing more than 2000 jobs to the fair! From PMET to Non-PMET jobs across various industries, the South West Community Job Fair brings diversity and variety to the residents and community, including opportunities for seniors, mid-career switchers and PWD. There will also be complimentary career coaching, resume-writing assistance, profiling and SkillsFuture advisory services available at the event!
 
