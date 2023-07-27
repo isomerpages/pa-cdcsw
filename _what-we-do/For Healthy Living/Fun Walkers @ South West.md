@@ -10,8 +10,6 @@ The Fun Walkers @ South West programme was launched in 2006, aimed to promote a
   
 What’s more? It is open to EVERYONE! 
 
-Sign up now to enjoy fun and healthy days ahead! 
-
-Click [here](https://form.gov.sg/6251d129b69189001506d192) to join the Fun Walkers @ South West.
+Head down to your nearest Community Club to find out more!
 
  ![](/images/What%20We%20Do/For%20Healthy%20Living/Fun%20Walkers%20P1.jpg)
