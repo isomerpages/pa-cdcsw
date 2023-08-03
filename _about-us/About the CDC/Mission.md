@@ -8,4 +8,4 @@ third_nav_title: About the CDC
  
 a) Aggregator of Needs and Resources <br>
 b) Builder of Capability / Capacity in Partners <br>
-c) Connector of Communities 
+c) Connector of Communities
