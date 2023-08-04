@@ -4,7 +4,6 @@ permalink: /what-we-do/for-ground-up-initiatives/wecareartsfund/
 description: ""
 third_nav_title: For Ground Up Initiatives
 ---
-
 **WeCare Arts Fund @ South West**  
   
 WeCare Arts Fund is a grant scheme by the National Arts Council and People’s Association. The fund aims to support Social Service Agencies (SSAs) in the 5 districts in Singapore through the Community Development Councils to:
@@ -15,10 +14,8 @@ WeCare Arts Fund is a grant scheme by the National Arts Council and People’s A
 WeCare Arts Fund is open to all SSAs that are keen to work with artist/arts organisation to bring arts to their beneficiaries. The projects could take the form of workshops or co-creation of performances and exhibitions. Application for the WeCare Arts Fund can be submitted via the [Our SG Grants Portal](https://oursggrants.gov.sg/). 
 
 **Contact Us**  
-  
-Please contact Ms Teng Jia Hui (Email: [TENG\_Jia\_Hui@pa.gov.sg](mailto:TENG_Jia_Hui@pa.gov.sg)) to apply or for further enquiries.   
-  
-![WCAF resized](https://www.cdc.gov.sg/images/librariesprovider6/default-album/wcaf-resized.jpg?sfvrsn=143ba773_0 "WCAF resized")![WCAF 3 resized](https://www.cdc.gov.sg/images/librariesprovider6/default-album/wcaf-3-resized.jpg?sfvrsn=c7e0df9b_0 "WCAF 3 resized")![WCAF 2 resized](https://www.cdc.gov.sg/images/librariesprovider6/default-album/wcaf-2-resized.jpg?sfvrsn=fe4cd575_0 "WCAF 2 resized")  
+
+Please contact [Southwest\_CDC@pa.gov.sg](mailto:Southwest_CDC@pa.gov.sg) for further enquiries. 
 
 **WeCare Arts Experiences @ South West**
 
@@ -36,5 +33,5 @@ Please refer to the [programme menu](https://go.gov.sg/wcae-menu) for curated 
 WeCare Arts Experiences is open to all Social Service Agencies (SSAs), Grassroots Organisations (GROs) and Self-Help Groups. To apply, please download the [WeCare Arts Experiences Application Form](https://www-cdc-gov-sg-admin.cwp.sg/docs/librariesprovider6/documents-swcdc/for-ground-up-initiatives/wecare-arts-experiences---application-form.pdf?sfvrsn=3ce4a05d_2) and submit via email submission 2 weeks prior to the commencement of the programme.
 
 **Contact Us**
-
-Please contact Ms Teng Jia Hui (Email: [TENG\_Jia\_Hui@pa.gov.sg](mailto:TENG_Jia_Hui@pa.gov.sg)) to apply or for further enquiries.
+  
+Please contact [Southwest\_CDC@pa.gov.sg](mailto:Southwest_CDC@pa.gov.sg) for further enquiries.
