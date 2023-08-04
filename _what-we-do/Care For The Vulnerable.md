@@ -9,9 +9,9 @@ The support from our corporate and community partners has been crucial in provid
 **Adopt @ South West**<br>
 Provides social support and activities to enrich and uplift lives of needy families and vulnerable elderly living in one (1) – to three (3)-room flats, addressing three (3) core needs:
 
-* Social Support & Wellness
-* Education & Enrichment
-* Home Care & Improvement
+* Social Support &amp; Wellness
+* Education &amp; Enrichment
+* Home Care &amp; Improvement
 * Healthcare:
 	* Integrated Health Screening @ South West: Provides a one-stop health, eye and ear screening and aids for needy residents, free of charge.
 
@@ -22,3 +22,5 @@ Click to view the [WeCare PLUS @ South West Referral Form](/files/wecare-plus-@-
 
 **Help Schemes**<br>
 The South West CDC hopes to strengthen the safety net and benefit more needy residents through our various help schemes.
+
+Please contact southwest_cdc@pa.gov.sg for futher enquiries.
