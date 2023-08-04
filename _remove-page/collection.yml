@@ -1,0 +1,4 @@
+collections:
+  remove-page:
+    output: true
+    order: []
