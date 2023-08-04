@@ -23,4 +23,3 @@ Click to view the [WeCare PLUS @ South West Referral Form](/files/wecare-plus-@-
 **Help Schemes**<br>
 The South West CDC hopes to strengthen the safety net and benefit more needy residents through our various help schemes.
 
-Please contact southwest_cdc@pa.gov.sg for futher enquiries.
