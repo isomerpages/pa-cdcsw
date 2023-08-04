@@ -1,4 +1,5 @@
 collections:
   remove-page:
     output: true
-    order: []
+    order:
+      - South West Happy Fund.md
