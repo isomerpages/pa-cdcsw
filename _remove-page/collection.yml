@@ -2,5 +2,4 @@ collections:
   remove-page:
     output: true
     order:
-      - Care For The Vulnerable.md
       - South West Happy Fund.md
