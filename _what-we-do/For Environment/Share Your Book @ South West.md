@@ -4,9 +4,6 @@ permalink: /what-we-do/for-environment/shareyourbook/
 description: shareyourbook
 third_nav_title: For Environment
 ---
-
-![Share your Book1](https://www.cdc.gov.sg/images/librariesprovider6/highlights/share-your-book1.jpg?sfvrsn=1ca1ce11_2 "Share your Book1")
-
 **Share-Your-Book @ South West** is an initiative by South West CDC, in collaboration with ALBA W&H and Sharetings, to encourage residents to donate their story books in good conditions to community libraries or reading corners in the district. Through the mobile sharing app, Sharetings, residents can choose to donate their story books to the participating Community Libraries @ RCs and reading corners directly, or continue to exchange books with one another via the app. Residents who donated their story books can earn recycling points on ALBA STEP UP mobile app which can be used to redeem vouchers or discounts from participating retailers.  
   
 Donated books can also go towards supporting a good cause to benefit vulnerable residents as part of the CDC's efforts in promoting a caring community.
@@ -40,4 +37,4 @@ g.       If the story books are accepted, you will receive an email to dro
 h.       Scan the ALBA STEP UP QR code at the RC when you have donated your books and earn 50 CO2 points in the ALBA STEP UP mobile App.  
   
 
-Click [here](https://www-cdc-gov-sg-admin.cwp.sg/docs/librariesprovider6/documents-swcdc/highlights/faq---share-your-book.pdf?sfvrsn=555ee2dd_2) for the Frequently Asked Questions.
+Contact us at Southwest_cdc@pa.gov.sg for further enquiries.
