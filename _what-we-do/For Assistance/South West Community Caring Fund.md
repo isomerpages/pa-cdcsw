@@ -8,9 +8,9 @@ third_nav_title: For Assistance
 
 South West Community Caring Fund provide immediate support to the following two groups to defray child-raising expenditure and cope with daily expenses.
 
-1.	Has one or more children aged six years and below at the time of application with per capita household income of $1,200 or less, or total gross household income of $4,800 or less; or
+* Has one or more children aged six years and below at the time of application with per capita household income of $1,200 or less, or total gross household income of $4,800 or less; or
 
-2.	Senior aged 60 and above staying alone or together with other senior(s) aged 60 and above in the same elderly household, in a 1/2/3-room unit, with per capita household income of $1,200 or less.
+* Senior aged 60 and above staying alone or together with other senior(s) aged 60 and above in the same elderly household, in a 1/2/3-room unit, with per capita household income of $1,200 or less.
 
 To apply, please fill up the application form.
 
