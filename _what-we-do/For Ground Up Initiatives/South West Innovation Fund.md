@@ -23,7 +23,7 @@ To address the ever-changing community needs, SWIF+ aims to benefit the unserved
 
 Funding support or the initiatives will be contingent on merits and scale of the programme. The funds will go entirely towards programming and development of the initiatives.
 
-The evaluation criteria of causes will be premised on social impact, urgency of need, sustainability, scalability and outreach. To apply, please use the attached [South West Innovation Fund+ Application Form](https://www.cdc.gov.sg/docs/librariesprovider6/default-document-library/south-west-innovation-fund---application-form.pdf?sfvrsn=9b6ec307_0 "South West Innovation Fund - Application form").
+The evaluation criteria of causes will be premised on social impact, urgency of need, sustainability, scalability and outreach. 
 
 **Contact Us**<br>
 For enquiries on application or to donate to the SWIF+, please email to **southwest_cdc@pa.gov.sg**.
