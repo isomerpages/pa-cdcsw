@@ -25,7 +25,6 @@ The initiative will address three aspects of caregiving:
 
 3. Empower A Caring Community in areas of caregiving:
 
-*   Engaging trained or past caregivers to volunteer as respite caregivers or serve as community caregivers (social employment); and
 *   Organising Caregiving workshops and talks.
 
 **Contact Us**  
