@@ -17,6 +17,6 @@ Supported by the National Integration Council (NIC) and People’s Association (
 
 Kindly download the application form&nbsp;[here](https://www-cdc-gov-sg-admin.cwp.sg/docs/librariesprovider6/documents-swcdc/for-corp/csi-fund---application-form.pdf?sfvrsn=e7d81a9f_2).  
   
-**Contact Us**;  
+**Contact Us**  
   
  Southwest_CDC@pa.gov.sg to apply or for further enquiries.
