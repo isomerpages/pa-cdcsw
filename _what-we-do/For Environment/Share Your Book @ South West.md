@@ -37,4 +37,4 @@ g.       If the story books are accepted, you will receive an email to dro
 h.       Scan the ALBA STEP UP QR code at the RC when you have donated your books and earn 50 CO2 points in the ALBA STEP UP mobile App.  
   
 
-Contact us at Southwest_cdc@pa.gov.sg for further enquiries.
+Contact us at southwest_cdc@pa.gov.sg for further enquiries.
