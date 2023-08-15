@@ -12,4 +12,5 @@ South West Community Caring Fund provide immediate support to the following two 
 
 * Senior aged 60 and above staying alone or together with other senior(s) aged 60 and above in the same elderly household, in a 1/2/3-room unit, with per capita household income of $1,200 or less.
 
-To apply, please fill up the application form.
+
+To apply, please write in to southwest_cdc@pa.gov.sg.
