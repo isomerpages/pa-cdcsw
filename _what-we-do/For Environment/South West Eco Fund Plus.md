@@ -16,4 +16,3 @@ It support projects on a deficit funding of up to $10,000 per organisation per f
   
 If you are keen to apply or find out more, or wish to be part of the South West Sustainable journey, please email to southwest_cdc@pa.gov.sg.
 
-![](/images/What%20We%20Do/For%20Environment/south-west-eco-fund-plus.jpg)
