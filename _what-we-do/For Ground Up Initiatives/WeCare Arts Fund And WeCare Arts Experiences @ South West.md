@@ -30,7 +30,7 @@ The fund supports tickets of up to $40 each (excluding ticketing fees), transpor
 
 Please refer to the [programme menu](https://go.gov.sg/wcae-menu) for curated list of eligible programmes.
 
-WeCare Arts Experiences is open to all Social Service Agencies (SSAs), Grassroots Organisations (GROs) and Self-Help Groups. To apply, please download the [WeCare Arts Experiences Application Form](https://www-cdc-gov-sg-admin.cwp.sg/docs/librariesprovider6/documents-swcdc/for-ground-up-initiatives/wecare-arts-experiences---application-form.pdf?sfvrsn=3ce4a05d_2) and submit via email submission 2 weeks prior to the commencement of the programme.
+WeCare Arts Experiences is open to all Social Service Agencies (SSAs), Grassroots Organisations (GROs) and Self-Help Groups. To apply, please download the [WeCare Arts Experiences Application Form](/files/What%20we%20do/WeCare%20Arts%20Experiences%20%20%20SW/wecare%20arts%20experiences%20@%20south%20west%20-%20app%20form.pdf) and submit via email submission 2 weeks prior to the commencement of the programme.
 
 **Contact Us**
   
