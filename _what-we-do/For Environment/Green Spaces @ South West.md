@@ -5,16 +5,8 @@ description: ""
 third_nav_title: For Environment
 ---
 **Green Spaces @ South West**
-
-Ten years of nurturing greenery and community ties culminate in the milestone celebration of achieving 1,000,000 Native Plants @ South West, which saw more than one million native plants seeded across more than 150 gardens in the district by more than 3,000 community gardeners over 10 years.  
-  
-Succeeding 1,000,000 Native Plants @ South West, Green Spaces @ South West will grow an inclusive, caring and active community by transforming community gardens into green spaces that promote:  
-  
-**Life** \- where community gardens are inclusive, aesthetic and productive, and are open to all.  
-  
-**Learn** \- where garden volunteers gain relevant and new knowledge to enhance the community experience in these green spaces.  
-  
-**Love** \- where residents care and share for the vulnerable, who can be meaningfully engaged at these spaces and enjoy the garden harvest together.
+        
+Growing an inclusive, caring and active community by transforming community gardens into green spaces in our district. These pockets of greenery dot the community and neighbourhood, helping to cool our environment, enhance our health and nurture an appreciation for nature among the young. Through this Green Spaces @ South West, we also hope to encourage our residents to adopt a clean and green lifestyle and to take responsibility for their living environment.
 
 If you are keen to seek funding support for your green spaces, please see the following: 
 
@@ -31,4 +23,4 @@ If you are keen to seek funding support for your green spaces, please see the fo
 
 **Adopt-A-Garden @ South West:** corporations and organisations can adopt gardens by sponsoring a part of the community gardens’ expenses or donating furniture and tools. They can also volunteer and help out at the community gardens on a regular basis, deepening engagement with residents and fostering community bonds. The CDC will assist to do the matching of community gardens.
 
-For more information, please email: southwest\_cdc@pa.gov.sg.
+For more information, please email to southwest_cdc@pa.gov.sg.

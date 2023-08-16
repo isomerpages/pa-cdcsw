@@ -2,7 +2,6 @@
 title: South West Happy Fund
 permalink: /what-we-do/for-ground-up-initiatives/south-west-happy-fund/
 description: ""
-third_nav_title: For Ground Up Initiatives
 ---
 The **South West Happy Fund** is a seed funding that aims to support start-up ideas and initiatives that bring happiness and benefit to the South West community as follows:
 
