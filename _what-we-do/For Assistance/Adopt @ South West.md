@@ -18,6 +18,8 @@ Adopt @ South West focuses on meeting three core needs as follows (keep the tabl
 
 3.       Education & Enrichment
 
+![](/images/What%20We%20Do/For%20Assistant/Adopt%20@%20South%20West/Adoptfocus.png)
+
 **Festive Cheers @ South West**
 
 A flagship initiative under Adopt @ South West that aims to spread joy to the underprivileged residents. In collaboration with our corporate and community partners and volunteers, a series of activities, ranging from social excursions, festive parties, grant-a-wish are organised any time of the year leading to the signature event of distribution of care packs to 8,000 units within South West District between December to February yearly.
