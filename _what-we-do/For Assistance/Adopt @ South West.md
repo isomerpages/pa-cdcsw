@@ -10,7 +10,7 @@ Adopt @ South West was launched in 2007 as a “many helping hands” approach b
 
 **Programme Focus**
 
-Adopt @ South West focuses on meeting three core needs as follows (keep the table):
+Adopt @ South West focuses on meeting three core needs as follows :
 
 1.       Social Support & Wellness
 
