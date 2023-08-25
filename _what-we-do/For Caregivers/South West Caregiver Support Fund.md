@@ -11,9 +11,8 @@ The South West Caregiver Support Fund is an interim one-time assistance of $800,
 * Resident of South West District;
 * Singapore Citizen or at least one immediate family member is a Singapore Citizen;
 * Caregiver and Care Recipient must reside in the same household;
-* Care recipient requires assistance in at least 3 of the Activities of Daily Living (ADL) - washing, feeding, dressing, toileting and mobility;
-* Total Gross Monthly Household Income of $3,500 or Per Capita Income (PCI) of $875, whichever is lower; and
-* Discretion of the Grassroots Leaders/Volunteers for residents with exceptional family and financial difficulties.
+* Care recipient requires assistance in at least 3 of the Activities of Daily Living (ADL) - washing, feeding, dressing, toileting and mobility; and
+* Total Gross Monthly Household Income of $3,500 or Per Capita Income (PCI) of $875, whichever is lower
 
 
 **Contact Us**<br>
