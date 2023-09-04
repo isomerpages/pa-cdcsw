@@ -48,7 +48,7 @@ Do check out the addresses below for the Green Trail piloted in Bukit Gombak Div
 Pavilion’s Edible and Biodiversity Garden    | Pavilion Playground Park Postal Code 658522   |
 Hillview Vantage Garden   | Hillview Avenue Postal Code 669620
 
-**NEW!** - We have recently added a new community garden (Bukit Batok Zone 2 Cosy Garden) at Bukit Batok Division in addition to the 4 gardens above. The garden was recently revamped with sustainable features and was rebranded as the “Green Innovation Centre”. Launched by Mayor Low Yen Ling and Mr Murali, Grassroots Adviser to Bukit Batok GROs on 8 June 2023, the garden aims to promote and showcase sustainable urban living and practices. You may refer to the links [here](https://www.8world.com/singapore/green-innovation-centre-2154091) to find out more on the GIC.
+**NEW!** - We have recently added a new community garden (Bukit Batok Zone 2 Cosy Garden) at Bukit Batok Division in addition to the 4 gardens above. The garden was recently revamped with sustainable features and was rebranded as the “Green Innovation Centre”. Launched by Mayor Low Yen Ling and Mr Murali, Grassroots Adviser to Bukit Batok GROs on 8 June 2023, the garden aims to promote and showcase sustainable urban living and practices. Click [here](https://www.8world.com/singapore/green-innovation-centre-2154091) to find out more on the GIC.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6iYLKYRJM1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
 
