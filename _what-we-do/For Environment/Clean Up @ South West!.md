@@ -4,7 +4,7 @@ permalink: /what-we-do/for-environment/cleanupsw/
 description: cleanupsw
 third_nav_title: For Environment
 ---
-**Clean Up @ South West!** is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
+**Clean Up @ South West!**&nbsp;is an annual flagship recycling programme organised by the South West CDC , the National Environment Agency (NEA) and supported by various Grassroots Organisations (GROs), corporate partners, and schools in the South West District, since 2006.
 
 The objective of Clean Up @ South West! is aimed to:
 * Provide a platform for residents to recycle;
@@ -44,6 +44,15 @@ Do check out the addresses below for the Green Trail piloted in Bukit Gombak Div
 | **Name of Community Garden** |  **Address** | 
 | -------- | -------- | 
 | Hillview Garden    | At the junction of Jln Remaja/ Jln Batu Nilam Postal Code 668671    |
- Hillview Connection Garden    | Between Hillview Apt & Meralodge Condo Postal Code 669583   |
+ Hillview Connection Garden    | Between Hillview Apt &amp; Meralodge Condo Postal Code 669583   |
 Pavilion’s Edible and Biodiversity Garden    | Pavilion Playground Park Postal Code 658522   |
 Hillview Vantage Garden   | Hillview Avenue Postal Code 669620
+
+**NEW!** - We have recently added a new community garden (Bukit Batok Zone 2 Cosy Garden) at Bukit Batok Division in addition to the 4 gardens above. The garden was recently revamped with sustainable features and was rebranded as the “Green Innovation Centre”. Launched by Mayor Low Yen Ling and Mr Murali, Grassroots Adviser to Bukit Batok GROs on 8 June 2023, the garden aims to promote and showcase sustainable urban living and practices. Click [here](https://www.8world.com/singapore/green-innovation-centre-2154091) to find out more on the GIC.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6iYLKYRJM1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
+
+       
+| **Name of Community Garden** | **Address** |
+| --- | --- |
+| Bukit Batok Zone 2 Cosy Garden| At Blk 106, Bukit Batok Central Postal Code 650106|
