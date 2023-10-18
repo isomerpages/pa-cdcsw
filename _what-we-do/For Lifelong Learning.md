@@ -5,21 +5,7 @@ description: ""
 ---
 **SkillsFuture Advice @ South West**
 
-Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsFuture Advice @ South West (SFA @ South West) aims to help residents navigate the SkillsFuture landscape and better understand the skills needed for the future economy as well as their own strengths. Recently renewed between the five CDCs, SkillsFuture Singapore (SSG) and e2i, SFA @ South West will target to reach even more residents, to better support them in today’s volatile jobs landscape.
-
-**Upcoming Event** 
-
-*Please click on the images to be redirected to the registration page.*
-
-<a href="https://go.gov.sg/swsff2023">
-<img src="/images/What%20We%20Do/For%20Lifelong%20Learning/skillsfuture%20festival%20@%20sw_edm-01.jpg"></a>
-
-
-Have you ever tried playing drone soccer? Or used a VR goggle? Come down for our event and try these and more out!
-
-Learn more on digital, green and care economies and SkillsFuture initiatives. Employers onsite for those who wish to attend job interviews, or even just to find out more on jobs and industries.
-       
-Stand a chance to receive a **goodie bag and $5 NTUC vouchers**. WE ARE SO EXCITED TO SEE YOU THERE!
+Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsFuture Advice @ South West (SFA @ South West) aims to help residents navigate the SkillsFuture landscape and better understand the skills needed for the future economy as well as their own strengths. Recently renewed between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning Institute (LLI), SFA @ South West will target to reach even more residents, to better support them in today’s volatile jobs landscape.
 
 
 -----------------------------------------------
@@ -44,7 +30,3 @@ Organizations
 *   The workshop can be contextualized in accordance to the needs of your organization’s staff learning and development plan.
 *   Co-create learning festivals / networking sessions  
     
-
-**South West Learn on the Job**&nbsp;
-
-The South West Learn on the Job programme trains and places vulnerable residents seeking employment, providing an opportunity for social mobility and a better future for these residents and their families. Together with partners such as e2i and employers, residents benefit from seamless support in this one-stop referral process.
