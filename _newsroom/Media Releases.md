@@ -3,8 +3,6 @@ title: Media Releases
 permalink: /newsroom/media-releases/
 description: ""
 ---
-**7 October 2023** 
-
 **14 September 2023** [LAUNCH OF A ONE-STOP DIRECTORY AND ARTIFICIAL INTELLIGENCE BASED CHAT ON GOODJOBS PORTAL TO SIMPLIFY AND COMPLEMENT JOB SEARCH](/files/Media%20Release/MR%202023/2023%2009%2014%20-%20media%20release%20-%20south%20west%20community%20job%20fair%20and%20symposium%20at%20bukit%20gombak.pdf)
 
 **9 September 2023** [OVER 1,100 VULNERABLE HOUSEHOLDS TO RECEIVE HOUSEHOLD PACKS UNDER ADOPT @ SOUTH WEST PROGRAMME](/files/Media%20Release/MR%202023/2023%2009%2009%20-%20media%20release-hse%20pack%20distri%20w%20exxonmobil%20-adopt%20@%20boon%20lay.pdf)
