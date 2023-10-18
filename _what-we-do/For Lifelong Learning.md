@@ -28,5 +28,4 @@ Organizations
 
 *   The workshop can be arranged for your organization to help your employees or members develop their resilience and tap on available resources to upgrade their skills to stay ahead.
 *   The workshop can be contextualized in accordance to the needs of your organization’s staff learning and development plan.
-*   Co-create learning festivals / networking sessions  
-    
+*   Co-create learning festivals / networking sessions
