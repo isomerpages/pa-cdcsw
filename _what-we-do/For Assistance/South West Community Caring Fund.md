@@ -11,8 +11,7 @@ South West Community Caring Fund provide immediate support of $250 to the follow
 *   Has one or more children aged six years and below at the time of application with per capita household income of $1,200 or less; or
 *   Senior aged 60 and above staying alone or together with other senior(s) aged 60 and above in the same elderly household, with per capita household income of $1,200 or less.
 
-To apply, you may scan the QR code attached or visit [https://go.gov.sg/swcaringfund](https://go.gov.sg/swcaringfund) Please get ready the following supporting documents:
+To apply, visit [https://go.gov.sg/swcaringfund](https://go.gov.sg/swcaringfund) Please get ready the following supporting documents:
 
 *   Latest income slip or CPF Statement of applicant and all working family members of the household
 *   Birth certificates (if any)
-
