@@ -1,7 +1,0 @@
-collections:
-  remove-page:
-    output: true
-    order:
-      - South West Caregiver Friendly Workplace Advisory.md
-      - Integrated Care Programme @ South West.md
-      - South West Happy Fund.md
