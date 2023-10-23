@@ -15,3 +15,7 @@ To apply, visit [https://go.gov.sg/swcaringfund](https://go.gov.sg/swcaringfund)
 
 *   Latest income slip or CPF Statement of applicant and all working family members of the household
 *   Birth certificates (if any)
+
+![](/images/What%20We%20Do/For%20Assistant/Caring%20Fund/edm_fa.jpg)
+
+![](/images/What%20We%20Do/For%20Assistant/Caring%20Fund/qr%20code%20-%20caring%20fund%20form.png)
