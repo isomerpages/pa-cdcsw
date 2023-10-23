@@ -19,5 +19,5 @@ To apply, visit [https://go.gov.sg/swcaringfund](https://go.gov.sg/swcaringfund)
 ![](/images/What%20We%20Do/For%20Assistant/Caring%20Fund/edm_fa.jpg)
 
         
-**<a href="[Go.gov.sg](https://go.gov.sg/swcaringfund)">**
-![](/images/What%20We%20Do/For%20Assistant/Caring%20Fund/qr%20code%20-%20caring%20fund%20form.png)</a>
+<a href="https://go.gov.sg/swcaringfund">
+<img src="/images/What%20We%20Do/For%20Assistant/Caring%20Fund/qr%20code%20-%20caring%20fund%20form.png"></a>
