@@ -3,6 +3,9 @@ title: Media Releases
 permalink: /newsroom/media-releases/
 description: ""
 ---
+**27 Oct 2023** [SOUTH WEST CDC LAUNCHES FUND OF MORE THAN $10 MILLION TO SUPPORT FAMILIES IN THE SOUTH WEST DISTRICT](/files/Media%20Release/MR%202023/2023%2010%2027%20-%20media%20release%20-%20south%20west%20cdc%20appreciation%20and%20appointment%20ceremony%202023.pdf)
+
+
 **7 Oct 2023** [NEW INITIATIVE TO RAISE DIGITAL LITERACY SKILLS OF RESIDENTS IN VIEW OF RISING SCAMS ](/files/Media%20Release/MR%202023/2023%2010%2007%20-%20mr%20-%20new%20initiative%20to%20raise%20digital%20literacy%20skills%20of%20residents.pdf)
 
 
