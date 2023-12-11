@@ -2,7 +2,10 @@
 title: Media Releases
 permalink: /newsroom/media-releases/
 description: ""
+variant: markdown
 ---
+**02 Dec 2023** [$800,000 WORTH OF FESTIVE CHEERS PACKS FOR 8,000 VULNERABLE HOUSEHOLDS; YOUTH VOLUNTEERS MAKE A DIFFERENCE ](/files/Media%20Release/MR%202023/2023_12_02___Post_Media_Release___Launch_of_Festive_Cheers___South_West_2023.pdf)
+
 **27 Oct 2023** [SOUTH WEST CDC LAUNCHES FUND OF MORE THAN $10 MILLION TO SUPPORT FAMILIES IN THE SOUTH WEST DISTRICT](/files/Media%20Release/MR%202023/2023%2010%2027%20-%20media%20release%20-%20south%20west%20cdc%20appreciation%20and%20appointment%20ceremony%202023.pdf)
 
 
