@@ -10,7 +10,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: CDC Voucher
-          description: $300 in CDC Vouchers
+          description: $500 in CDC Vouchers
           url: /what-we-do/new-in
         - title: SWIF+
           description: South West Innovation Fund Plus
