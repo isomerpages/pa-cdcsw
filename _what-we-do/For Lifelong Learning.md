@@ -14,9 +14,9 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 **SkillsFuture Advice Workshops/ Webinars**
 
-Please click [here](https://bit.ly/47J7MUH) for the link.
+Please click the image for the link.
 
-![](/images/What%20We%20Do/For%20Lifelong%20Learning/CODING_101_HTMLCSS_SOCIAL_MEDIA_V3.jpg)
+<a href="https://bit.ly/47J7MUH">![](/images/What%20We%20Do/For%20Lifelong%20Learning/CODING_101_HTMLCSS_SOCIAL_MEDIA_V3.jpg)
 
 The SkillsFuture Advice workshop brings to the community useful information about SkillsFuture and how individuals can tap on the various resources for their career planning and skills upgrading needs.
 
@@ -33,4 +33,4 @@ Organizations
 
 *   The workshop can be arranged for your organization to help your employees or members develop their resilience and tap on available resources to upgrade their skills to stay ahead.
 *   The workshop can be contextualized in accordance to the needs of your organization’s staff learning and development plan.
-*   Co-create learning festivals / networking sessions
+*   Co-create learning festivals / networking sessions</a>
