@@ -2,6 +2,7 @@
 title: For Lifelong Learning
 permalink: /what-we-do/for-lifelong-learning/
 description: ""
+variant: markdown
 ---
 **SkillsFuture Advice @ South West**
 
@@ -12,6 +13,10 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 
 **SkillsFuture Advice Workshops/ Webinars**
+
+Please click [here](https://bit.ly/47J7MUH) for the link.
+
+![](/images/What%20We%20Do/For%20Lifelong%20Learning/CODING_101_HTMLCSS_SOCIAL_MEDIA_V3.jpg)
 
 The SkillsFuture Advice workshop brings to the community useful information about SkillsFuture and how individuals can tap on the various resources for their career planning and skills upgrading needs.
 
