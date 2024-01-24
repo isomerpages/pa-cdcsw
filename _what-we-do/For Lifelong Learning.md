@@ -14,7 +14,7 @@ Launched in 2017 to bring the SkillsFuture movement into the heartlands, SkillsF
 
 **SkillsFuture Advice Workshops/ Webinars**
 
-Please click the image for the link.
+Please click the image to register for the workshop.
 
 <a href="https://bit.ly/47J7MUH">![](/images/What%20We%20Do/For%20Lifelong%20Learning/CODING_101_HTMLCSS_SOCIAL_MEDIA_V3.jpg)</a>
 
