@@ -21,7 +21,8 @@ Please click the image for the link.
 
 The SkillsFuture Advice workshop brings to the community useful information about SkillsFuture and how individuals can tap on the various resources for their career planning and skills upgrading needs.
 
-Workshops can also be conducted at employer’s location for your staff if the minimum number of 15 participants are met.&nbsp;Webinars can also be conducted for a minimum number of 10. Kindly contact Mr Syafiq via email: [Syafiq\_NASRUN\_from.TP@pa.gov.sg](mailto:Syafiq_NASRUN_from.TP@pa.gov.sg) to find out more!
+Workshops can also be conducted at employer’s location for your staff if the minimum number of 15 participants are met.&nbsp;Webinars can also be conducted for a minimum number of 10. 
+Kindly contact Mr Syafiq via email: [Syafiq\_NASRUN\_from.TP@pa.gov.sg]mailto:Syafiq_NASRUN_from.TP@pa.gov.sg) to find out more!
 
 **Who is it suitable for?**
 
