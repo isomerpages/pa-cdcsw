@@ -1,0 +1,16 @@
+logo: /images/Logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: What We Do
+    collection: what-we-do
+  - title: Join Us
+    collection: join-us
+  - title: NewsRoom
+    collection: newsroom
+  - title: Stories
+    collection: stories
+  - title: Highlights
+    collection: highlights
+  - title: Contact Us
+    collection: contact-us
