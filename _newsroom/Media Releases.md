@@ -4,6 +4,8 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
+**28 Jan 2024** [SUSTAINABLE SYNERGY: CLEAN UP @ SOUTH WEST 2024 UNITES PARTNERS TO CULTIVATE ECO-CONSCIOUSNESS IN THE COMMUNITY AND SCHOOLS](/files/Media%20Release/MR%202024/2024_01_28___Post_Media_Release___Clean_Up___South_West_2024_28Jan.pdf)
+
 **02 Dec 2023** [$800,000 WORTH OF FESTIVE CHEERS PACKS FOR 8,000 VULNERABLE HOUSEHOLDS; YOUTH VOLUNTEERS MAKE A DIFFERENCE ](/files/Media%20Release/MR%202023/2023_12_02___Post_Media_Release___Launch_of_Festive_Cheers___South_West_2023.pdf)
 
 **27 Oct 2023** [SOUTH WEST CDC LAUNCHES FUND OF MORE THAN $10 MILLION TO SUPPORT FAMILIES IN THE SOUTH WEST DISTRICT](/files/Media%20Release/MR%202023/2023%2010%2027%20-%20media%20release%20-%20south%20west%20cdc%20appreciation%20and%20appointment%20ceremony%202023.pdf)
