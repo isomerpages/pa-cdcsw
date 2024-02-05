@@ -2,9 +2,11 @@
 title: E BRIDGE
 permalink: /newsroom/e-bridge/
 description: ""
+variant: markdown
 ---
 To view our newsletters, click on the respective links below:
 
+* [BRIDGE 2023 Issue 4](https://go.gov.sg/bridge-4-2023)
 * [BRIDGE 2023 Issue 3](https://go.gov.sg/bridge-3-2023)
 * [BRIDGE 2023 Issue 2](https://go.gov.sg/bridge-2-2023)
 * [BRIDGE 2023 Issue 1](https://go.gov.sg/bridge-1-2023)
