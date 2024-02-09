@@ -44,8 +44,96 @@ West 2024. &nbsp;</p>
 and nutritional health among students, the CDC launched a set of activity
 booklets in partnership with Life3 Biotech Pte Ltd, as part of GROW @ South
 West.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_6553.JPG">
 </div>
+<p>The booklets were specially curated for primary and secondary school students
+and cover key messages on reducing food waste, eating healthy, maintaining
+good hygiene, practicing the 3Rs – reduce, reuse and recycle and reducing
+our carbon footprints.</p>
+<p>This year, the CDC presented the Sustainable South West Awards 2023 to
+four winners. The Sustainable South West Awards recognises schools, community
+and corporate organisations which have made exemplary contributions towards
+environmental sustainability in the South West District and to the Sustainable
+South West Masterplan. These efforts encompass ground up initiatives that
+actively engage residents and community partners in addressing environmental
+and sustainability challenges within the South West District.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSC_6641.JPG">
+</div>
+<p>The winners for Sustainable South West Awards 2023 under each of the different
+categories are:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Categories</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Organisation’s Name</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boon Lay Secondary School</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Holistic efforts in cultivating a culture of sustainability and integrating
+eco-practices in the school’s curriculum.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Kah North CCC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Efforts in the community to raise environmental awareness among residents
+through eco-education and recycling drives.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>Corporate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HP Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Introducing measures to reduce carbon emissions in their operations and
+contributing to community efforts in educating the public on the importance
+of sustainable practices.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shell Companies in Singapore</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reaching out and engaging the community on sustainability initiatives
+and efforts in implementing sustainability practices such as reducing plastic
+waste.&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
