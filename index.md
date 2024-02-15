@@ -17,7 +17,7 @@ sections:
           url: /what-we-do/for-ground-up-initiatives/swift
         - title: Tertiary Grant
           description: $600 in Tertiary Grant
-          url: /what-we-do/for-students/tertiarygrant//
+          url: /what-we-do/for-students/tertiarygrant/
       background: /images/Home page image/Updated_key_visual2__2024.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
