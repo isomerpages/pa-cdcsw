@@ -4,6 +4,8 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
+**30 Mar 2024** [ALL HANDS ON DECK – PARTNERS FROM CORPORATES, SCHOOLS AND THE COMMUNITY COME TOGETHER TO SPREAD FESTIVE JOY TO 8,000 RESIDENTS](/files/Media%20Release/MR%202024/2024_03_30___Post_Media_Release___Festive_Cheers___SW_with_Lonza_Singapore.pdf)
+
 **28 Jan 2024** [SUSTAINABLE SYNERGY: CLEAN UP @ SOUTH WEST 2024 UNITES PARTNERS TO CULTIVATE ECO-CONSCIOUSNESS IN THE COMMUNITY AND SCHOOLS](/files/Media%20Release/MR%202024/2024_01_28___Post_Media_Release___Clean_Up___South_West_2024_28Jan.pdf)
 
 **02 Dec 2023** [$800,000 WORTH OF FESTIVE CHEERS PACKS FOR 8,000 VULNERABLE HOUSEHOLDS; YOUTH VOLUNTEERS MAKE A DIFFERENCE ](/files/Media%20Release/MR%202023/2023_12_02___Post_Media_Release___Launch_of_Festive_Cheers___South_West_2023.pdf)
