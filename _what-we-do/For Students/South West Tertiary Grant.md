@@ -3,6 +3,7 @@ title: South West Tertiary Grant
 permalink: /what-we-do/for-students/tertiarygrant/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 **South West Tertiary Grant**<br>
 
@@ -13,7 +14,7 @@ The South West Tertiary Grant is setup to help students from low-income families
 *   Resident of South West District;
 *   Full-time student at localised tertiary institutions (polytechnics, universities, NAFA or LaSalle);
 *   Singapore Citizen or at least one immediate family member is a Singapore Citizen; and
-*   Combined Gross Monthly Household Income of $3,500 or Per Capita Household Income of $875, whichever is lower.
+*   Combined Gross Monthly Household Income of $3,500 or Per Capita Household Income of $1,000, whichever is lower.
 
 **Required Supporting Documents**
 
