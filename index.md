@@ -10,7 +10,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: CDC Voucher
-          description: $500 in CDC Vouchers
+          description: $300 in CDC Vouchers
           url: /what-we-do/new-in
         - title: SWIF+
           description: South West Innovation Fund Plus
@@ -18,7 +18,7 @@ sections:
         - title: Tertiary Grant
           description: $600 in Tertiary Grant
           url: /what-we-do/for-students/tertiarygrant
-      background: /images/Home page image/Updated_key_visual2__2024.png
+      background: /images/Home page image/Banner___25_Jun_2024.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
         us to create our home, a G.R.E.A.T South West District."'
