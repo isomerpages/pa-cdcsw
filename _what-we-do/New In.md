@@ -6,7 +6,7 @@ variant: markdown
 ---
 **About CDC Vouchers Scheme 2024**
 
-![](/images/What%20We%20Do/News%20In/Key_Visual___2024.png)
+![](/images/What%20We%20Do/News%20In/Banner_with_words___25_Jun_2024.png)
 
 
 As part of the Government’s continuing efforts to help Singaporean households cope with daily expenses, Deputy Prime Minister and Finance Minister Mr Lawrence Wong announced that the Community Development Councils (CDCs) will give out CDC Vouchers in 2024 as part of Budget 2022 and Budget 2023, as well as the $1.1 billion Cost-of-Living Package in September 2023.
