@@ -17,7 +17,10 @@ to better support them in today’s volatile jobs landscape.</p>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p>Please click the image to register for the workshop.</p>
-<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3wXlMxR"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/CODING_101_HTMLCSS_JUNE_2024_SOCIAL_MED.jpg"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/MENDAKI_Raikan_Ilmu_x_SWCDC_A4_Poster_FAP_59150838_1.jpg">
+</div>
 <p>The SkillsFuture Advice workshop brings to the community useful information
 about SkillsFuture and how individuals can tap on the various resources
 for their career planning and skills upgrading needs.</p>
