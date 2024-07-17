@@ -21,6 +21,9 @@ and goodjobs, are celebrating Raikan Ilmu @Heartlands! We will be there
 from the 15th - 19th July 2024.</p>
 <p>Please click the image to register for the job fair.</p><a class="isomer-image-wrapper" href="https://qrco.de/raikanilmu"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/MENDAKI_Raikan_Ilmu_x_SWCDC_A4_Poster_FAP_59150838_1.jpg"></a>
 <hr>
+<p></p><a class="isomer-image-wrapper" href="https://bit.ly/4cC1jOM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/JULY__INTRO_TO_DATA_ANALYTICS_AND_PYTHON_SOCIAL_MEDIA.jpg"></a>
+<p></p>
+<p></p>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p></p>
