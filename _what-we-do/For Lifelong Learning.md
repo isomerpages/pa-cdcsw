@@ -23,7 +23,7 @@ from the 15th - 19th July 2024.</p>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="https://bit.ly/4cC1jOM"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/JULY__INTRO_TO_DATA_ANALYTICS_AND_PYTHON_SOCIAL_MEDIA.jpg"></a>
 <p></p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/swsff2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SWSFF_2024___Keat_Hong_CC__19072024.jpg"></a>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p></p>
