@@ -28,7 +28,7 @@ from the 15th - 19th July 2024.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/JULY__INTRO_TO_DATA_ANALYTICS_AND_PYTHON_SOCIAL_MEDIA.jpg">
 </a>
 <p>The SkillsFuture Advice workshop brings to the community useful information
-about SkillsFutureand how individuals can tap on the various resources
+about SkillsFuture and how individuals can tap on the various resources
 for their career planning and skills upgrading needs.</p>
 <p>Workshops can also be conducted at employer’s location for your staff
 if the minimum number of 15 participants are met. Webinars can also be
