@@ -14,13 +14,6 @@ between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning
 Institute (LLI), SFA @ South West will target to reach even more residents,
 to better support them in today’s volatile jobs landscape.</p>
 <hr>
-<p><strong>South West Community Job Fair</strong>
-</p>
-<p>The South West Community Job Fair is back at Jurong Point. Mendaki, SWCDC
-and goodjobs, are celebrating Raikan Ilmu @Heartlands! We will be there
-from the 15th - 19th July 2024.</p>
-<p>Please click the image to register for the job fair.</p><a class="isomer-image-wrapper" href="https://qrco.de/raikanilmu"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/MENDAKI_Raikan_Ilmu_x_SWCDC_A4_Poster_FAP_59150838_1.jpg"></a>
-<hr>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p>Please click the images to register for the workshops.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/swsff2024"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SWSFF_2024___Keat_Hong_CC__19072024.jpg"></a>
