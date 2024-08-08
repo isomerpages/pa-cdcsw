@@ -16,7 +16,7 @@ to better support them in today’s volatile jobs landscape.</p>
 <hr>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3LRKV0G"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SOCIAL_MEDIA__AUG_PYTHON_FUNDAMENTALS.jpg"></a>
 <p>The SkillsFuture Advice workshop brings to the community useful information
 about SkillsFuture and how individuals can tap on the various resources
 for their career planning and skills upgrading needs.</p>
