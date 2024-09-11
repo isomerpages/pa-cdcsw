@@ -14,6 +14,8 @@ between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning
 Institute (LLI), SFA @ South West will target to reach even more residents,
 to better support them in today’s volatile jobs landscape.</p>
 <hr>
+<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3TkIS9I"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SOCIAL_MEDIA_SEP_CODING_101_HTML_CSS.jpg"></a>
+<p></p>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p>The SkillsFuture Advice workshop brings to the community useful information
