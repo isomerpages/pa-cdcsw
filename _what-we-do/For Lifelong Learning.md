@@ -13,10 +13,9 @@ for the future economy as well as their own strengths. Recently renewed
 between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning
 Institute (LLI), SFA @ South West will target to reach even more residents,
 to better support them in today’s volatile jobs landscape.</p>
-<hr>
-<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3NbNYS0"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/OCT_DATA_ANALYTICS_AND_PYTHON_SOCIAL_MEDIA.jpg"></a>
+<hr><a class="isomer-image-wrapper" href="https://qrco.de/goodjobfair"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/Job_Fair___16_Oct_2024.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3UuFtpz"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SOCIAL_MEDIA_NOV_PYTHON_FUNDAMENTALS.jpg"></a>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://qrco.de/goodjobfair"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/Job_Fair___16_Oct_2024.jpg"></a>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p>The SkillsFuture Advice workshop brings to the community useful information
