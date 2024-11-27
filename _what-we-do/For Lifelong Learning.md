@@ -16,8 +16,6 @@ to better support them in today’s volatile jobs landscape.</p>
 <hr>
 <p></p><a class="isomer-image-wrapper" href="https://bit.ly/3CBCup4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SOCIAL_MEDIA_CODING_101_HTML_CSS_V2.jpg"></a>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3UuFtpz"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SOCIAL_MEDIA_NOV_PYTHON_FUNDAMENTALS.jpg"></a>
-<p></p>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p>The SkillsFuture Advice workshop brings to the community useful information
