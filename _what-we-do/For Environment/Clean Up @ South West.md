@@ -22,6 +22,9 @@ partners, and schools in the South West District, since 2006.</p>
 a sustainable environment in the community.</p>
 </li>
 </ul>
+<p><strong>Clean Up @ South West 2025</strong> is back! More than 40 recycling
+points will be set up on <strong>14-15 December 2024</strong>, <strong>21-22 December 2024</strong> and <strong>4-5 January 2025</strong>.</p>
+<p>For more details on the recycling points, please click <a href="/files/What we do/For Environment/Recycling_Points___14_15_21_22_Dec_2024_and_4_5_Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p><strong>Contact Us</strong>
 </p>
 <p>If you are keen to find out more, or wish to be part of the South West
@@ -64,7 +67,11 @@ and sustainability challenges within the South West District.</p>
 </div>
 <p>The winners for Sustainable South West Awards 2023 under each of the different
 categories are:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
