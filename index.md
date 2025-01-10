@@ -18,7 +18,7 @@ sections:
         - title: Tertiary Grant
           description: $600 in Tertiary Grant
           url: /what-we-do/for-students/tertiarygrant
-      background: /images/Home page image/Banner___25_Jun_2024.png
+      background: /images/Landing_page_banner.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
         us to create our home, a G.R.E.A.T South West District."'
