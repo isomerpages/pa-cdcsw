@@ -4,7 +4,7 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
-**23 Nov 2024**[TOWARDS A GREENER FUTURE AT CLEAN UP @ SOUTH WEST 2025 ENHANCED ECO-CURRICULUM FOR GREEN SCHOOLS](/files/Media%20Release/MR%202025/2025_01_25___Post_Media_Release___Clean_Up_at_South_West_2025.pdf)
+**27 Jan 2025** [TOWARDS A GREENER FUTURE AT CLEAN UP @ SOUTH WEST 2025 ENHANCED ECO-CURRICULUM FOR GREEN SCHOOLS](/files/Media%20Release/MR%202025/2025_01_25___Post_Media_Release___Clean_Up_at_South_West_2025.pdf)
 
 
 **23 Nov 2024** [COMMUNITY SPIRIT IN ACTION – YOUTH VOLUNTEERS AND COMMUNITY PARTNERS BRING FESTIVE CHEERS TO 8,000 FAMILIES IN THE SOUTH WEST DISTRICT](/files/Media%20Release/MR%202024/20241124___Post_Media_Release___Launch_of_Festive_Cheers___South_West_2024.pdf)
