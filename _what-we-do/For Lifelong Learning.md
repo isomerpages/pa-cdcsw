@@ -11,11 +11,22 @@ SkillsFuture Advice @ South West (SFA @ South West) aims to help residents
 navigate the SkillsFuture landscape and better understand the skills needed
 for the future economy as well as their own strengths. Recently renewed
 between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning
-Institute (LLI), SFA @ South West will target to reach even more residents,
+Institute (LLI),SFA @ South West will target to reach even more residents,
 to better support them in today’s volatile jobs landscape.</p>
 <hr>
-<p></p><a class="isomer-image-wrapper" href="https://bit.ly/3CBCup4"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SOCIAL_MEDIA_CODING_101_HTML_CSS_V2.jpg"></a>
-<p></p>
+<p><strong>South West Community Job Fair</strong>
+</p>
+<p>Join us at the South West Community Job Fair on 3rd and 4th April 2025,
+10am - 4pm at Yuhua Community Club.</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/swcdc-goodjobfair"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SW_Job_Fair_3_Apr_25.jpg"></a>
+<p>This job fair features on-site face-to-face interviews with employers
+from diverse sectors offering jobs in growth industries. There are also
+training programs to upgrade your skills. Resume writing and career counselling
+services are also available onsite.</p>
+<p>For seniors, career-switchers, back-to-work locals, and persons with disabilities
+(PWDs) - we are here to help. Find out more: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swcdc-goodjobfair</a>
+</p>
+<hr>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
 <p>The SkillsFuture Advice workshop brings to the community useful information
