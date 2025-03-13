@@ -16,12 +16,15 @@ to better support them in today’s volatile jobs landscape.</p>
 <hr>
 <p><strong>South West Community Job Fair</strong>
 </p>
-<p><em>Join us at the South West Community Job Fair on 3rd and 4th April 2025, 10am - 4pm at Yuhua Community Club.</em>
-</p>
-<p>&nbsp;</p><a class="isomer-image-wrapper" href="https://go.gov.sg/swcdc-goodjobfair"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SW_Job_Fair_3_Apr_25.jpg"></a>
-<p><em>This job fair features on-site face-to-face interviews with employers from diverse sectors offering jobs in growth industries. There are also training programs to upgrade your skills. Resume writing and career counselling services are also available onsite.</em>
-</p>
-<p><em>For seniors, career-switchers, back-to-work locals, and persons with disabilities (PWDs) - we are here to help. Find out more: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swcdc-goodjobfair</a></em>
+<p>Join us at the South West Community Job Fair on 3rd and 4th April 2025,
+10am - 4pm at Yuhua Community Club.</p>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/swcdc-goodjobfair"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SW_Job_Fair_3_Apr_25.jpg"></a>
+<p>This job fair features on-site face-to-face interviews with employers
+from diverse sectors offering jobs in growth industries. There are also
+training programs to upgrade your skills. Resume writing and career counselling
+services are also available onsite.</p>
+<p>For seniors, career-switchers, back-to-work locals, and persons with disabilities
+(PWDs) - we are here to help. Find out more: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swcdc-goodjobfair</a>
 </p>
 <hr>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
