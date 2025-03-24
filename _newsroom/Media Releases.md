@@ -4,6 +4,8 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
+**9 Mar 2025** [PROVIDING AFFORDABLE AND ACCESSIBLE MEALS TO RESIDENTS, ESPECIALLY TO LOW INCOME RESIDENTS](/files/Media%20Release/MR%202025/2025_03_09___Post_Media_Release___Value_Meals___South_West.pdf)
+
 **27 Jan 2025** [TOWARDS A GREENER FUTURE AT CLEAN UP @ SOUTH WEST 2025 ENHANCED ECO-CURRICULUM FOR GREEN SCHOOLS](/files/Media%20Release/MR%202025/2025_01_25___Post_Media_Release___Clean_Up_at_South_West_2025.pdf)
 
 
