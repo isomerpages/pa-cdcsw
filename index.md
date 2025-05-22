@@ -20,7 +20,7 @@ sections:
         - title: Tertiary Grant
           description: $600 in Tertiary Grant
           url: /what-we-do/for-students/tertiarygrant
-      background: /images/PACDC_web_banner_31_dec_1.jpg
+      background: /images/Landing_page_banner_3.png
   - infopic:
       description: '"It takes many helping hands approach and we welcome you to join
         us to create our home, a G.R.E.A.T South West District."'
