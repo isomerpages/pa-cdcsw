@@ -5,4 +5,4 @@ description: ""
 third_nav_title: About the CDC
 variant: markdown
 ---
-The South West District occupies about a third of Singapore’s land mass, spanning 18 divisions in 3 Group Representation Constituencies (GRCs) and 4 Single Member Constituencies (SMCs), namely Chua Chu Kang GRC, Jurong GRC, West Coast GRC, Bukit Batok SMC, Hong Kah North SMC, Pioneer SMC and Yuhua SMC.
+The South West District occupies about a third of Singapore’s land mass, spanning 17 divisions in 3 Group Representation Constituencies (GRCs) and 3 Single Member Constituencies (SMCs), namely Chua Chu Kang GRC, Jurong East-Bukit Batok GRC, West Coast-Jurong West GRC, Bukit Gombak SMC, Jurong Central SMC and Pioneer SMC.
