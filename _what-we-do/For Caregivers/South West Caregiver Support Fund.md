@@ -93,6 +93,6 @@ documents</p>
 <p>Applications are accepted throughout the year</p>
 <p><strong>&nbsp;Contact Us</strong>
 <br>To apply for the fund, please visit your nearest Community Club/Centre.
-For further enquiry, please <a href="FA_SWCDC___Caregiver_Support_Fund___EDM" rel="noopener nofollow" target="_blank">click here</a> or
+For further enquiry, please <a href="/files/What we do/For Caregivers/FA_SWCDC___Caregiver_Support_Fund___EDM.pdf" rel="noopener nofollow" target="_blank">click here</a> or
 email us at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">South_West_Assistance@pa.gov.sg</a>.</p>
 <p>&nbsp;</p>
