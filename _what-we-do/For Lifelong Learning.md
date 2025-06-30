@@ -14,17 +14,18 @@ between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning
 Institute (LLI),SFA @ South West will target to reach even more residents,
 to better support them in today’s volatile jobs landscape.</p>
 <hr>
-<p><strong>South West Community Job Fair</strong>
+<p><strong>SkillsFuture Festival @ South West 2025</strong>
 </p>
-<p>Join us at the South West Community Job Fair on 3rd and 4th April 2025,
-10am - 4pm at Yuhua Community Club.</p>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/swcdc-goodjobfair"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/SW_Job_Fair_3_Apr_25.jpg"></a>
-<p>This job fair features on-site face-to-face interviews with employers
-from diverse sectors offering jobs in growth industries. There are also
-training programs to upgrade your skills. Resume writing and career counselling
-services are also available onsite.</p>
-<p>For seniors, career-switchers, back-to-work locals, and persons with disabilities
-(PWDs) - we are here to help. Find out more: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/swcdc-goodjobfair</a>
+<p>Explore, Experience and Empower your future at SkillsFuture Festival @
+South West 2025, where care, green, and digital skills take centre stage!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/post_launch.png">
+</div>
+<p>✅ Try hands-on workshops
+<br>✅ Connect with industry leaders
+<br>✅ Discover new career move — all under one roof!</p>
+<p>Complete an event passport and redeem limited edition collaterals!</p>
+<p>Find out more: <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/swsff2025</a>
 </p>
 <hr>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
