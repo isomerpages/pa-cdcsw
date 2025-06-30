@@ -18,9 +18,9 @@ to better support them in today’s volatile jobs landscape.</p>
 </p>
 <p>Explore, Experience and Empower your future at SkillsFuture Festival @
 South West 2025, where care, green, and digital skills take centre stage!</p>
-<div class="isomer-image-wrapper">
+<a class="isomer-image-wrapper" href="go.gov.sg/swsff2025">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/post_launch.png">
-</div>
+</a>
 <p>✅ Try hands-on workshops
 <br>✅ Connect with industry leaders
 <br>✅ Discover new career move — all under one roof!</p>
