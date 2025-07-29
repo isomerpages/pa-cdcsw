@@ -4,6 +4,9 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
+**23Jul 2025** [REFRESHED HEALTHIER SCHOOLS @ SOUTH WEST PROGRAMME IN SUPPORT OF NATIONWIDE HEALTHIER SG](/files/Media%20Release/MR%202025/2025_07_23___Post_Media_Release___Wellbeing_Seminar___South_West.pdf)
+
+
 **18Jul 2025** [SKILLSFUTURE FESTIVAL @ SOUTH WEST 2025 KICKS OFF FIRST OF FIVE DISTRICT SKILLSFUTURE@CDC EVENTS](/files/Media%20Release/MR%202025/2025_07_18___Post_Media_Release___SkillsFuture_Festival___South_West_2025_w_photos.pdf)
 
 
