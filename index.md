@@ -35,7 +35,7 @@ sections:
       button: Read more
       url: https://go.gov.sg/bridge-1-2025
       alt: homepagebridgecover
-      image: /images/NewsRoom/E BRIDGE/BRIDGE__01_2025_cover_page_0001.jpg
+      image: /images/NewsRoom/E BRIDGE/BRIDGE__02_2025___Cover.jpg
       subtitle: newsletter
       title: BRIDGE
   - infopic:
