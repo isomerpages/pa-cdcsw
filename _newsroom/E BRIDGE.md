@@ -6,6 +6,7 @@ variant: markdown
 ---
 To view our newsletters, click on the respective links below:
 
+* [BRIDGE 2025 Issue 2](https://go.gov.sg/bridge-2-2025)
 * [BRIDGE 2025 Issue 1](https://go.gov.sg/bridge-1-2025)
 * [BRIDGE 2024 Issue 3](https://go.gov.sg/bridge-3-2024)
 * [BRIDGE 2024 Issue 2](https://go.gov.sg/bridge-2-2024)
