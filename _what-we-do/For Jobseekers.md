@@ -11,10 +11,6 @@ gap in connecting residents to suitable local jobs near their homes.</p>
 explore local job opportunities right in your neighbourhood. Our Job Ambassadors
 will be in touch to assist you.</p>
 <hr>
-<p><strong>Boost your career with our comprehensive Jobs and Skills Resources Guide!</strong>
-</p>
-<p>Discover everything you need to support you in your job search – from
-SSG SkillsFuture Credits and NTUC Career Coaching to Youth Career Networks,
-e2i Career Advice and Coaching, WSG programmes, and practical skill upgrading
-pathways. Explore the guide <a href="dfdfd" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out more.</p>
+<p>Check out the <strong>Jobs and Skills Resource List </strong>offered by
+agencies and partners <a href="dfdfd" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
