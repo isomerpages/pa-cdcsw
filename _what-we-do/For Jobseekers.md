@@ -6,7 +6,7 @@ description: ""
 ---
 <p><strong>Jobs Nearby @ South West</strong> helps to bridge the last-mile
 gap in connecting residents to suitable local jobs near their homes.</p>
-<p>Register <a href="dfdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Register <a href="go.gov.sg/jobsnearbysouthwestcdc" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 explore local job opportunities right in your neighbourhood. Our Job Ambassadors
 will be in touch to assist you.</p>
 <hr>
