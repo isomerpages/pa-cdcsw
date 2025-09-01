@@ -4,10 +4,13 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
-**23Jul 2025** [REFRESHED HEALTHIER SCHOOLS @ SOUTH WEST PROGRAMME IN SUPPORT OF NATIONWIDE HEALTHIER SG](/files/Media%20Release/MR%202025/2025_07_23___Post_Media_Release___Wellbeing_Seminar___South_West.pdf)
+**31 Aug 2025** [NEW JOBS NEARBY @ CDC INITIATIVE TO BRING  EMPLOYMENT OPPORTUNITIES CLOSER TO HOME](/files/Media%20Release/MR%202025/2025_08_31___Post_Media_Release___Jobs_Nearby___CDC.pdf)
 
 
-**18Jul 2025** [SKILLSFUTURE FESTIVAL @ SOUTH WEST 2025 KICKS OFF FIRST OF FIVE DISTRICT SKILLSFUTURE@CDC EVENTS](/files/Media%20Release/MR%202025/2025_07_18___Post_Media_Release___SkillsFuture_Festival___South_West_2025_w_photos.pdf)
+**23 Jul 2025** [REFRESHED HEALTHIER SCHOOLS @ SOUTH WEST PROGRAMME IN SUPPORT OF NATIONWIDE HEALTHIER SG](/files/Media%20Release/MR%202025/2025_07_23___Post_Media_Release___Wellbeing_Seminar___South_West.pdf)
+
+
+**18 Jul 2025** [SKILLSFUTURE FESTIVAL @ SOUTH WEST 2025 KICKS OFF FIRST OF FIVE DISTRICT SKILLSFUTURE@CDC EVENTS](/files/Media%20Release/MR%202025/2025_07_18___Post_Media_Release___SkillsFuture_Festival___South_West_2025_w_photos.pdf)
 
 
 **9 Mar 2025** [PROVIDING AFFORDABLE AND ACCESSIBLE MEALS TO RESIDENTS, ESPECIALLY TO LOW INCOME RESIDENTS](/files/Media%20Release/MR%202025/2025_03_09___Post_Media_Release___Value_Meals___South_West.pdf)
