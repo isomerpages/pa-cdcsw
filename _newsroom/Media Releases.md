@@ -4,6 +4,8 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
+**13 Sep 2025** [STRONGER TOGETHER: SOUTH WEST CDC WORKS WITH PARTNERS TO UPLIFT THE COMMUNITY](/files/Media%20Release/MR%202025/Post_Media_Release___South_West_District_Meeting_and_Partners_Appreciation_2025.pdf)
+
 **31 Aug 2025** [NEW JOBS NEARBY @ CDC INITIATIVE TO BRING  EMPLOYMENT OPPORTUNITIES CLOSER TO HOME](/files/Media%20Release/MR%202025/2025_08_31___Post_Media_Release___Jobs_Nearby___CDC.pdf)
 
 
