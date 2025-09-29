@@ -33,18 +33,4 @@ Please contact  [southwest_cdc@pa.gov.sg](mailto:southwest_cdc@pa.gov.sg) for fu
 
 -------------------------------------------------------------
 
-![](/images/What%20We%20Do/For%20Caregivers/FA_SWCDC_EDM_1_Draft_4_digitised.jpg)
-
-Webinar Title      : Balancing Well-Being while Excelling: A sharing on how we can grow Flourishing Children
-
-Date                       : Thursday 11 September 2025
-
-Time                      : 7.00 pm to 8.00 pm
-
-Pick up tips and ask our experts on parenting, self-care and mental health!
-
-Hear some success stories and learn some of the support strategies and practical skills which you can use to support your child to their fullest potential, while thriving and excelling in their domain.
-
-Register here – [https://go.gov.sg/caregivingwebinar2025-1](https://go.gov.sg/caregivingwebinar2025-1) by 5 September 2025.
-
 
