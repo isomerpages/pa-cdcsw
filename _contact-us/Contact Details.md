@@ -20,7 +20,7 @@ Monday to Sunday, 7am to 12 midnight
 **Community Legal Clinic @ South West**<br>
 The Law Society’s Community Legal Clinics (CLC) provide free basic legal advice and information. Advice would be provided on personal matters to the applicant in person. Registration is required before an appointment Is made for consultation at one of the Community Legal Clinics.
 
-To make an appointment, please email ProbonoServices@Lawsoc.org.sg or&nbsp;call the&nbsp;hotline&nbsp;at&nbsp;6536 0650.  
+To make an appointment, please email [help@probono.sg](mailto:help@probono.sg) or&nbsp;call the&nbsp;hotline&nbsp;at&nbsp;6536 0650.  
   
 Hotline operating hours:  
 Monday to Friday 10.00 am to 1.00pm and 2.00 pm to 4.00 pm.  
