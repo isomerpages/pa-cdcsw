@@ -13,3 +13,7 @@ The South West Eco Fund PLUS supports ground-up initiatives by youths and helps 
 *   The project should fulfil at least one goal under the [Sustainable South West Masterplan](https://southwest.cdc.gov.sg/what-we-do/for-environment/ssw/ "https://southwest.cdc.gov.sg/what-we-do/for-environment/ssw/"); and
 
 Successful application may receive deficit funding of up to $10,000 per project, subjected to the scale and nature of the proposals.
+
+**Contact Us**
+
+If you are keen to apply for this fund, drop us an email at [southwest\_cdc@pa.gov.sg](mailto:southwest_cdc@pa.gov.sg "mailto:southwest_cdc@pa.gov.sg")
