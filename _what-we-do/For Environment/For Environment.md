@@ -11,9 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Environment/Sustainable_Living_Testbed.jpg">
 </div>
-<p>| <strong>Zero Waste Testbed Initiative @ South West</strong>
-<br>Calling tertiary students and young alumni to test-bed innovative solutions
-in NUS to minimise waste in the community.
+<p>| <strong>Sustainability Living Testbed Initiative @ South West</strong>
+<br>Calling tertiary students and young alumni to testbed new proof-of-concepts
+in NUS on environmental and sustainability initiatives.
 <br><a href="/what-we-do/for-environment/zerowastetestbed/" rel="noopener noreferrer nofollow" target="_blank">Find Out More</a> |
 | |</p>
 <div class="isomer-image-wrapper">
