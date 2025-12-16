@@ -4,6 +4,8 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
+**6 December 2025** [YOUNG HEARTS, BIG IMPACT – YOUTH VOLUNTEERS SPREAD FESTIVE JOY ACROSS 8,000 HOUSEHOLDS IN THE SOUTH WEST DISTRICT ](/files/Media%20Release/MR%202025/Post_Media_Release___Launch_of_Festive_Cheers___South_West_2025.pdf)
+
 **13 Sep 2025** [STRONGER TOGETHER: SOUTH WEST CDC WORKS WITH PARTNERS TO UPLIFT THE COMMUNITY](/files/Media%20Release/MR%202025/Post_Media_Release___South_West_District_Meeting_and_Partners_Appreciation_2025.pdf)
 
 **31 Aug 2025** [NEW JOBS NEARBY @ CDC INITIATIVE TO BRING  EMPLOYMENT OPPORTUNITIES CLOSER TO HOME](/files/Media%20Release/MR%202025/2025_08_31___Post_Media_Release___Jobs_Nearby___CDC.pdf)
