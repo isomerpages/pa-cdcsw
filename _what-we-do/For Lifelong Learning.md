@@ -14,19 +14,7 @@ between the five CDCs, SkillsFuture Singapore (SSG) and Lifelong Learning
 Institute (LLI),SFA @ South West will target to reach even more residents,
 to better support them in today’s volatile jobs landscape.</p>
 <hr>
-<p><strong>SkillsFuture Festival @ South West 2025</strong>
-</p>
-<p>Explore, Experience and Empower your future at SkillsFuture Festival @
-South West 2025, where care, green, and digital skills take centre stage!</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/swsff2025">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/post_launch.png">
-</a>
-<p>✅ Try hands-on workshops
-<br>✅ Connect with industry leaders
-<br>✅ Discover new career move — all under one roof!</p>
-<p>Complete an event passport and redeem limited edition collaterals!</p>
-<p>Find out more: <a href="https://go.gov.sg/swsff2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/swsff2025</a>
-</p>
+<p>For registration, you may click on image below.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/sw-osw"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Lifelong Learning/Social_Media_QR_Code.png"></a>
 <hr>
 <p><strong>SkillsFuture Advice Workshops/ Webinars</strong>
 </p>
