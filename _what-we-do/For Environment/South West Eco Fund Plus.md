@@ -5,7 +5,7 @@ description: ecofund
 third_nav_title: For Environment
 variant: markdown
 ---
-The South West Eco Fund PLUS supports ground-up initiatives by youths and helps to implement their ideas on environmental sustainability. The fund criteria are as follows:
+The South West Eco Fund PLUS supports ground-up initiatives  and helps to implement their ideas on environmental sustainability. The fund criteria are as follows:
 
 *   The project must benefit the South West Community and achieve a community outreach of at least 100 participants;
 *   The project must be initiated by a team of at least five members;
