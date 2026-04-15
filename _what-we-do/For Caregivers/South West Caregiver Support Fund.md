@@ -10,7 +10,7 @@ variant: tiptap
 </div>
 <p>The <strong>South West Caregiver Support Fund</strong> is an interim one-time
 assistance of $800, to help caregivers with self-care and caregiving expenses.</p>
-<p>The eligibility criteria and administration of the fund is as follows:</p>
+<p><strong>The eligibility criteria and administration of the fund is as follows</strong>:</p>
 <p>a)&nbsp;&nbsp;&nbsp;&nbsp; Resident of South West District;</p>
 <p>b)&nbsp;&nbsp;&nbsp;&nbsp; Singapore Citizen or at least one immediate
 family member is a Singapore Citizen;</p>
