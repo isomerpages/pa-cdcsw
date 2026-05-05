@@ -24,7 +24,7 @@ toileting, moving and transferring; or</p>
 <p>f)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Care Recipient certified to have a permanent
 disability of any one of the following: Physical / Visual / Hearing / Intellectual
 Disability - autism spectrum disorder, etc.</p>
-<p>Download the South West Caregiver Support Fund poster <a href="https://southwest.cdc.gov.sg/files/What%20we%20do/For%20Caregivers/FA_SWCDC___Caregiver_Support_Fund___EDM.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p><strong>How to Apply</strong>
 </p>
 <p>Visit your nearest Community Club/Centre to be referred.</p>
