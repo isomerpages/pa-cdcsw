@@ -41,6 +41,8 @@ expenses.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/What We Do/For Caregivers/https___go_gov_sg_southwestcaregiversupportfund__1_.png">
 </div>
 <p>go.gov.sg/southwestcaregiversupportfund</p>
-<p>&nbsp;</p>
 <p>Or visit your nearest Commmunity Centre/Club for assistance.</p>
-<p>Download the South West Caregiver Support Fund poster here [link to EDM].</p>
+<p>Download the South West Caregiver Support Fund poster <a href="/files/What we do/For Caregivers/FA_SWCDC___Caregiver_Support_Fund___EDM_Revised.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p></p>
+<p></p>
