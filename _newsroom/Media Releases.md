@@ -4,7 +4,7 @@ permalink: /newsroom/media-releases/
 description: ""
 variant: markdown
 ---
-**5 Jul 2026**
+**5 Jul 2026** [SOUTH WEST CDC AND HAO REN HAO SHI ENHANCE MOBILE GROCERIES @ SOUTH WEST WITH $400,000 WORTH OF GROCERIES AND ESSENTIAL ITEMS FOR VULNERABLE FAMILIES](/files/Media%20Release/MR%202026/2026_07_05___post_media_release___enhanced_mobile_groceries___south_west.pdf)
 
 
 **19 May 2026** [FROM CAMPUS TO COMMUNITY: STUDENTS PILOT REAL-WORLD SOLUTIONS ON THE GROUND](/files/Media%20Release/MR%202026/Post_Media_Release___South_West_Community_Inno_Lab_Symposium.pdf)
