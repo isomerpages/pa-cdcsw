@@ -25,6 +25,8 @@ the programme, residents can:&nbsp;</p>
 <p></p>
 </li>
 </ul>
+<p></p><a class="isomer-image-wrapper" href="go.gov.sg/jobsnearbycdc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png"></a>
+<p></p>
 <p>Check out the <strong>Jobs and Skills Resource List </strong>offered by
 agencies and partners <a href="/files/Skills_and_Career_Help_Resources.pdf" rel="noopener nofollow" target="_blank">here.</a>
 </p>
