@@ -23,7 +23,7 @@ the programme, residents can:&nbsp;</p>
 <li>
 <p>Connect with potential employers at <strong>Community Job Clinics</strong>.&nbsp;</p>
 <p></p>
-<p></p><a class="isomer-image-wrapper" href="go.gov.sg/jobsnearbyswcdc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://goodjobs.com.sg/jobsnearbysouthwestcdc"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.png"></a>
 </li>
 </ul>
 <p>Check out the <strong>Jobs and Skills Resource List </strong>offered by
