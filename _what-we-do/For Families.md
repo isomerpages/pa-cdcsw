@@ -17,4 +17,3 @@ a) Reside in South West District;
 b) Have at least one (1) parent who is a Singapore citizen; and
 
 c) Child must be under two (2) years old at time of application.
-
