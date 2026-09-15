@@ -2,6 +2,7 @@
 title: For Families
 permalink: /what-we-do/for-families/
 description: ""
+variant: markdown
 ---
 **Baby Blisscard @ South West**
 
@@ -17,4 +18,3 @@ b) Have at least one (1) parent who is a Singapore citizen; and
 
 c) Child must be under two (2) years old at time of application.
 
-Click [here](https://go.gov.sg/babyblisscard ) to apply for Baby Blisscard @ South West.
